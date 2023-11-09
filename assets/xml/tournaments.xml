@@ -1,0 +1,6410 @@
+﻿<?xml version="1.0"  encoding="UTF-8"?>
+<MAP>
+<T id="1">
+	<LVL>1_1,1_2,1_3</LVL>
+	<SPEED>6,6,6</SPEED>
+	<FILL_RATE>0.3,0.2,0.2</FILL_RATE>
+</T>
+<T id="2">
+	<LVL>2_1,2_2,2_3</LVL>
+	<FILL_RATE>0.4,0.4,0.4</FILL_RATE>
+	<SPEED>6,6,6</SPEED>
+</T>
+<T id="3">
+	<LVL>3_1,3_2,3_3</LVL>
+	<SPEED>5.5,5.5,5.5</SPEED>
+</T>
+<T id="4">
+	<LVL>4_1,4_2,4_3</LVL>
+	<SPEED>6.0,5.5,5.0</SPEED>
+</T>
+<T id="5">
+	<LVL>5_1,5_2,5_3</LVL>
+	<SPEED>4.1,4,5.3</SPEED>
+</T>
+<T id="6">
+	<LVL>6_1,6_2,6_3</LVL>
+	<SPEED>4.75,4.25,6.25</SPEED>
+</T>
+<T id="7">
+	<LVL>7_1,7_2,7_3</LVL>
+	<SPEED>4.0,3.2,3.9</SPEED>
+</T>
+<T id="8">
+	<LVL>8_1,8_2,8_3</LVL>
+	<SPEED>4.4,4.2,3.7</SPEED>
+</T>
+<T id="9">
+	<LVL>9_1,9_2,9_3</LVL>
+	<SPEED>4,3.5,3.5</SPEED>
+</T>
+<T id="10">
+<LVL>10_1,10_2,10_3</LVL>
+<SPEED>3.7,3.7,4.0</SPEED>
+</T>
+<T id="11">
+<LVL>11_1,11_2,11_3</LVL>
+<SPEED>3.75,3.35,4.6</SPEED>
+</T>
+<T id="12">
+<LVL>12,13,14</LVL>
+<SPEED>3.3,3.7,3.3</SPEED>
+</T>
+<T id="13">
+<LVL>15,16,17</LVL>
+<SPEED>3,2.1,3</SPEED>
+</T>
+<T id="14">
+<LVL>18,19,20</LVL>
+<SPEED>4.75,3.25,5.05</SPEED>
+</T>
+
+<T id="15">
+<LVL>21,22,23</LVL>
+<SPEED>3.0,3.0,3.0</SPEED>
+</T>
+<T id="16">
+<LVL>24,25,26</LVL>
+<SPEED>5,4.5,4.5</SPEED>
+</T>
+<T id="17">
+<LVL>27,28,29</LVL>
+<SPEED>6.65,5.65,5.25</SPEED>
+</T>
+<T id="18">
+<LVL>30,31,32</LVL>
+<SPEED>5.15,2.4,4.55</SPEED>
+</T>
+<T id="19">
+<LVL>33,34,35</LVL>
+<SPEED>2.7,2.7,4.3</SPEED>
+</T>
+<T id="20"> <!-- последний туториал -->
+<LVL>36,37,38</LVL>
+<SPEED>11.0,2.7,6.0</SPEED>
+</T>
+
+
+
+<T id="21">
+<LVL>157,178,381</LVL>
+<SPEED>7.2,5.25,5.25</SPEED>
+</T>
+<T id="22">
+<LVL>349,271,298</LVL>
+<SPEED>5.95,5.15,10.25</SPEED>
+</T>
+<T id="23">
+<LVL>598,212,434</LVL>
+<SPEED>2.4,2.8,3.8</SPEED>
+</T>
+<T id="24">
+<LVL>40,502,413</LVL>
+<SPEED>5.35,4.95,5.85</SPEED>
+</T>
+<T id="25">
+<LVL>341,38,581</LVL>
+<SPEED>6.5,5.1,5.3</SPEED>
+</T>
+<T id="26">
+<LVL>365,291,318</LVL>
+<SPEED>5.25,5.75,5.25</SPEED>
+</T>
+<T id="27">
+<LVL>133,140,390</LVL>
+<SPEED>4,5.15,5.25</SPEED>
+</T>
+<T id="28">
+<LVL>400,93,430</LVL>
+<SPEED>6.25,8.25,8.0</SPEED>
+</T>
+<T id="29">
+<LVL>346,190,266</LVL>
+<SPEED>5,7.4,4.8</SPEED>
+</T>
+<T id="30">
+<LVL>312,397,90</LVL>
+<SPEED>4.95,5.6,4.6</SPEED>
+</T>
+<T id="31">
+<LVL>224,332,143</LVL>
+<SPEED>3.0,2.2,2.5</SPEED>
+</T>
+<T id="32">
+<LVL>446,437,103</LVL>
+<SPEED>4.7,4.1,4.6</SPEED>
+</T>
+<T id="33">
+<LVL>445,574,209</LVL>
+<SPEED>13.0,4.25,4.85</SPEED>
+</T>
+<T id="34">
+<LVL>110,52,285</LVL>
+<SPEED>5.5,4.4,6.0</SPEED>
+</T>
+<T id="35">
+<LVL>428,595,319</LVL>
+<SPEED>4.0,4.0,4.85</SPEED>
+</T>
+<T id="36">
+<LVL>368,333,111</LVL>
+<SPEED>3.3,3.2,2.25</SPEED>
+</T>
+<T id="37">
+<LVL>511,187,217</LVL>
+<SPEED>5.3,8.7,9.9</SPEED>
+</T>
+<T id="38">
+<LVL>422,529,76</LVL>
+<SPEED>8.0,6.9,3.75</SPEED>
+</T>
+<T id="39">
+<LVL>108,366,384</LVL>
+<SPEED>6.6,5.4,3.1</SPEED>
+</T>
+<T id="40">
+<LVL>66,523,380</LVL>
+<SPEED>5.0,4.5,3.15</SPEED>
+</T>
+<T id="41">
+<LVL>484,567,137</LVL>
+<SPEED>2.55,3.2,2.1</SPEED>
+</T>
+<T id="42">
+<LVL>208,235,363</LVL>
+<SPEED>5.7,4.0,3.5</SPEED>
+</T>
+<T id="43">
+<LVL>169,295,373</LVL>
+<SPEED>12.5,7.7,4.1</SPEED>
+</T>
+<T id="44">
+<LVL>329,561,391</LVL>
+<SPEED>4.0,2.85,3.3</SPEED>
+</T>
+<T id="45">
+<LVL>227,220,279</LVL>
+<SPEED>3.3,3.2,7.0</SPEED>
+</T>
+<T id="46">
+<LVL>369,307,351</LVL>
+<SPEED>4.5,4.5,3.25</SPEED>
+</T>
+<T id="47">
+<LVL>216,432,147</LVL>
+<SPEED>9.5,5.7,3.6</SPEED>
+</T>
+<T id="48">
+<LVL>228,482,233</LVL>
+<SPEED>4.9,6.0,14</SPEED>
+</T>
+<T id="49">
+<LVL>468,591,438</LVL>
+<SPEED>3.7,4.6,4.0</SPEED>
+</T>
+<T id="50">
+<LVL>123,204,425</LVL>
+<SPEED>11.0,2.6,3.0</SPEED>
+</T>
+<T id="51">
+<LVL>247,218,306</LVL>
+<SPEED>16.0,9.5,15.0</SPEED>
+</T>
+<T id="52">
+<LVL>95,273,42</LVL>
+<SPEED>4.1,4.8,3.2</SPEED>
+</T>
+<T id="53">
+<LVL>350,359,440</LVL>
+<SPEED>3.5,4.7,2.9</SPEED>
+</T>
+<T id="54">
+<LVL>548,493,497</LVL>
+<SPEED>2.7,3.0,4.1</SPEED>
+</T>
+<T id="55">
+<LVL>305,337,251</LVL>
+<SPEED>3.7,3.5,6.2</SPEED>
+</T>
+<T id="56">
+<LVL>448,560,145</LVL>
+<SPEED>3.3,4.8,5.9</SPEED>
+</T>
+<T id="57">
+<LVL>106,146,538</LVL>
+<SPEED>2.5,3.3,2.3</SPEED>
+</T>
+<T id="58">
+<LVL>461,119,300</LVL>
+<SPEED>3.2,3.0,4.2</SPEED>
+</T>
+<T id="59">
+<LVL>466,250,155</LVL>
+<SPEED>4.3,14.0,33.0</SPEED>
+</T>
+<T id="60">
+<LVL>420,142,315</LVL>
+<SPEED>3.8,3.8,3.8</SPEED>
+</T>
+<T id="61">
+<LVL>73,389,408</LVL>
+<SPEED>3.3,7.0,5.5</SPEED>
+</T>
+<T id="62">
+<LVL>276,485,498</LVL>
+<SPEED>16,4.8,6.0</SPEED>
+</T>
+<T id="63">
+<LVL>442,565,544</LVL>
+<SPEED>2.9,3.3,2.9</SPEED>
+</T>
+<T id="64">
+<LVL>396,462,564</LVL>
+<SPEED>3.75,5.2,3.75</SPEED>
+</T>
+<T id="65">
+<LVL>403,470,478</LVL>
+<SPEED>5.1,2.8,2.7</SPEED>
+</T>
+<T id="66">
+<LVL>310,94,161</LVL>
+<SPEED>29.0,7.0,6.0</SPEED>
+</T>
+<T id="67">
+<LVL>163,138,168</LVL>
+<SPEED>5.6,5.0,3.8</SPEED>
+</T>
+<T id="68">
+<LVL>193,245,293</LVL>
+<SPEED>5.3,4.55,4.9</SPEED>
+</T>
+<T id="69">
+<LVL>597,238,274</LVL>
+<SPEED>3.3,4.95,7.2</SPEED>
+</T>
+<T id="70">
+<LVL>172,230,125</LVL>
+<SPEED>3.6,3.7,3.4</SPEED>
+</T>
+<T id="71">
+<LVL>460,416,70</LVL>
+<SPEED>3.7,3.5,4.0</SPEED>
+</T>
+<T id="72">
+<LVL>113,568,69</LVL>
+<SPEED>8.5,3.9,3.9</SPEED>
+</T>
+<T id="73">
+<LVL>313,555,367</LVL>
+<SPEED>3.6,4.1,3.8</SPEED>
+</T>
+<T id="74">
+<LVL>186,152,311</LVL>
+<SPEED>9.0,11.0,4.6</SPEED>
+</T>
+<T id="75">
+<LVL>221,540,489</LVL>
+<SPEED>6.0,3.0,3.2</SPEED>
+</T>
+<T id="76">
+<LVL>53,340,414</LVL>
+<SPEED>2.7,2.6,3.0</SPEED>
+</T>
+<T id="77">
+<LVL>530,162,394</LVL>
+<SPEED>3.0,2.8,2.8</SPEED>
+</T>
+<T id="78">
+<LVL>236,289,252</LVL>
+<SPEED>6.5,5.1,3.4</SPEED>
+</T>
+<T id="79">
+<LVL>112,572,196</LVL>
+<SPEED>3.9,6.9,3.3</SPEED>
+</T>
+<T id="80">
+<LVL>552,281,290</LVL>
+<SPEED>3.7,4.25,9.0</SPEED>
+</T>
+<T id="81">
+<LVL>44,77,189</LVL>
+<SPEED>4.3,2.5,3.6</SPEED>
+</T>
+<T id="82">
+<LVL>441,483,361</LVL>
+<SPEED>5.2,2.6,2.9</SPEED>
+</T>
+<T id="83">
+<LVL>191,277,83</LVL>
+<SPEED>4.0,3.7,4.9</SPEED>
+</T>
+<T id="84">
+<LVL>39,532,288</LVL>
+<SPEED>4.3,5.5,4.1</SPEED>
+</T>
+<T id="85">
+<LVL>557,219,100</LVL>
+<SPEED>3.0,5.6,3.5</SPEED>
+</T>
+<T id="86">
+<LVL>60,184,439</LVL>
+<SPEED>5.0,3.8,4.5</SPEED>
+</T>
+<T id="87">
+<LVL>496,556,513</LVL>
+<SPEED>4.5,1.7,2.5</SPEED>
+</T>
+<T id="88">
+<LVL>435,449,47</LVL>
+<SPEED>3.6,2.0,5.3</SPEED>
+</T>
+<T id="89">
+<LVL>202,194,265</LVL>
+<SPEED>3.9,14.3,6.9</SPEED>
+</T>
+<T id="90">
+<LVL>180,512,126</LVL>
+<SPEED>7.0,4.5,7.0</SPEED>
+</T>
+<T id="91">
+<LVL>415,105,596</LVL>
+<SPEED>2.8,4.2,2.6</SPEED>
+</T>
+<T id="92">
+<LVL>476,132,102</LVL>
+<SPEED>4.25,4.25,4.25</SPEED>
+</T>
+<T id="93">
+<LVL>411,377,336</LVL>
+<SPEED>2.5,3.0,2.5</SPEED>
+</T>
+<T id="94">
+<LVL>166,226,486</LVL>
+<SPEED>5.5,3.0,3.0</SPEED>
+</T>
+<T id="95">
+<LVL>412,316,303</LVL>
+<SPEED>3.8,4.5,6.0</SPEED>
+</T>
+<T id="96">
+<LVL>504,348,588</LVL>
+<SPEED>3.7,3.8,4.25</SPEED>
+</T>
+<T id="97">
+<LVL>57,115,587</LVL>
+<SPEED>3.0,4.0,4.0</SPEED>
+</T>
+<T id="98">
+<LVL>509,308,436</LVL>
+<SPEED>4.6,5.4,3.7</SPEED>
+</T>
+<T id="99">
+<LVL>570,562,317</LVL>
+<SPEED>4.0,3.9,3.2</SPEED>
+</T>
+<T id="100">
+<LVL>402,378,388</LVL>
+<SPEED>2.9,3.1,3.1</SPEED>
+</T>
+<T id="101">
+<LVL>418,104,528</LVL>
+<SPEED>5.0,3.6,3.2</SPEED>
+</T>
+<T id="102">
+<LVL>278,534,526</LVL>
+<SPEED>4.1,5.1,3.8</SPEED>
+</T>
+<T id="103">
+<LVL>284,479,524</LVL>
+<SPEED>4.5,2.5,11.0</SPEED>
+</T>
+<T id="104">
+<LVL>292,566,481</LVL>
+<SPEED>5.25,4.0,4.0</SPEED>
+</T>
+<T id="105">
+<LVL>379,79,203</LVL>
+<SPEED>3.2,2.2,3.0</SPEED>
+</T>
+<T id="106">
+<LVL>517,244,158</LVL>
+<SPEED>4.65,9,4.25</SPEED>
+</T>
+<T id="107">
+<LVL>456,376,214</LVL>
+<SPEED>5.25,4.25,7.0</SPEED>
+</T>
+<T id="108">
+<LVL>503,91,198</LVL>
+<SPEED>6.3,5.0,5.2</SPEED>
+</T>
+<T id="109">
+<LVL>231,593,583</LVL>
+<SPEED>3.7,3.5,2.0</SPEED>
+</T>
+<T id="110">
+<LVL>260,201,364</LVL>
+<SPEED>3.7,8.5,4.9</SPEED>
+</T>
+<T id="111">
+<LVL>210,426,63</LVL>
+<SPEED>5.3,4.7,4.7</SPEED>
+</T>
+<T id="112">
+<LVL>535,520,590</LVL>
+<SPEED>1.1,4.0,2.7</SPEED>
+</T>
+<T id="113">
+<LVL>304,64,358</LVL>
+<SPEED>6.0,3.2,3.1</SPEED>
+</T>
+<T id="114">
+<LVL>569,387,328</LVL>
+<SPEED>7.0,2.0,2.5</SPEED>
+</T>
+<T id="115">
+<LVL>392,353,516</LVL>
+<SPEED>1.7,3.0,2.6</SPEED>
+</T>
+<T id="116">
+<LVL>299,471,399</LVL>
+<SPEED>6.0,3.0,3.0</SPEED>
+</T>
+<T id="117">
+<LVL>576,320,551</LVL>
+<SPEED>4.4,3.3,1.8</SPEED>
+</T>
+<T id="118">
+<LVL>338,222,382</LVL>
+<SPEED>3.8,6.5,3.8</SPEED>
+</T>
+<T id="119">
+<LVL>546,80,181</LVL>
+<SPEED>2.6,3.0,4.7</SPEED>
+</T>
+<T id="120">
+<LVL>101,88,406</LVL>
+<SPEED>3.5,5.5,5.0</SPEED>
+</T>
+<T id="121">
+<LVL>256,454,259</LVL>
+<SPEED>3.8,3.0,3.0</SPEED>
+</T>
+<T id="122">
+<LVL>424,525,401</LVL>
+<SPEED>4.2,3.2,3.4</SPEED>
+</T>
+<T id="123">
+<LVL>67,501,211</LVL>
+<SPEED>2.4,3.6,4.2</SPEED>
+</T>
+<T id="124">
+<LVL>120,257,75</LVL>
+<SPEED>2.8,7.0,4.5</SPEED>
+</T>
+<T id="125">
+<LVL>253,323,473</LVL>
+<SPEED>7.1,3.8,3.4</SPEED>
+</T>
+<T id="126">
+<LVL>352,339,580</LVL>
+<SPEED>5.0,4.0,5.3</SPEED>
+</T>
+<T id="127">
+<LVL>65,585,450</LVL>
+<SPEED>3.5,3.2,2.9</SPEED>
+</T>
+<T id="128">
+<LVL>330,370,81</LVL>
+<SPEED>5.1,3.25,3.25</SPEED>
+</T>
+<T id="129">
+<LVL>433,444,248</LVL>
+<SPEED>7.7,5.5,6.0</SPEED>
+</T>
+<T id="130">
+<LVL>573,423,592</LVL>
+<SPEED>7.2,4.1,3.75</SPEED>
+</T>
+<T id="131">
+<LVL>334,584,242</LVL>
+<SPEED>3.0,3.2,3.2</SPEED>
+</T>
+<T id="132">
+<LVL>395,127,499</LVL>
+<SPEED>4.25,5.25,5.5</SPEED>
+</T>
+<T id="133">
+<LVL>164,309,474</LVL>
+<SPEED>3.1,3.5,4.0</SPEED>
+</T>
+<T id="134">
+<LVL>243,582,443</LVL>
+<SPEED>3.5,4.9,3.75</SPEED>
+</T>
+<T id="135">
+<LVL>472,357,55</LVL>
+<SPEED>3.2,2.8,2.8</SPEED>
+</T>
+<T id="136">
+<LVL>518,514,321</LVL>
+<SPEED>14.0,10,4.0</SPEED>
+</T>
+<T id="137">
+<LVL>45,429,475</LVL>
+<SPEED>4.9,2.5,3.0</SPEED>
+</T>
+<T id="138">
+<LVL>82,372,264</LVL>
+<SPEED>4.4,3.25,3.25</SPEED>
+</T>
+<T id="139">
+<LVL>547,549,268</LVL>
+<SPEED>3.0,3.7,3.25</SPEED>
+</T>
+<T id="140">
+<LVL>122,121,575</LVL>
+<SPEED>4.25,2.8,3.0</SPEED>
+</T>
+<T id="141">
+<LVL>343,492,232</LVL>
+<SPEED>2.9,5.25,5.0</SPEED>
+</T>
+<T id="142">
+<LVL>153,254,48</LVL>
+<SPEED>3.2,5.1,4.8</SPEED>
+</T>
+<T id="143">
+<LVL>109,98,409</LVL>
+<SPEED>3.25,4.0,3.0</SPEED>
+</T>
+<T id="144">
+<LVL>431,118,59</LVL>
+<SPEED>2.9,2.1,5.0</SPEED>
+</T>
+<T id="145">
+<LVL>407,542,240</LVL>
+<SPEED>2.5,1.6,3.25</SPEED>
+</T>
+<T id="146">
+<LVL>331,594,533</LVL>
+<SPEED>4.5,3.6,8.0</SPEED>
+</T>
+<T id="147">
+<LVL>447,558,262</LVL>
+<SPEED>4.9,3.6,6.3</SPEED>
+</T>
+<T id="148">
+<LVL>205,200,531</LVL>
+<SPEED>5.25,5.25,11.0</SPEED>
+</T>
+<T id="149">
+<LVL>183,54,494</LVL>
+<SPEED>13.3,3.8,4.2</SPEED>
+</T>
+<T id="150">
+<LVL>124,175,536</LVL>
+<SPEED>3.25,3.9,2.4</SPEED>
+</T>
+<T id="151">
+<LVL>550,506,87</LVL>
+<SPEED>3.25,6.0,7.2</SPEED>
+</T>
+<T id="152">
+<LVL>477,386,239</LVL>
+<SPEED>2.8,2.4,5.0</SPEED>
+</T>
+<T id="153">
+<LVL>325,455,579</LVL>
+<SPEED>2.7,4.5,3.25</SPEED>
+</T>
+<T id="154">
+<LVL>223,427,131</LVL>
+<SPEED>3.6,3.2,4.25</SPEED>
+</T>
+<T id="155">
+<LVL>192,452,148</LVL>
+<SPEED>3.0,2.0,3.3</SPEED>
+</T>
+<T id="156">
+<LVL>419,170,46</LVL>
+<SPEED>6.25,4.0,6.5</SPEED>
+</T>
+<T id="157">
+<LVL>577,234,421</LVL>
+<SPEED>2.6,1.7,3.25</SPEED>
+</T>
+<T id="158">
+<LVL>543,272,296</LVL>
+<SPEED>2.4,2.5,4.5</SPEED>
+</T>
+<T id="159">
+<LVL>297,355,302</LVL>
+<SPEED>5.3,2.9,6.5</SPEED>
+</T>
+<T id="160">
+<LVL>141,510,491</LVL>
+<SPEED>3.2,3.25,3.2</SPEED>
+</T>
+<T id="161">
+<LVL>139,37,89</LVL>
+<SPEED>4.25,2.0,2.2</SPEED>
+</T>
+<T id="162">
+<LVL>197,417,116</LVL>
+<SPEED>4.0,3.0,3.5</SPEED>
+</T>
+<T id="163">
+<LVL>342,215,287</LVL>
+<SPEED>3.3,3.8,3.5</SPEED>
+</T>
+<T id="164">
+<LVL>58,74,154</LVL>
+<SPEED>4.5,3.25,7.5</SPEED>
+</T>
+<T id="165">
+<LVL>44,185,156</LVL>
+<SPEED>3.5,5.25,2.0</SPEED>
+</T>
+<T id="166">
+<LVL>559,410,99</LVL>
+<SPEED>4.5,2.2,3.1</SPEED>
+</T>
+<T id="167">
+<LVL>267,258,206</LVL>
+<SPEED>6.4,5.4,6.0</SPEED>
+</T>
+<T id="168">
+<LVL>129,375,487</LVL>
+<SPEED>2.8,2.5,2.0</SPEED>
+</T>
+<T id="169">
+<LVL>488,160,360</LVL>
+<SPEED>3.5,4.0,2.4</SPEED>
+</T>
+<T id="170">
+<LVL>563,149,134</LVL>
+<SPEED>2.7,4.8,4.6</SPEED>
+</T>
+<T id="171">
+<LVL>354,84,49</LVL>
+<SPEED>3.0,2.75,3.0</SPEED>
+</T>
+<T id="172">
+<LVL>117,326,246</LVL>
+<SPEED>3.1,2.7,2.5</SPEED>
+</T>
+<T id="173">
+<LVL>283,500,150</LVL>
+<SPEED>8.0,4.0,2.5</SPEED>
+</T>
+<T id="174">
+<LVL>545,507,515</LVL>
+<SPEED>2.1,2.9,2.6</SPEED>
+</T>
+<T id="175">
+<LVL>522,72,179</LVL>
+<SPEED>7.0,3.25,3.25</SPEED>
+</T>
+<T id="176">
+<LVL>589,174,97</LVL>
+<SPEED>2.6,4.0,4.0</SPEED>
+</T>
+<T id="177">
+<LVL>541,519,173</LVL>
+<SPEED>2.0,4.0,3.25</SPEED>
+</T>
+<T id="178">
+<LVL>255,385,453</LVL>
+<SPEED>4.1,3.25,2.9</SPEED>
+</T>
+<T id="179">
+<LVL>322,398,199</LVL>
+<SPEED>3.4,3.25,4.8</SPEED>
+</T>
+<T id="180">
+<LVL>128,345,176</LVL>
+<SPEED>2.5,3.25,5.25</SPEED>
+</T>
+<T id="181">
+<LVL>195,467,554</LVL>
+<SPEED>3.0,2.4,3.0</SPEED>
+</T>
+<T id="182">
+<LVL>62,275,144</LVL>
+<SPEED>3.5,3.3,3.5</SPEED>
+</T>
+<T id="183">
+<LVL>374,280,314</LVL>
+<SPEED>2.9,3.5,2.9</SPEED>
+</T>
+<T id="184">
+<LVL>451,229,171</LVL>
+<SPEED>3.5,3.5,3.0</SPEED>
+</T>
+<T id="185">
+<LVL>43,270,324</LVL>
+<SPEED>4.4,4.5,3.5</SPEED>
+</T>
+<T id="186">
+<LVL>159,344,130</LVL>
+<SPEED>7.0,3.1,4.3</SPEED>
+</T>
+<T id="187">
+<LVL>539,86,599</LVL>
+<SPEED>2.2,3.9,3.4</SPEED>
+</T>
+<T id="188">
+<LVL>237,177,571</LVL>
+<SPEED>3.2,2.5,2.6</SPEED>
+</T>
+<T id="189">
+<LVL>521,527,85</LVL>
+<SPEED>7.0,9.0,4.2</SPEED>
+</T>
+<T id="190">
+<LVL>362,458,165</LVL>
+<SPEED>1.9,3.4,2.5</SPEED>
+</T>
+<T id="191">
+<LVL>188,495,136</LVL>
+<SPEED>8.0,4.2,2.5</SPEED>
+</T>
+<T id="192">
+<LVL>578,464,480</LVL>
+<SPEED>2.4,1.6,2.1</SPEED>
+</T>
+<T id="193">
+<LVL>586,404,383</LVL>
+<SPEED>3.5,2.2,2.2</SPEED>
+</T>
+<T id="194">
+<LVL>51,469,301</LVL>
+<SPEED>2.0,4.0,7.0</SPEED>
+</T>
+<T id="195">
+<LVL>490,327,457</LVL>
+<SPEED>3.0,2.4,2.3</SPEED>
+</T>
+<T id="196">
+<LVL>114,465,393</LVL>
+<SPEED>1.3,1.9,3.5</SPEED>
+</T>
+<T id="197">
+<LVL>459,263,537</LVL>
+<SPEED>3.2,2.6,1.4</SPEED>
+</T>
+<T id="198">
+<LVL>207,505,347</LVL>
+<SPEED>3.5,5.1,2.0</SPEED>
+</T>
+<T id="199">
+<LVL>92,135,371</LVL>
+<SPEED>3.1,3.3,3.5</SPEED>
+</T>
+<T id="200">
+<LVL>50,71,356</LVL>
+<SPEED>3.0,2.5,2.6</SPEED>
+</T>
+<T id="201">
+<LVL>286,167,269</LVL>
+<SPEED>10.0,5.0,6.0</SPEED>
+</T>
+<T id="202">
+<LVL>68,78,508</LVL>
+<SPEED>3.9,3.5,4.0</SPEED>
+</T>
+<T id="203">
+<LVL>225,405,261</LVL>
+<SPEED>3.5,3.5,6.2</SPEED>
+</T>
+<T id="204">
+<LVL>294,241,553</LVL>
+<SPEED>5.2,4.0,3.0</SPEED>
+</T>
+<T id="205">
+<LVL>335,282,463</LVL>
+<SPEED>3.0,3.0,3.1</SPEED>
+</T>
+<T id="206">
+<LVL>174,551,544</LVL>
+<SPEED>2.8,1.5,1.8</SPEED>
+</T>
+<T id="207">
+<LVL>373,306,315</LVL>
+<SPEED>3.8,9.0,3.3</SPEED>
+</T>
+<T id="208">
+<LVL>146,74,412</LVL>
+<SPEED>4.6,3.0,2.6</SPEED>
+</T>
+<T id="209">
+<LVL>110,122,108</LVL>
+<SPEED>5.0,5.5,4.5</SPEED>
+</T>
+<T id="210">
+<LVL>190,585,325</LVL>
+<SPEED>6.0,3.5,3.3</SPEED>
+</T>
+<T id="211">
+<LVL>556,520,76</LVL>
+<SPEED>2.0,3.4,3.1</SPEED>
+</T>
+<T id="212">
+<LVL>545,164,53</LVL>
+<SPEED>2.2,2.5,1.9</SPEED>
+</T>
+<T id="213">
+<LVL>298,37,548</LVL>
+<SPEED>3.1,1.8,2.3</SPEED>
+</T>
+<T id="214">
+<LVL>452,356,364</LVL>
+<SPEED>3.0,3.5,4.8</SPEED>
+</T>
+<T id="215">
+<LVL>410,86,272</LVL>
+<SPEED>2.8,3.5,1.9</SPEED>
+</T>
+<T id="216">
+<LVL>176,343,215</LVL>
+<SPEED>4.7,2.8,3.5</SPEED>
+</T>
+<T id="217">
+<LVL>233,186,168</LVL>
+<SPEED>16.0,8.0,3.0</SPEED>
+</T>
+<T id="218">
+<LVL>478,194,256</LVL>
+<SPEED>3.1,8.0,3.1</SPEED>
+</T>
+<T id="219">
+<LVL>85,587,430</LVL>
+<SPEED>3.0,4.0,6.0</SPEED>
+</T>
+<T id="220">
+<LVL>64,541,497</LVL>
+<SPEED>2.9,1.6,3.2</SPEED>
+</T>
+<T id="221">
+<LVL>501,94,232</LVL>
+<SPEED>4.0,4.7,4.2</SPEED>
+</T>
+<T id="222">
+<LVL>595,228,175</LVL>
+<SPEED>2.5,4.3,5.0</SPEED>
+</T>
+<T id="223">
+<LVL>208,537,576</LVL>
+<SPEED>3.5,2.5,3.5</SPEED>
+</T>
+<T id="224">
+<LVL>393,559,539</LVL>
+<SPEED>3.4,3.3,2.3</SPEED>
+</T>
+<T id="225">
+<LVL>116,505,290</LVL>
+<SPEED>5.6,4.0,6.5</SPEED>
+</T>
+<T id="226">
+<LVL>366,216,529</LVL>
+<SPEED>6.6,8.1,4.6</SPEED>
+</T>
+<T id="227">
+<LVL>45,447,413</LVL>
+<SPEED>5.7,4.0,3.5</SPEED>
+</T>
+<T id="228">
+<LVL>411,139,379</LVL>
+<SPEED>2.5,4.0,3.6</SPEED>
+</T>
+<T id="229">
+<LVL>485,464,552</LVL>
+<SPEED>3.7,1.7,3.1</SPEED>
+</T>
+<T id="230">
+<LVL>336,67,489</LVL>
+<SPEED>1.7,2.0,3.3</SPEED>
+</T>
+<T id="231">
+<LVL>463,431,498</LVL>
+<SPEED>3.5,3.0,4.5</SPEED>
+</T>
+<T id="232">
+<LVL>543,448,244</LVL>
+<SPEED>2.0,2.8,5.5</SPEED>
+</T>
+<T id="233">
+<LVL>162,531,381</LVL>
+<SPEED>2.7,13.0,4.2</SPEED>
+</T>
+<T id="234">
+<LVL>211,509,313</LVL>
+<SPEED>3.5,3.4,3.3</SPEED>
+</T>
+<T id="235">
+<LVL>172,240,450</LVL>
+<SPEED>3.7,3.5,1.9</SPEED>
+</T>
+<T id="236">
+<LVL>209,435,518</LVL>
+<SPEED>4.0,3.5,9.0</SPEED>
+</T>
+<T id="237">
+<LVL>98,388,297</LVL>
+<SPEED>4.3,3.5,4.0</SPEED>
+</T>
+<T id="238">
+<LVL>293,519,296</LVL>
+<SPEED>6.3,4.5,3.2</SPEED>
+</T>
+<T id="239">
+<LVL>199,196,165</LVL>
+<SPEED>5.0,2.8,2.4</SPEED>
+</T>
+<T id="240">
+<LVL>427,200,511</LVL>
+<SPEED>3.0,4.0,3.2</SPEED>
+</T>
+<T id="241">
+<LVL>212,523,69</LVL>
+<SPEED>2.3,2.9,3.1</SPEED>
+</T>
+<T id="242">
+<LVL>370,352,345</LVL>
+<SPEED>3.2,3.4,3.0</SPEED>
+</T>
+<T id="243">
+<LVL>342,217,303</LVL>
+<SPEED>3.8,9.5,5.3</SPEED>
+</T>
+<T id="244">
+<LVL>355,395,329</LVL>
+<SPEED>2.5,2.8,2.8</SPEED>
+</T>
+<T id="245">
+<LVL>469,333,79</LVL>
+<SPEED>3.5,2.8,2.7</SPEED>
+</T>
+<T id="246">
+<LVL>147,487,48</LVL>
+<SPEED>3.4,2.9,4.0</SPEED>
+</T>
+<T id="247">
+<LVL>328,160,43</LVL>
+<SPEED>2.7,3.9,3.1</SPEED>
+</T>
+<T id="248">
+<LVL>482,206,371</LVL>
+<SPEED>5.1,7.0,3.5</SPEED>
+</T>
+<T id="249">
+<LVL>111,239,201</LVL>
+<SPEED>1.8,8.0,7.0</SPEED>
+</T>
+<T id="250">
+<LVL>569,188,321</LVL>
+<SPEED>10.0,6.6,3.6</SPEED>
+</T>
+<T id="251">
+<LVL>301,512,532</LVL>
+<SPEED>8.0,3.5,4.7</SPEED>
+</T>
+<T id="252">
+<LVL>550,359,594</LVL>
+<SPEED>2.2,4.3,2.7</SPEED>
+</T>
+<T id="253">
+<LVL>129,396,138</LVL>
+<SPEED>3.5,2.6,4.0</SPEED>
+</T>
+<T id="254">
+<LVL>278,406,115</LVL>
+<SPEED>3.5,4.6,3.5</SPEED>
+</T>
+<T id="255">
+<LVL>142,299,377</LVL>
+<SPEED>3.7,5.7,3.8</SPEED>
+</T>
+<T id="256">
+<LVL>471,515,491</LVL>
+<SPEED>3.4,2.2,2.8</SPEED>
+</T>
+<T id="257">
+<LVL>191,210,577</LVL>
+<SPEED>4.2,3.4,2.5</SPEED>
+</T>
+<T id="258">
+<LVL>307,55,442</LVL>
+<SPEED>3.5,3.1,3.1</SPEED>
+</T>
+<T id="259">
+<LVL>113,141,130</LVL>
+<SPEED>15.7,2.9,4.1</SPEED>
+</T>
+<T id="260">
+<LVL>112,560,433</LVL>
+<SPEED>3.4,2.8,5.0</SPEED>
+</T>
+<T id="261">
+<LVL>357,583,77</LVL>
+<SPEED>2.6,1.7,2.0</SPEED>
+</T>
+<T id="262">
+<LVL>367,273,499</LVL>
+<SPEED>4.0,5.1,5.2</SPEED>
+</T>
+<T id="263">
+<LVL>197,280,220</LVL>
+<SPEED>3.4,3.1,2.9</SPEED>
+</T>
+<T id="264">
+<LVL>579,242,474</LVL>
+<SPEED>3.6,3.5,3.6</SPEED>
+</T>
+<T id="265">
+<LVL>480,243,184</LVL>
+<SPEED>1.8,3.0,3.2</SPEED>
+</T>
+<T id="266">
+<LVL>300,245,383</LVL>
+<SPEED>5.0,3.4,2.3</SPEED>
+</T>
+<T id="267">
+<LVL>285,51,214</LVL>
+<SPEED>5.1,2.7,6.0</SPEED>
+</T>
+<T id="268">
+<LVL>472,387,166</LVL>
+<SPEED>3.5,2.4,4.0</SPEED>
+</T>
+<T id="269">
+<LVL>361,363,88</LVL>
+<SPEED>2.5,2.3,6.9</SPEED>
+</T>
+<T id="270">
+<LVL>102,246,488</LVL>
+<SPEED>3.2,2.3,2.5</SPEED>
+</T>
+<T id="271">
+<LVL>578,295,434</LVL>
+<SPEED>3.2,6.0,2.0</SPEED>
+</T>
+<T id="272">
+<LVL>131,149,230</LVL>
+<SPEED>5.4,4.2,3.5</SPEED>
+</T>
+<T id="273">
+<LVL>114,408,504</LVL>
+<SPEED>1.7,4.3,2.8</SPEED>
+</T>
+<T id="274">
+<LVL>549,50,125</LVL>
+<SPEED>3.7,2.5,2.8</SPEED>
+</T>
+<T id="275">
+<LVL>148,288,380</LVL>
+<SPEED>3.4,3.3,2.8</SPEED>
+</T>
+<T id="276">
+<LVL>437,121,268</LVL>
+<SPEED>2.7,2.3,3.0</SPEED>
+</T>
+<T id="277">
+<LVL>517,326,477</LVL>
+<SPEED>3.5,2.9,2.0</SPEED>
+</T>
+<T id="278">
+<LVL>557,305,322</LVL>
+<SPEED>2.8,2.7,2.9</SPEED>
+</T>
+<T id="279">
+<LVL>372,335,558</LVL>
+<SPEED>2.7,3.1,2.1</SPEED>
+</T>
+<T id="280">
+<LVL>506,155,446</LVL>
+<SPEED>7.8,11.0,3.0</SPEED>
+</T>
+<T id="281">
+<LVL>59,436,458</LVL>
+<SPEED>4.9,3.4,3.5</SPEED>
+</T>
+<T id="282">
+<LVL>254,163,123</LVL>
+<SPEED>4.3,5.0,6.0</SPEED>
+</T>
+<T id="283">
+<LVL>276,60,80</LVL>
+<SPEED>14.0,4.5,2.3</SPEED>
+</T>
+<T id="284">
+<LVL>237,250,152</LVL>
+<SPEED>3.9,4.9,7.0</SPEED>
+</T>
+<T id="285">
+<LVL>103,318,338</LVL>
+<SPEED>4.2,2.9,2.8</SPEED>
+</T>
+<T id="286">
+<LVL>422,353,490</LVL>
+<SPEED>5.5,2.5,2.5</SPEED>
+</T>
+<T id="287">
+<LVL>257,195,334</LVL>
+<SPEED>5.1,3.0,2.3</SPEED>
+</T>
+<T id="288">
+<LVL>441,524,264</LVL>
+<SPEED>6.5,9.0,3.5</SPEED>
+</T>
+<T id="289">
+<LVL>525,339,533</LVL>
+<SPEED>2.2,4.2,9.5</SPEED>
+</T>
+<T id="290">
+<LVL>132,49,171</LVL>
+<SPEED>4.5,3.0,3.0</SPEED>
+</T>
+<T id="291">
+<LVL>309,247,269</LVL>
+<SPEED>4.5,10.0,6.6</SPEED>
+</T>
+<T id="292">
+<LVL>134,384,161</LVL>
+<SPEED>6.0,2.7,3.0</SPEED>
+</T>
+<T id="293">
+<LVL>503,493,394</LVL>
+<SPEED>4.7,3.0,3.0</SPEED>
+</T>
+<T id="294">
+<LVL>91,65,414</LVL>
+<SPEED>2.5,3.5,2.7</SPEED>
+</T>
+<T id="295">
+<LVL>598,535,145</LVL>
+<SPEED>2.8,2.5,3.7</SPEED>
+</T>
+<T id="296">
+<LVL>42,109,566</LVL>
+<SPEED>2.3,3.7,3.0</SPEED>
+</T>
+<T id="297">
+<LVL>530,118,467</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="298">
+<LVL>274,84,304</LVL>
+<SPEED>10.0,3.5,5.0</SPEED>
+</T>
+<T id="299">
+<LVL>390,573,167</LVL>
+<SPEED>3.0,4.6,3.4</SPEED>
+</T>
+<T id="300">
+<LVL>291,221,405</LVL>
+<SPEED>6.5,6.2,3.3</SPEED>
+</T>
+<T id="301">
+<LVL>302,502,44</LVL>
+<SPEED>8.4,3.3,3.3</SPEED>
+</T>
+<T id="302">
+<LVL>279,54,584</LVL>
+<SPEED>5.5,3.4,3.0</SPEED>
+</T>
+<T id="303">
+<LVL>101,89,143</LVL>
+<SPEED>2.4,2.5,2.6</SPEED>
+</T>
+<T id="304">
+<LVL>475,71,462</LVL>
+<SPEED>3.3,3.5,5.5</SPEED>
+</T>
+<T id="305">
+<LVL>189,586,421</LVL>
+<SPEED>3.6,3.7,3.4</SPEED>
+</T>
+<T id="306">
+<LVL>119,401,66</LVL>
+<SPEED>2.5,3.2,3.3</SPEED>
+</T>
+<T id="307">
+<LVL>265,536,202</LVL>
+<SPEED>5.0,1.7,3.2</SPEED>
+</T>
+<T id="308">
+<LVL>153,52,136</LVL>
+<SPEED>2.0,3.1,2.1</SPEED>
+</T>
+<T id="309">
+<LVL>81,492,354</LVL>
+<SPEED>3.6,3.9,3.5</SPEED>
+</T>
+<T id="310">
+<LVL>398,555,596</LVL>
+<SPEED>2.5,3.5,2.5</SPEED>
+</T>
+<T id="311">
+<LVL>593,283,203</LVL>
+<SPEED>3.0,7.5,2.5</SPEED>
+</T>
+<T id="312">
+<LVL>415,179,403</LVL>
+<SPEED>2.5,3.0,3.3</SPEED>
+</T>
+<T id="313">
+<LVL>444,332,407</LVL>
+<SPEED>4.0,1.7,2.7</SPEED>
+</T>
+<T id="314">
+<LVL>267,513,241</LVL>
+<SPEED>7.1,2.2,3.2</SPEED>
+</T>
+<T id="315">
+<LVL>156,392,424</LVL>
+<SPEED>2.0,2.0,3.1</SPEED>
+</T>
+<T id="316">
+<LVL>178,588,180</LVL>
+<SPEED>3.5,5.1,4.9</SPEED>
+</T>
+<T id="317">
+<LVL>561,496,389</LVL>
+<SPEED>2.9,3.6,6.0</SPEED>
+</T>
+<T id="318">
+<LVL>261,572,440</LVL>
+<SPEED>9.0,6.8,2.3</SPEED>
+</T>
+<T id="319">
+<LVL>258,574,63</LVL>
+<SPEED>5.6,3.5,4.4</SPEED>
+</T>
+<T id="320">
+<LVL>582,177,599</LVL>
+<SPEED>4.0,2.6,2.9</SPEED>
+</T>
+<T id="321">
+<LVL>330,234,72</LVL>
+<SPEED>4.5,2.4,3.5</SPEED>
+</T>
+<T id="322">
+<LVL>484,420,140</LVL>
+<SPEED>3.0,3.1,3.5</SPEED>
+</T>
+<T id="323">
+<LVL>527,311,144</LVL>
+<SPEED>12.0,4.6,3.5</SPEED>
+</T>
+<T id="324">
+<LVL>417,547,324</LVL>
+<SPEED>2.1,1.7,3.3</SPEED>
+</T>
+<T id="325">
+<LVL>312,445,522</LVL>
+<SPEED>4.2,7.5,5.4</SPEED>
+</T>
+<T id="326">
+<LVL>423,317,133</LVL>
+<SPEED>4.7,2.5,1.3</SPEED>
+</T>
+<T id="327">
+<LVL>385,451,470</LVL>
+<SPEED>3.8,2.2,2.5</SPEED>
+</T>
+<T id="328">
+<LVL>589,150,597</LVL>
+<SPEED>2.0,2.0,1.6</SPEED>
+</T>
+<T id="329">
+<LVL>369,231,222</LVL>
+<SPEED>4.0,3.6,6.5</SPEED>
+</T>
+<T id="330">
+<LVL>294,486,542</LVL>
+<SPEED>4.5,2.5,1.5</SPEED>
+</T>
+<T id="331">
+<LVL>374,564,526</LVL>
+<SPEED>2.7,3.0,3.0</SPEED>
+</T>
+<T id="332">
+<LVL>223,47,418</LVL>
+<SPEED>4.0,4.8,3.7</SPEED>
+</T>
+<T id="333">
+<LVL>316,419,508</LVL>
+<SPEED>5.0,5.0,4.0</SPEED>
+</T>
+<T id="334">
+<LVL>282,378,456</LVL>
+<SPEED>3.8,3.0,3.6</SPEED>
+</T>
+<T id="335">
+<LVL>351,157,263</LVL>
+<SPEED>3.2,3.5,2.8</SPEED>
+</T>
+<T id="336">
+<LVL>92,57,426</LVL>
+<SPEED>3.1,2.6,3.5</SPEED>
+</T>
+<T id="337">
+<LVL>425,173,466</LVL>
+<SPEED>2.9,3.4,1.5</SPEED>
+</T>
+<T id="338">
+<LVL>400,90,68</LVL>
+<SPEED>3.6,3.0,3.0</SPEED>
+</T>
+<T id="339">
+<LVL>270,271,538</LVL>
+<SPEED>4.8,3.5,2.0</SPEED>
+</T>
+<T id="340">
+<LVL>235,120,346</LVL>
+<SPEED>2.7,2.0,1.8</SPEED>
+</T>
+<T id="341">
+<LVL>567,126,483</LVL>
+<SPEED>3.5,4.9,2.9</SPEED>
+</T>
+<T id="342">
+<LVL>292,248,327</LVL>
+<SPEED>6.7,4.3,2.7</SPEED>
+</T>
+<T id="343">
+<LVL>224,204,58</LVL>
+<SPEED>2.8,2.6,2.7</SPEED>
+</T>
+<T id="344">
+<LVL>397,476,479</LVL>
+<SPEED>3.0,2.8,1.7</SPEED>
+</T>
+<T id="345">
+<LVL>62,227,376</LVL>
+<SPEED>4.0,2.7,2.4</SPEED>
+</T>
+<T id="346">
+<LVL>170,465,453</LVL>
+<SPEED>2.9,1.5,1.9</SPEED>
+</T>
+<T id="347">
+<LVL>185,350,565</LVL>
+<SPEED>6.0,2.9,3.7</SPEED>
+</T>
+<T id="348">
+<LVL>266,457,534</LVL>
+<SPEED>2.5,2.1,3.1</SPEED>
+</T>
+<T id="349">
+<LVL>82,127,310</LVL>
+<SPEED>4.6,4.5,6.2</SPEED>
+</T>
+<T id="350">
+<LVL>481,362,341</LVL>
+<SPEED>3.0,2.0,3.0</SPEED>
+</T>
+<T id="351">
+<LVL>207,284,105</LVL>
+<SPEED>3.4,3.4,3.0</SPEED>
+</T>
+<T id="352">
+<LVL>128,416,454</LVL>
+<SPEED>2.9,2.8,2.8</SPEED>
+</T>
+<T id="353">
+<LVL>289,391,460</LVL>
+<SPEED>4.0,2.6,3.0</SPEED>
+</T>
+<T id="354">
+<LVL>159,358,40</LVL>
+<SPEED>8.0,2.3,3.2</SPEED>
+</T>
+<T id="355">
+<LVL>106,275,117</LVL>
+<SPEED>2.0,2.4,2.5</SPEED>
+</T>
+<T id="356">
+<LVL>320,500,568</LVL>
+<SPEED>3.0,3.8,2.2</SPEED>
+</T>
+<T id="357">
+<LVL>75,402,252</LVL>
+<SPEED>3.9,2.3,2.9</SPEED>
+</T>
+<T id="358">
+<LVL>382,360,198</LVL>
+<SPEED>2.9,2.6,4.3</SPEED>
+</T>
+<T id="359">
+<LVL>225,277,409</LVL>
+<SPEED>3.2,3.2,2.8</SPEED>
+</T>
+<T id="360">
+<LVL>39,510,70</LVL>
+<SPEED>3.5,3.5,3.1</SPEED>
+</T>
+<T id="361">
+<LVL>591,323,349</LVL>
+<SPEED>4.4,3.5,3.5</SPEED>
+</T>
+<T id="362">
+<LVL>563,281,404</LVL>
+<SPEED>2.5,2.9,2.6</SPEED>
+</T>
+<T id="363">
+<LVL>399,553,219</LVL>
+<SPEED>2.8,3.0,4.0</SPEED>
+</T>
+<T id="364">
+<LVL>158,514,570</LVL>
+<SPEED>6.3,8.0,3.0</SPEED>
+</T>
+<T id="365">
+<LVL>93,286,429</LVL>
+<SPEED>4.2,4.1,3.0</SPEED>
+</T>
+<T id="366">
+<LVL>100,580,473</LVL>
+<SPEED>3.5,4.5,3.2</SPEED>
+</T>
+<T id="367">
+<LVL>259,253,461</LVL>
+<SPEED>2.5,5.0,3.0</SPEED>
+</T>
+<T id="368">
+<LVL>449,337,592</LVL>
+<SPEED>1.4,2.7,2.9</SPEED>
+</T>
+<T id="369">
+<LVL>468,255,540</LVL>
+<SPEED>2.0,4.2,2.0</SPEED>
+</T>
+<T id="370">
+<LVL>365,137,562</LVL>
+<SPEED>3.1,1.6,2.9</SPEED>
+</T>
+<T id="371">
+<LVL>193,183,226</LVL>
+<SPEED>5.2,9.0,2.8</SPEED>
+</T>
+<T id="372">
+<LVL>459,347,331</LVL>
+<SPEED>4.0,6.0,2.9</SPEED>
+</T>
+<T id="373">
+<LVL>554,44,135</LVL>
+<SPEED>3.2,3.6,2.4</SPEED>
+</T>
+<T id="374">
+<LVL>590,181,386</LVL>
+<SPEED>2.5,3.7,2.2</SPEED>
+</T>
+<T id="375">
+<LVL>154,95,260</LVL>
+<SPEED>8.0,3.7,2.9</SPEED>
+</T>
+<T id="376">
+<LVL>319,368,438</LVL>
+<SPEED>5.1,2.8,2.5</SPEED>
+</T>
+<T id="377">
+<LVL>205,38,287</LVL>
+<SPEED>3.5,3.5,3.8</SPEED>
+</T>
+<T id="378">
+<LVL>229,83,521</LVL>
+<SPEED>6.4,3.8,4.0</SPEED>
+</T>
+<T id="379">
+<LVL>124,238,507</LVL>
+<SPEED>2.5,3.4,2.5</SPEED>
+</T>
+<T id="380">
+<LVL>495,443,348</LVL>
+<SPEED>5.8,3.4,2.9</SPEED>
+</T>
+<T id="381">
+<LVL>262,494,375</LVL>
+<SPEED>8.0,3.7,2.7</SPEED>
+</T>
+<T id="382">
+<LVL>218,546,78</LVL>
+<SPEED>3.7,1.5,2.8</SPEED>
+</T>
+<T id="383">
+<LVL>187,340,236</LVL>
+<SPEED>6.0,3.0,4.5</SPEED>
+</T>
+<T id="384">
+<LVL>97,432,344</LVL>
+<SPEED>4.0,4.0,3.2</SPEED>
+</T>
+<T id="385">
+<LVL>575,192,571</LVL>
+<SPEED>2.1,2.1,2.6</SPEED>
+</T>
+<T id="386">
+<LVL>528,516,428</LVL>
+<SPEED>2.2,2.1,2.2</SPEED>
+</T>
+<T id="387">
+<LVL>314,169,439</LVL>
+<SPEED>2.2,6.5,5.4</SPEED>
+</T>
+<T id="388">
+<LVL>455,581,99</LVL>
+<SPEED>5.0,4.0,2.0</SPEED>
+</T>
+<T id="389">
+<LVL>308,87,46</LVL>
+<SPEED>7.7,5.4,6.0</SPEED>
+</T>
+<T id="390">
+<LVL>104,73,251</LVL>
+<SPEED>3.5,2.4,5.1</SPEED>
+</T>
+<T id="391">
+<LVL>86,344,523</LVL>
+<SPEED>5.0,3.0,3.0</SPEED>
+</T>
+<T id="392">
+<LVL>536,84,517</LVL>
+<SPEED>2.0,3.0,2.8</SPEED>
+</T>
+<T id="393">
+<LVL>119,46,540</LVL>
+<SPEED>2.6,5.5,2.1</SPEED>
+</T>
+<T id="394">
+<LVL>484,237,598</LVL>
+<SPEED>2.5,2.5,1.7</SPEED>
+</T>
+<T id="395">
+<LVL>265,424,499</LVL>
+<SPEED>8.5,4.6,5.3</SPEED>
+</T>
+<T id="396">
+<LVL>261,333,512</LVL>
+<SPEED>6.3,3.0,2.8</SPEED>
+</T>
+<T id="397">
+<LVL>409,581,207</LVL>
+<SPEED>3.5,3.7,2.5</SPEED>
+</T>
+<T id="398">
+<LVL>69,158,184</LVL>
+<SPEED>3.9,4.9,3.0</SPEED>
+</T>
+<T id="399">
+<LVL>252,258,511</LVL>
+<SPEED>4.0,4.1,3.5</SPEED>
+</T>
+<T id="400">
+<LVL>488,129,552</LVL>
+<SPEED>3.2,2.8,2.5</SPEED>
+</T>
+<T id="401">
+<LVL>254,48,544</LVL>
+<SPEED>4.2,4.7,1.5</SPEED>
+</T>
+<T id="402">
+<LVL>404,588,433</LVL>
+<SPEED>1.9,4.2,4.9</SPEED>
+</T>
+<T id="403">
+<LVL>174,360,195</LVL>
+<SPEED>4.0,2.8,3.0</SPEED>
+</T>
+<T id="404">
+<LVL>399,121,496</LVL>
+<SPEED>2.7,1.8,2.7</SPEED>
+</T>
+<T id="405">
+<LVL>285,435,444</LVL>
+<SPEED>4.1,3.2,3.3</SPEED>
+</T>
+<T id="406">
+<LVL>246,469,515</LVL>
+<SPEED>2.1,3.5,2.2</SPEED>
+</T>
+<T id="407">
+<LVL>257,146,429</LVL>
+<SPEED>8.5,4.0,2.3</SPEED>
+</T>
+<T id="408">
+<LVL>506,556,190</LVL>
+<SPEED>5.0,1.5,5.8</SPEED>
+</T>
+<T id="409">
+<LVL>398,71,592</LVL>
+<SPEED>2.7,2.5,2.7</SPEED>
+</T>
+<T id="410">
+<LVL>251,255,519</LVL>
+<SPEED>6.0,5.8,3.7</SPEED>
+</T>
+<T id="411">
+<LVL>427,210,239</LVL>
+<SPEED>3.0,3.8,3.6</SPEED>
+</T>
+<T id="412">
+<LVL>397,175,416</LVL>
+<SPEED>3.5,4.3,3.4</SPEED>
+</T>
+<T id="413">
+<LVL>485,530,291</LVL>
+<SPEED>4.0,3.3,4.3</SPEED>
+</T>
+<T id="414">
+<LVL>94,343,57</LVL>
+<SPEED>5.4,2.2,2.0</SPEED>
+</T>
+<T id="415">
+<LVL>356,305,403</LVL>
+<SPEED>3.2,3.3,4.1</SPEED>
+</T>
+<T id="416">
+<LVL>78,178,513</LVL>
+<SPEED>3.6,2.5,2.0</SPEED>
+</T>
+<T id="417">
+<LVL>193,562,354</LVL>
+<SPEED>3.5,3.0,3.0</SPEED>
+</T>
+<T id="418">
+<LVL>47,386,555</LVL>
+<SPEED>4.6,2.2,3.5</SPEED>
+</T>
+<T id="419">
+<LVL>487,44,212</LVL>
+<SPEED>2.2,3.1,2.3</SPEED>
+</T>
+<T id="420">
+<LVL>101,310,572</LVL>
+<SPEED>3.2,11.0,5.0</SPEED>
+</T>
+<T id="421">
+<LVL>451,164,198</LVL>
+<SPEED>2.4,3.4,3.5</SPEED>
+</T>
+<T id="422">
+<LVL>82,91,205</LVL>
+<SPEED>3.7,3.0,3.5</SPEED>
+</T>
+<T id="423">
+<LVL>168,498,355</LVL>
+<SPEED>3.7,3.5,3.3</SPEED>
+</T>
+<T id="424">
+<LVL>439,524,500</LVL>
+<SPEED>5.5,10.5,5.0</SPEED>
+</T>
+<T id="425">
+<LVL>372,425,103</LVL>
+<SPEED>3.1,2.8,3.4</SPEED>
+</T>
+<T id="426">
+<LVL>108,247,525</LVL>
+<SPEED>5.4,4.9,2.0</SPEED>
+</T>
+<T id="427">
+<LVL>516,323,289</LVL>
+<SPEED>2.7,3.0,4.0</SPEED>
+</T>
+<T id="428">
+<LVL>479,302,176</LVL>
+<SPEED>2.5,5.9,3.8</SPEED>
+</T>
+<T id="429">
+<LVL>480,596,463</LVL>
+<SPEED>2.0,2.2,2.3</SPEED>
+</T>
+<T id="430">
+<LVL>509,338,186</LVL>
+<SPEED>3.8,3.3,4.1</SPEED>
+</T>
+<T id="431">
+<LVL>65,159,124</LVL>
+<SPEED>4.5,6.0,2.8</SPEED>
+</T>
+<T id="432">
+<LVL>599,189,85</LVL>
+<SPEED>3.2,3.1,3.2</SPEED>
+</T>
+<T id="433">
+<LVL>358,575,180</LVL>
+<SPEED>2.8,2.7,4.5</SPEED>
+</T>
+<T id="434">
+<LVL>545,346,250</LVL>
+<SPEED>2.4,2.4,3.5</SPEED>
+</T>
+<T id="435">
+<LVL>374,375,443</LVL>
+<SPEED>2.3,2.2,3.0</SPEED>
+</T>
+<T id="436">
+<LVL>199,529,125</LVL>
+<SPEED>5.5,5.3,2.5</SPEED>
+</T>
+<T id="437">
+<LVL>228,379,181</LVL>
+<SPEED>3.3,3.5,4.3</SPEED>
+</T>
+<T id="438">
+<LVL>325,238,275</LVL>
+<SPEED>1.9,2.6,2.5</SPEED>
+</T>
+<T id="439">
+<LVL>216,266,75</LVL>
+<SPEED>5.5,2.9,3.3</SPEED>
+</T>
+<T id="440">
+<LVL>383,565,521</LVL>
+<SPEED>2.2,4.0,4.0</SPEED>
+</T>
+<T id="441">
+<LVL>112,171,290</LVL>
+<SPEED>3.0,2.5,5.0</SPEED>
+</T>
+<T id="442">
+<LVL>364,561,295</LVL>
+<SPEED>5.5,2.5,5.1</SPEED>
+</T>
+<T id="443">
+<LVL>282,539,312</LVL>
+<SPEED>3.3,2.1,2.9</SPEED>
+</T>
+<T id="444">
+<LVL>192,367,144</LVL>
+<SPEED>2.3,3.3,3.3</SPEED>
+</T>
+<T id="445">
+<LVL>410,260,293</LVL>
+<SPEED>2.6,3.0,3.6</SPEED>
+</T>
+<T id="446">
+<LVL>421,163,428</LVL>
+<SPEED>3.3,4.0,2.9</SPEED>
+</T>
+<T id="447">
+<LVL>317,128,229</LVL>
+<SPEED>3.5,2.8,3.9</SPEED>
+</T>
+<T id="448">
+<LVL>187,472,227</LVL>
+<SPEED>6.2,3.5,2.0</SPEED>
+</T>
+<T id="449">
+<LVL>136,493,66</LVL>
+<SPEED>2.5,2.8,3.2</SPEED>
+</T>
+<T id="450">
+<LVL>547,582,468</LVL>
+<SPEED>2.2,3.6,2.1</SPEED>
+</T>
+<T id="451">
+<LVL>434,303,532</LVL>
+<SPEED>2.4,5.4,4.0</SPEED>
+</T>
+<T id="452">
+<LVL>232,117,406</LVL>
+<SPEED>5.0,2.5,4.6</SPEED>
+</T>
+<T id="453">
+<LVL>222,45,569</LVL>
+<SPEED>14.0,5.5,7.0</SPEED>
+</T>
+<T id="454">
+<LVL>476,172,170</LVL>
+<SPEED>3.0,3.4,3.0</SPEED>
+</T>
+<T id="455">
+<LVL>445,457,371</LVL>
+<SPEED>7.5,1.8,3.3</SPEED>
+</T>
+<T id="456">
+<LVL>368,541,389</LVL>
+<SPEED>2.8,1.5,5.5</SPEED>
+</T>
+<T id="457">
+<LVL>131,284,98</LVL>
+<SPEED>5.2,3.4,3.5</SPEED>
+</T>
+<T id="458">
+<LVL>152,173,430</LVL>
+<SPEED>7.6,3.5,4.7</SPEED>
+</T>
+<T id="459">
+<LVL>473,191,122</LVL>
+<SPEED>4.2,3.6,3.7</SPEED>
+</T>
+<T id="460">
+<LVL>235,113,153</LVL>
+<SPEED>3.7,8.0,2.0</SPEED>
+</T>
+<T id="461">
+<LVL>264,452,320</LVL>
+<SPEED>4.5,2.0,2.3</SPEED>
+</T>
+<T id="462">
+<LVL>59,448,482</LVL>
+<SPEED>5.2,2.0,4.1</SPEED>
+</T>
+<T id="463">
+<LVL>270,277,215</LVL>
+<SPEED>6.5,3.8,2.8</SPEED>
+</T>
+<T id="464">
+<LVL>586,53,504</LVL>
+<SPEED>2.5,2.0,2.7</SPEED>
+</T>
+<T id="465">
+<LVL>115,402,243</LVL>
+<SPEED>3.2,2.2,2.2</SPEED>
+</T>
+<T id="466">
+<LVL>133,221,52</LVL>
+<SPEED>2.3,6.4,2.4</SPEED>
+</T>
+<T id="467">
+<LVL>309,306,369</LVL>
+<SPEED>3.5,7.2,3.5</SPEED>
+</T>
+<T id="468">
+<LVL>51,447,268</LVL>
+<SPEED>1.7,4.2,2.6</SPEED>
+</T>
+<T id="469">
+<LVL>185,283,267</LVL>
+<SPEED>6.1,6.8,6.7</SPEED>
+</T>
+<T id="470">
+<LVL>298,490,357</LVL>
+<SPEED>3.0,3.0,3.0</SPEED>
+</T>
+<T id="471">
+<LVL>109,39,202</LVL>
+<SPEED>3.3,3.6,2.5</SPEED>
+</T>
+<T id="472">
+<LVL>225,554,72</LVL>
+<SPEED>3.3,2.8,3.1</SPEED>
+</T>
+<T id="473">
+<LVL>388,341,387</LVL>
+<SPEED>2.6,2.6,1.9</SPEED>
+</T>
+<T id="474">
+<LVL>88,137,177</LVL>
+<SPEED>5.0,1.7,2.0</SPEED>
+</T>
+<T id="475">
+<LVL>405,351,376</LVL>
+<SPEED>2.3,1.9,2.1</SPEED>
+</T>
+<T id="476">
+<LVL>474,139,259</LVL>
+<SPEED>3.0,4.0,2.4</SPEED>
+</T>
+<T id="477">
+<LVL>585,279,286</LVL>
+<SPEED>3.7,6.1,7.5</SPEED>
+</T>
+<T id="478">
+<LVL>297,508,314</LVL>
+<SPEED>4.4,2.9,2.1</SPEED>
+</T>
+<T id="479">
+<LVL>160,118,230</LVL>
+<SPEED>4.3,2.1,3.3</SPEED>
+</T>
+<T id="480">
+<LVL>557,578,236</LVL>
+<SPEED>3.0,3.3,3.8</SPEED>
+</T>
+<T id="481">
+<LVL>574,418,361</LVL>
+<SPEED>4.2,4.2,1.9</SPEED>
+</T>
+<T id="482">
+<LVL>327,206,580</LVL>
+<SPEED>2.2,6.8,4.0</SPEED>
+</T>
+<T id="483">
+<LVL>120,87,467</LVL>
+<SPEED>2.5,5.2,2.1</SPEED>
+</T>
+<T id="484">
+<LVL>68,80,535</LVL>
+<SPEED>3.0,1.8,1.0</SPEED>
+</T>
+<T id="485">
+<LVL>269,156,549</LVL>
+<SPEED>6.5,2.0,2.6</SPEED>
+</T>
+<T id="486">
+<LVL>145,134,311</LVL>
+<SPEED>6.5,4.0,3.6</SPEED>
+</T>
+<T id="487">
+<LVL>377,253,450</LVL>
+<SPEED>3.5,4.0,2.3</SPEED>
+</T>
+<T id="488">
+<LVL>328,105,95</LVL>
+<SPEED>2.2,2.7,2.6</SPEED>
+</T>
+<T id="489">
+<LVL>70,114,412</LVL>
+<SPEED>2.1,1.7,2.5</SPEED>
+</T>
+<T id="490">
+<LVL>155,449,335</LVL>
+<SPEED>4.7,3.0,3.0</SPEED>
+</T>
+<T id="491">
+<LVL>384,334,522</LVL>
+<SPEED>2.8,2.6,4.5</SPEED>
+</T>
+<T id="492">
+<LVL>520,564,526</LVL>
+<SPEED>3.3,3.5,3.5</SPEED>
+</T>
+<T id="493">
+<LVL>414,477,483</LVL>
+<SPEED>3.6,2.5,2.0</SPEED>
+</T>
+<T id="494">
+<LVL>276,559,135</LVL>
+<SPEED>7.0,3.3,2.8</SPEED>
+</T>
+<T id="495">
+<LVL>104,533,319</LVL>
+<SPEED>3.5,7.5,3.5</SPEED>
+</T>
+<T id="496">
+<LVL>461,558,308</LVL>
+<SPEED>3.0,3.5,5.0</SPEED>
+</T>
+<T id="497">
+<LVL>332,359,460</LVL>
+<SPEED>2.0,3.5,2.7</SPEED>
+</T>
+<T id="498">
+<LVL>491,542,438</LVL>
+<SPEED>2.0,1.6,2.3</SPEED>
+</T>
+<T id="499">
+<LVL>381,385,263</LVL>
+<SPEED>5.5,3.0,2.2</SPEED>
+</T>
+<T id="500">
+<LVL>471,392,209</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="501">
+<LVL>224,422,132</LVL>
+<SPEED>3.2,4.2,3.5</SPEED>
+</T>
+<T id="502">
+<LVL>93,423,593</LVL>
+<SPEED>3.3,4.2,2.4</SPEED>
+</T>
+<T id="503">
+<LVL>126,307,543</LVL>
+<SPEED>8.0,3.0,2.0</SPEED>
+</T>
+<T id="504">
+<LVL>560,413,54</LVL>
+<SPEED>3.3,5.0,3.0</SPEED>
+</T>
+<T id="505">
+<LVL>464,62,331</LVL>
+<SPEED>1.5,2.8,3.0</SPEED>
+</T>
+<T id="506">
+<LVL>201,79,363</LVL>
+<SPEED>7.0,2.2,1.9</SPEED>
+</T>
+<T id="507">
+<LVL>390,454,437</LVL>
+<SPEED>2.8,2.6,2.7</SPEED>
+</T>
+<T id="508">
+<LVL>211,97,465</LVL>
+<SPEED>4.5,3.3,2.0</SPEED>
+</T>
+<T id="509">
+<LVL>200,280,141</LVL>
+<SPEED>3.9,3.6,2.3</SPEED>
+</T>
+<T id="510">
+<LVL>167,130,590</LVL>
+<SPEED>2.7,3.4,2.5</SPEED>
+</T>
+<T id="511">
+<LVL>64,466,583</LVL>
+<SPEED>2.5,1.4,1.5</SPEED>
+</T>
+<T id="512">
+<LVL>458,442,111</LVL>
+<SPEED>2.9,2.1,1.5</SPEED>
+</T>
+<T id="513">
+<LVL>231,110,347</LVL>
+<SPEED>3.5,3.8,5.0</SPEED>
+</T>
+<T id="514">
+<LVL>391,203,77</LVL>
+<SPEED>2.4,1.7,2.5</SPEED>
+</T>
+<T id="515">
+<LVL>584,577,419</LVL>
+<SPEED>3.5,2.6,4.7</SPEED>
+</T>
+<T id="516">
+<LVL>116,299,44</LVL>
+<SPEED>4.1,3.7,3.7</SPEED>
+</T>
+<T id="517">
+<LVL>502,313,362</LVL>
+<SPEED>3.2,1.9,1.8</SPEED>
+</T>
+<T id="518">
+<LVL>214,288,63</LVL>
+<SPEED>9.0,4.0,4.0</SPEED>
+</T>
+<T id="519">
+<LVL>420,366,492</LVL>
+<SPEED>3.7,5.0,5.2</SPEED>
+</T>
+<T id="520">
+<LVL>352,100,123</LVL>
+<SPEED>4.3,3.7,4.4</SPEED>
+</T>
+<T id="521">
+<LVL>43,42,278</LVL>
+<SPEED>3.2,2.0,2.7</SPEED>
+</T>
+<T id="522">
+<LVL>566,339,571</LVL>
+<SPEED>3.1,2.6,2.5</SPEED>
+</T>
+<T id="523">
+<LVL>432,219,147</LVL>
+<SPEED>3.6,3.2,2.7</SPEED>
+</T>
+<T id="524">
+<LVL>401,102,365</LVL>
+<SPEED>3.7,2.3,2.6</SPEED>
+</T>
+<T id="525">
+<LVL>462,538,248</LVL>
+<SPEED>5.2,2.0,3.4</SPEED>
+</T>
+<T id="526">
+<LVL>568,481,74</LVL>
+<SPEED>2.0,2.9,2.3</SPEED>
+</T>
+<T id="527">
+<LVL>220,441,415</LVL>
+<SPEED>2.2,3.0,2.2</SPEED>
+</T>
+<T id="528">
+<LVL>38,292,345</LVL>
+<SPEED>4.5,5.4,2.3</SPEED>
+</T>
+<T id="529">
+<LVL>382,148,106</LVL>
+<SPEED>2.9,3.6,1.6</SPEED>
+</T>
+<T id="530">
+<LVL>226,573,92</LVL>
+<SPEED>3.0,5.0,2.0</SPEED>
+</T>
+<T id="531">
+<LVL>501,138,407</LVL>
+<SPEED>3.2,3.3,2.1</SPEED>
+</T>
+<T id="532">
+<LVL>478,296,534</LVL>
+<SPEED>2.4,3.7,3.1</SPEED>
+</T>
+<T id="533">
+<LVL>380,579,58</LVL>
+<SPEED>2.5,2.9,2.4</SPEED>
+</T>
+<T id="534">
+<LVL>142,475,594</LVL>
+<SPEED>3.1,3.0,2.2</SPEED>
+</T>
+<T id="535">
+<LVL>218,241,494</LVL>
+<SPEED>5.2,4.0,3.8</SPEED>
+</T>
+<T id="536">
+<LVL>300,271,455</LVL>
+<SPEED>4.0,3.4,3.2</SPEED>
+</T>
+<T id="537">
+<LVL>436,431,587</LVL>
+<SPEED>2.0,3.0,3.0</SPEED>
+</T>
+<T id="538">
+<LVL>81,330,90</LVL>
+<SPEED>3.7,4.1,2.6</SPEED>
+</T>
+<T id="539">
+<LVL>150,489,337</LVL>
+<SPEED>2.2,2.8,2.6</SPEED>
+</T>
+<T id="540">
+<LVL>353,548,143</LVL>
+<SPEED>2.5,2.0,2.0</SPEED>
+</T>
+<T id="541">
+<LVL>208,394,67</LVL>
+<SPEED>2.3,2.3,1.8</SPEED>
+</T>
+<T id="542">
+<LVL>162,76,563</LVL>
+<SPEED>2.5,2.7,2.3</SPEED>
+</T>
+<T id="543">
+<LVL>528,349,531</LVL>
+<SPEED>2.7,5.0,6.0</SPEED>
+</T>
+<T id="544">
+<LVL>370,537,316</LVL>
+<SPEED>2.6,1.6,2.3</SPEED>
+</T>
+<T id="545">
+<LVL>378,322,591</LVL>
+<SPEED>2.2,2.7,4.1</SPEED>
+</T>
+<T id="546">
+<LVL>83,446,89</LVL>
+<SPEED>5.0,2.0,2.8</SPEED>
+</T>
+<T id="547">
+<LVL>233,196,495</LVL>
+<SPEED>5.5,2.8,3.7</SPEED>
+</T>
+<T id="548">
+<LVL>183,459,546</LVL>
+<SPEED>9.1,2.5,1.5</SPEED>
+</T>
+<T id="549">
+<LVL>576,417,396</LVL>
+<SPEED>2.9,2.3,2.1</SPEED>
+</T>
+<T id="550">
+<LVL>570,503,140</LVL>
+<SPEED>3.5,5.3,3.2</SPEED>
+</T>
+<T id="551">
+<LVL>194,553,551</LVL>
+<SPEED>9.0,2.2,1.7</SPEED>
+</T>
+<T id="552">
+<LVL>161,204,336</LVL>
+<SPEED>2.8,2.4,2.0</SPEED>
+</T>
+<T id="553">
+<LVL>274,350,486</LVL>
+<SPEED>7.5,3.1,2.7</SPEED>
+</T>
+<T id="554">
+<LVL>273,589,40</LVL>
+<SPEED>4.0,2.3,2.8</SPEED>
+</T>
+<T id="555">
+<LVL>281,240,411</LVL>
+<SPEED>2.7,2.6,1.5</SPEED>
+</T>
+<T id="556">
+<LVL>315,318,169</LVL>
+<SPEED>3.5,2.5,6.0</SPEED>
+</T>
+<T id="557">
+<LVL>157,550,324</LVL>
+<SPEED>5.5,2.0,2.5</SPEED>
+</T>
+<T id="558">
+<LVL>55,440,294</LVL>
+<SPEED>3.0,2.3,3.9</SPEED>
+</T>
+<T id="559">
+<LVL>348,518,326</LVL>
+<SPEED>3.0,7.5,2.7</SPEED>
+</T>
+<T id="560">
+<LVL>408,340,329</LVL>
+<SPEED>4.0,2.0,2.0</SPEED>
+</T>
+<T id="561">
+<LVL>262,304,99</LVL>
+<SPEED>8.0,5.0,2.7</SPEED>
+</T>
+<T id="562">
+<LVL>245,400,514</LVL>
+<SPEED>4.0,3.7,6.4</SPEED>
+</T>
+<T id="563">
+<LVL>49,373,342</LVL>
+<SPEED>3.5,3.0,2.7</SPEED>
+</T>
+<T id="564">
+<LVL>165,505,244</LVL>
+<SPEED>2.0,3.7,4.2</SPEED>
+</T>
+<T id="565">
+<LVL>234,73,597</LVL>
+<SPEED>2.0,2.2,1.1</SPEED>
+</T>
+<T id="566">
+<LVL>256,60,242</LVL>
+<SPEED>3.0,4.5,2.6</SPEED>
+</T>
+<T id="567">
+<LVL>510,527,287</LVL>
+<SPEED>4.9,8.5,3.6</SPEED>
+</T>
+<T id="568">
+<LVL>301,595,497</LVL>
+<SPEED>8.0,2.2,3.0</SPEED>
+</T>
+<T id="569">
+<LVL>166,456,37</LVL>
+<SPEED>4.1,2.8,1.3</SPEED>
+</T>
+<T id="570">
+<LVL>223,154,321</LVL>
+<SPEED>3.1,6.9,3.1</SPEED>
+</T>
+<T id="571">
+<LVL>507,217,149</LVL>
+<SPEED>3.3,7.0,2.8</SPEED>
+</T>
+<T id="572">
+<LVL>393,470,197</LVL>
+<SPEED>2.5,2.3,3.0</SPEED>
+</T>
+<T id="573">
+<LVL>50,127,395</LVL>
+<SPEED>2.7,2.9,2.4</SPEED>
+</T>
+<T id="574">
+<LVL>426,188,179</LVL>
+<SPEED>3.2,3.9,2.8</SPEED>
+</T>
+<T id="575">
+<LVL>567,453,272</LVL>
+<SPEED>2.3,1.5,1.7</SPEED>
+</T>
+<T id="576">
+<LVL>74,187,69</LVL>
+<SPEED>2.4,3.7,2.1</SPEED>
+</T>
+<T id="577">
+<LVL>143,349,54</LVL>
+<SPEED>3.2,4.5,2.5</SPEED>
+</T>
+<T id="578">
+<LVL>223,485,366</LVL>
+<SPEED>3.6,3.2,2.7</SPEED>
+</T>
+<T id="579">
+<LVL>192,375,362</LVL>
+<SPEED>2.0,1.4,1.4</SPEED>
+</T>
+<T id="580">
+<LVL>100,113,186</LVL>
+<SPEED>3.5,7.8,3.0</SPEED>
+</T>
+<T id="581">
+<LVL>557,85,478</LVL>
+<SPEED>2.0,2.0,2.0</SPEED>
+</T>
+<T id="582">
+<LVL>392,553,52</LVL>
+<SPEED>2.0,2.0,2.5</SPEED>
+</T>
+<T id="583">
+<LVL>488,358,68</LVL>
+<SPEED>2.9,2.8,2.4</SPEED>
+</T>
+<T id="584">
+<LVL>472,273,306</LVL>
+<SPEED>2.8,6.1,6.5</SPEED>
+</T>
+<T id="585">
+<LVL>335,101,281</LVL>
+<SPEED>2.7,2.3,2.5</SPEED>
+</T>
+<T id="586">
+<LVL>62,79,397</LVL>
+<SPEED>3.6,2.0,2.3</SPEED>
+</T>
+<T id="587">
+<LVL>507,278,420</LVL>
+<SPEED>2.8,2.4,2.3</SPEED>
+</T>
+<T id="588">
+<LVL>561,280,256</LVL>
+<SPEED>2.6,3.5,2.6</SPEED>
+</T>
+<T id="589">
+<LVL>438,342,134</LVL>
+<SPEED>2.3,3.5,3.0</SPEED>
+</T>
+<T id="590">
+<LVL>260,76,508</LVL>
+<SPEED>3.2,3.1,3.2</SPEED>
+</T>
+<T id="591">
+<LVL>270,357,237</LVL>
+<SPEED>5.5,2.2,2.3</SPEED>
+</T>
+<T id="592">
+<LVL>562,413,416</LVL>
+<SPEED>2.5,3.5,2.5</SPEED>
+</T>
+<T id="593">
+<LVL>489,487,84</LVL>
+<SPEED>2.6,2.1,2.5</SPEED>
+</T>
+<T id="594">
+<LVL>546,127,44</LVL>
+<SPEED>2.9,3.3,2.9</SPEED>
+</T>
+<T id="595">
+<LVL>189,201,379</LVL>
+<SPEED>3.1,5.5,2.4</SPEED>
+</T>
+<T id="596">
+<LVL>304,486,180</LVL>
+<SPEED>4.0,2.7,3.2</SPEED>
+</T>
+<T id="597">
+<LVL>262,454,59</LVL>
+<SPEED>3.8,3.7,3.8</SPEED>
+</T>
+<T id="598">
+<LVL>78,117,322</LVL>
+<SPEED>2.5,2.2,2.2</SPEED>
+</T>
+<T id="599">
+<LVL>334,382,92</LVL>
+<SPEED>1.8,2.4,2.0</SPEED>
+</T>
+<T id="600">
+<LVL>314,510,128</LVL>
+<SPEED>2.5,2.2,2.2</SPEED>
+</T>
+<T id="601">
+<LVL>47,125,269</LVL>
+<SPEED>5.0,3.1,5.2</SPEED>
+</T>
+<T id="602">
+<LVL>173,93,174</LVL>
+<SPEED>3.3,2.7,3.3</SPEED>
+</T>
+<T id="603">
+<LVL>373,51,545</LVL>
+<SPEED>2.4,1.5,1.5</SPEED>
+</T>
+<T id="604">
+<LVL>533,447,311</LVL>
+<SPEED>9.7,4.7,4.0</SPEED>
+</T>
+<T id="605">
+<LVL>129,94,372</LVL>
+<SPEED>3.1,2.8,3.3</SPEED>
+</T>
+<T id="606">
+<LVL>476,354,106</LVL>
+<SPEED>2.8,2.5,1.8</SPEED>
+</T>
+<T id="607">
+<LVL>251,596,378</LVL>
+<SPEED>3.5,2.2,2.7</SPEED>
+</T>
+<T id="608">
+<LVL>45,144,236</LVL>
+<SPEED>3.7,3.5,3.5</SPEED>
+</T>
+<T id="609">
+<LVL>222,365,433</LVL>
+<SPEED>4.5,2.7,4.8</SPEED>
+</T>
+<T id="610">
+<LVL>327,110,407</LVL>
+<SPEED>2.5,3.0,2.5</SPEED>
+</T>
+<T id="611">
+<LVL>191,287,422</LVL>
+<SPEED>4.0,3.5,2.2</SPEED>
+</T>
+<T id="612">
+<LVL>97,162,450</LVL>
+<SPEED>3.5,2.5,2.0</SPEED>
+</T>
+<T id="613">
+<LVL>393,58,283</LVL>
+<SPEED>3.0,3.7,4.8</SPEED>
+</T>
+<T id="614">
+<LVL>246,203,72</LVL>
+<SPEED>2.5,3.0,3.0</SPEED>
+</T>
+<T id="615">
+<LVL>244,550,90</LVL>
+<SPEED>4.9,2.2,2.9</SPEED>
+</T>
+<T id="616">
+<LVL>172,566,221</LVL>
+<SPEED>3.9,3.9,5.5</SPEED>
+</T>
+<T id="617">
+<LVL>453,548,312</LVL>
+<SPEED>1.7,2.0,2.7</SPEED>
+</T>
+<T id="618">
+<LVL>515,459,149</LVL>
+<SPEED>2.5,3.0,3.0</SPEED>
+</T>
+<T id="619">
+<LVL>359,556,225</LVL>
+<SPEED>2.5,1.1,2.2</SPEED>
+</T>
+<T id="620">
+<LVL>391,452,402</LVL>
+<SPEED>2.1,2.0,2.1</SPEED>
+</T>
+<T id="621">
+<LVL>446,555,197</LVL>
+<SPEED>3.1,3.5,3.0</SPEED>
+</T>
+<T id="622">
+<LVL>121,376,77</LVL>
+<SPEED>1.5,2.2,1.5</SPEED>
+</T>
+<T id="623">
+<LVL>498,261,456</LVL>
+<SPEED>3.8,5.0,3.0</SPEED>
+</T>
+<T id="624">
+<LVL>529,114,491</LVL>
+<SPEED>3.5,1.8,3.0</SPEED>
+</T>
+<T id="625">
+<LVL>577,208,226</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="626">
+<LVL>594,321,102</LVL>
+<SPEED>3.5,2.6,2.2</SPEED>
+</T>
+<T id="627">
+<LVL>71,377,331</LVL>
+<SPEED>1.7,3.0,3.5</SPEED>
+</T>
+<T id="628">
+<LVL>341,215,305</LVL>
+<SPEED>3.5,3.0,2.5</SPEED>
+</T>
+<T id="629">
+<LVL>265,429,336</LVL>
+<SPEED>3.0,2.5,2.5</SPEED>
+</T>
+<T id="630">
+<LVL>564,369,481</LVL>
+<SPEED>2.5,3.5,2.0</SPEED>
+</T>
+<T id="631">
+<LVL>474,154,351</LVL>
+<SPEED>3.5,4.2,2.5</SPEED>
+</T>
+<T id="632">
+<LVL>492,592,437</LVL>
+<SPEED>4.0,2.5,2.5</SPEED>
+</T>
+<T id="633">
+<LVL>123,178,139</LVL>
+<SPEED>4.0,2.4,2.6</SPEED>
+</T>
+<T id="634">
+<LVL>141,583,142</LVL>
+<SPEED>2.1,1.6,1.6</SPEED>
+</T>
+<T id="635">
+<LVL>495,531,216</LVL>
+<SPEED>6.0,8.9,4.5</SPEED>
+</T>
+<T id="636">
+<LVL>563,399,406</LVL>
+<SPEED>2.1,2.1,3.1</SPEED>
+</T>
+<T id="637">
+<LVL>66,595,55</LVL>
+<SPEED>3.0,2.0,2.2</SPEED>
+</T>
+<T id="638">
+<LVL>538,330,350</LVL>
+<SPEED>2.5,3.5,3.5</SPEED>
+</T>
+<T id="639">
+<LVL>63,585,522</LVL>
+<SPEED>5.0,3.0,3.5</SPEED>
+</T>
+<T id="640">
+<LVL>445,385,307</LVL>
+<SPEED>8.0,3.1,3.5</SPEED>
+</T>
+<T id="641">
+<LVL>211,239,138</LVL>
+<SPEED>3.6,3.7,3.3</SPEED>
+</T>
+<T id="642">
+<LVL>444,264,39</LVL>
+<SPEED>3.2,2.7,2.3</SPEED>
+</T>
+<T id="643">
+<LVL>184,368,157</LVL>
+<SPEED>3.6,2.5,3.5</SPEED>
+</T>
+<T id="644">
+<LVL>460,329,124</LVL>
+<SPEED>3.5,2.5,2.5</SPEED>
+</T>
+<T id="645">
+<LVL>381,150,573</LVL>
+<SPEED>3.0,2.0,4.0</SPEED>
+</T>
+<T id="646">
+<LVL>170,414,46</LVL>
+<SPEED>3.5,2.5,4.0</SPEED>
+</T>
+<T id="647">
+<LVL>276,589,176</LVL>
+<SPEED>6.5,2.0,2.5</SPEED>
+</T>
+<T id="648">
+<LVL>449,333,344</LVL>
+<SPEED>2.0,2.5,2.1</SPEED>
+</T>
+<T id="649">
+<LVL>299,559,353</LVL>
+<SPEED>4.5,2.5,2.5</SPEED>
+</T>
+<T id="650">
+<LVL>332,519,167</LVL>
+<SPEED>2.5,2.6,2.6</SPEED>
+</T>
+<T id="651">
+<LVL>475,409,274</LVL>
+<SPEED>3.3,3.3,4.7</SPEED>
+</T>
+<T id="652">
+<LVL>160,161,535</LVL>
+<SPEED>3.5,3.0,2.0</SPEED>
+</T>
+<T id="653">
+<LVL>551,89,116</LVL>
+<SPEED>2.2,2.7,2.7</SPEED>
+</T>
+<T id="654">
+<LVL>511,395,109</LVL>
+<SPEED>2.8,2.7,3.5</SPEED>
+</T>
+<T id="655">
+<LVL>448,345,343</LVL>
+<SPEED>2.2,2.5,2.2</SPEED>
+</T>
+<T id="656">
+<LVL>199,593,580</LVL>
+<SPEED>4.0,2.9,2.9</SPEED>
+</T>
+<T id="657">
+<LVL>482,214,455</LVL>
+<SPEED>3.8,5.0,2.2</SPEED>
+</T>
+<T id="658">
+<LVL>158,231,500</LVL>
+<SPEED>5.2,2.5,4.0</SPEED>
+</T>
+<T id="659">
+<LVL>575,587,396</LVL>
+<SPEED>3.0,3.5,2.0</SPEED>
+</T>
+<T id="660">
+<LVL>267,198,588</LVL>
+<SPEED>5.7,3.8,2.5</SPEED>
+</T>
+<T id="661">
+<LVL>586,435,115</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="662">
+<LVL>316,64,217</LVL>
+<SPEED>4.0,3.2,4.7</SPEED>
+</T>
+<T id="663">
+<LVL>473,425,241</LVL>
+<SPEED>2.5,2.5,3.0</SPEED>
+</T>
+<T id="664">
+<LVL>530,298,509</LVL>
+<SPEED>3.0,3.8,3.1</SPEED>
+</T>
+<T id="665">
+<LVL>394,520,591</LVL>
+<SPEED>3.0,3.0,3.9</SPEED>
+</T>
+<T id="666">
+<LVL>525,131,289</LVL>
+<SPEED>2.5,3.8,2.8</SPEED>
+</T>
+<T id="667">
+<LVL>470,80,240</LVL>
+<SPEED>2.5,2.0,2.0</SPEED>
+</T>
+<T id="668">
+<LVL>95,277,477</LVL>
+<SPEED>2.6,2.5,2.0</SPEED>
+</T>
+<T id="669">
+<LVL>195,469,111</LVL>
+<SPEED>2.5,2.5,2.0</SPEED>
+</T>
+<T id="670">
+<LVL>103,132,348</LVL>
+<SPEED>4.0,4.0,3.3</SPEED>
+</T>
+<T id="671">
+<LVL>177,294,163</LVL>
+<SPEED>2.3,5.2,3.1</SPEED>
+</T>
+<T id="672">
+<LVL>284,528,423</LVL>
+<SPEED>3.4,2.6,3.2</SPEED>
+</T>
+<T id="673">
+<LVL>179,268,252</LVL>
+<SPEED>2.1,2.5,2.5</SPEED>
+</T>
+<T id="674">
+<LVL>524,219,578</LVL>
+<SPEED>6.0,2.4,2.4</SPEED>
+</T>
+<T id="675">
+<LVL>415,155,398</LVL>
+<SPEED>2.6,4.5,2.6</SPEED>
+</T>
+<T id="676">
+<LVL>275,230,496</LVL>
+<SPEED>2.5,3.3,3.0</SPEED>
+</T>
+<T id="677">
+<LVL>463,37,558</LVL>
+<SPEED>2.2,2.5,2.2</SPEED>
+</T>
+<T id="678">
+<LVL>440,145,81</LVL>
+<SPEED>2.2,3.9,2.6</SPEED>
+</T>
+<T id="679">
+<LVL>390,228,431</LVL>
+<SPEED>2.5,3.0,2.5</SPEED>
+</T>
+<T id="680">
+<LVL>301,313,426</LVL>
+<SPEED>7.0,2.9,3.3</SPEED>
+</T>
+<T id="681">
+<LVL>434,302,188</LVL>
+<SPEED>3.0,7.0,3.8</SPEED>
+</T>
+<T id="682">
+<LVL>255,242,443</LVL>
+<SPEED>3.4,2.5,3.2</SPEED>
+</T>
+<T id="683">
+<LVL>338,65,171</LVL>
+<SPEED>2.5,2.2,2.1</SPEED>
+</T>
+<T id="684">
+<LVL>212,374,153</LVL>
+<SPEED>1.7,1.7,1.2</SPEED>
+</T>
+<T id="685">
+<LVL>400,404,505</LVL>
+<SPEED>2.5,2.3,2.8</SPEED>
+</T>
+<T id="686">
+<LVL>427,326,367</LVL>
+<SPEED>2.8,2.4,2.9</SPEED>
+</T>
+<T id="687">
+<LVL>565,355,323</LVL>
+<SPEED>2.0,2.0,3.0</SPEED>
+</T>
+<T id="688">
+<LVL>461,401,466</LVL>
+<SPEED>2.2,1.9,2.0</SPEED>
+</T>
+<T id="689">
+<LVL>282,523,300</LVL>
+<SPEED>2.5,2.5,3.0</SPEED>
+</T>
+<T id="690">
+<LVL>296,494,133</LVL>
+<SPEED>3.5,2.9,1.8</SPEED>
+</T>
+<T id="691">
+<LVL>193,543,181</LVL>
+<SPEED>3.2,1.0,3.8</SPEED>
+</T>
+<T id="692">
+<LVL>317,388,49</LVL>
+<SPEED>2.5,2.2,3.0</SPEED>
+</T>
+<T id="693">
+<LVL>411,152,112</LVL>
+<SPEED>2.1,4.0,2.3</SPEED>
+</T>
+<T id="694">
+<LVL>290,571,310</LVL>
+<SPEED>7.1,2.3,4.0</SPEED>
+</T>
+<T id="695">
+<LVL>175,309,384</LVL>
+<SPEED>3.5,2.0,2.0</SPEED>
+</T>
+<T id="696">
+<LVL>272,340,570</LVL>
+<SPEED>2.0,3.2,2.2</SPEED>
+</T>
+<T id="697">
+<LVL>183,499,136</LVL>
+<SPEED>7.2,3.6,2.0</SPEED>
+</T>
+<T id="698">
+<LVL>517,554,325</LVL>
+<SPEED>2.5,2.5,2.2</SPEED>
+</T>
+<T id="699">
+<LVL>540,403,233</LVL>
+<SPEED>2.2,4.2,3.8</SPEED>
+</T>
+<T id="700">
+<LVL>501,168,224</LVL>
+<SPEED>3.6,3.6,2.2</SPEED>
+</T>
+<T id="701">
+<LVL>83,521,40</LVL>
+<SPEED>3.5,3.2,2.5</SPEED>
+</T>
+<T id="702">
+<LVL>471,48,227</LVL>
+<SPEED>2.8,2.9,2.5</SPEED>
+</T>
+<T id="703">
+<LVL>597,130,253</LVL>
+<SPEED>2.0,3.8,5.0</SPEED>
+</T>
+<T id="704">
+<LVL>582,576,457</LVL>
+<SPEED>3.5,2.5,2.0</SPEED>
+</T>
+<T id="705">
+<LVL>337,204,568</LVL>
+<SPEED>2.0,2.5,2.0</SPEED>
+</T>
+<T id="706">
+<LVL>159,421,536</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="707">
+<LVL>315,279,514</LVL>
+<SPEED>3.2,6.5,6.4</SPEED>
+</T>
+<T id="708">
+<LVL>210,99,542</LVL>
+<SPEED>2.5,3.0,2.0</SPEED>
+</T>
+<T id="709">
+<LVL>291,506,91</LVL>
+<SPEED>4.9,2.3,1.5</SPEED>
+</T>
+<T id="710">
+<LVL>504,245,207</LVL>
+<SPEED>2.6,2.6,2.0</SPEED>
+</T>
+<T id="711">
+<LVL>569,50,370</LVL>
+<SPEED>5.0,2.0,2.5</SPEED>
+</T>
+<T id="712">
+<LVL>60,206,490</LVL>
+<SPEED>4.3,4.7,2.2</SPEED>
+</T>
+<T id="713">
+<LVL>73,292,451</LVL>
+<SPEED>3.0,3.3,3.0</SPEED>
+</T>
+<T id="714">
+<LVL>122,165,148</LVL>
+<SPEED>4.0,2.0,2.5</SPEED>
+</T>
+<T id="715">
+<LVL>218,598,513</LVL>
+<SPEED>3.0,2.0,2.0</SPEED>
+</T>
+<T id="716">
+<LVL>209,389,271</LVL>
+<SPEED>4.0,5.5,2.5</SPEED>
+</T>
+<T id="717">
+<LVL>441,360,286</LVL>
+<SPEED>3.4,3.0,4.0</SPEED>
+</T>
+<T id="718">
+<LVL>235,248,428</LVL>
+<SPEED>3.0,3.0,1.8</SPEED>
+</T>
+<T id="719">
+<LVL>108,196,318</LVL>
+<SPEED>3.0,2.2,2.2</SPEED>
+</T>
+<T id="720">
+<LVL>328,194,574</LVL>
+<SPEED>3.0,4.5,3.0</SPEED>
+</T>
+<T id="721">
+<LVL>166,387,87</LVL>
+<SPEED>4.0,2.5,5.0</SPEED>
+</T>
+<T id="722">
+<LVL>572,579,86</LVL>
+<SPEED>3.5,2.6,2.6</SPEED>
+</T>
+<T id="723">
+<LVL>232,516,164</LVL>
+<SPEED>2.5,2.2,2.6</SPEED>
+</T>
+<T id="724">
+<LVL>303,584,439</LVL>
+<SPEED>6.1,2.0,3.8</SPEED>
+</T>
+<T id="725">
+<LVL>67,497,512</LVL>
+<SPEED>2.6,3.0,2.6</SPEED>
+</T>
+<T id="726">
+<LVL>185,324,432</LVL>
+<SPEED>4.5,2.1,3.5</SPEED>
+</T>
+<T id="727">
+<LVL>126,247,468</LVL>
+<SPEED>5.8,3.2,2.3</SPEED>
+</T>
+<T id="728">
+<LVL>405,220,104</LVL>
+<SPEED>2.5,3.0,3.5</SPEED>
+</T>
+<T id="729">
+<LVL>581,361,547</LVL>
+<SPEED>2.0,3.0,2.0</SPEED>
+</T>
+<T id="730">
+<LVL>43,120,200</LVL>
+<SPEED>3.0,2.0,2.5</SPEED>
+</T>
+<T id="731">
+<LVL>380,567,297</LVL>
+<SPEED>3.0,3.0,2.0</SPEED>
+</T>
+<T id="732">
+<LVL>364,88,347</LVL>
+<SPEED>4.0,4.0,3.5</SPEED>
+</T>
+<T id="733">
+<LVL>537,250,418</LVL>
+<SPEED>2.0,3.0,3.5</SPEED>
+</T>
+<T id="734">
+<LVL>190,532,502</LVL>
+<SPEED>3.8,3.0,3.0</SPEED>
+</T>
+<T id="735">
+<LVL>147,263,410</LVL>
+<SPEED>3.0,3.0,3.0</SPEED>
+</T>
+<T id="736">
+<LVL>238,465,202</LVL>
+<SPEED>2.0,2.0,2.0</SPEED>
+</T>
+<T id="737">
+<LVL>527,430,544</LVL>
+<SPEED>5.5,4.0,3.2</SPEED>
+</T>
+<T id="738">
+<LVL>137,308,442</LVL>
+<SPEED>2.5,3.9,2.5</SPEED>
+</T>
+<T id="739">
+<LVL>140,436,458</LVL>
+<SPEED>4.5,3.0,3.0</SPEED>
+</T>
+<T id="740">
+<LVL>352,42,257</LVL>
+<SPEED>3.0,2.2,4.8</SPEED>
+</T>
+<T id="741">
+<LVL>243,363,552</LVL>
+<SPEED>3.0,2.0,2.0</SPEED>
+</T>
+<T id="742">
+<LVL>479,118,57</LVL>
+<SPEED>2.0,2.0,2.0</SPEED>
+</T>
+<T id="743">
+<LVL>590,205,38</LVL>
+<SPEED>1.5,3.2,2.0</SPEED>
+</T>
+<T id="744">
+<LVL>258,82,285</LVL>
+<SPEED>3.7,2.5,3.5</SPEED>
+</T>
+<T id="745">
+<LVL>44,541,288</LVL>
+<SPEED>2.3,1.8,3.5</SPEED>
+</T>
+<T id="746">
+<LVL>254,467,424</LVL>
+<SPEED>2.0,2.0,3.0</SPEED>
+</T>
+<T id="747">
+<LVL>169,371,539</LVL>
+<SPEED>3.2,3.5,3.2</SPEED>
+</T>
+<T id="748">
+<LVL>346,549,386</LVL>
+<SPEED>1.9,3.3,1.9</SPEED>
+</T>
+<T id="749">
+<LVL>53,412,339</LVL>
+<SPEED>2.0,2.0,3.5</SPEED>
+</T>
+<T id="750">
+<LVL>493,518,156</LVL>
+<SPEED>2.7,3.5,2.7</SPEED>
+</T>
+<T id="751">
+<LVL>98,383,356</LVL>
+<SPEED>3.0,2.0,2.0</SPEED>
+</T>
+<T id="752">
+<LVL>417,259,293</LVL>
+<SPEED>2.0,2.0,3.0</SPEED>
+</T>
+<T id="753">
+<LVL>135,320,319</LVL>
+<SPEED>2.7,2.7,3.5</SPEED>
+</T>
+<T id="754">
+<LVL>234,70,408</LVL>
+<SPEED>1.9,2.8,3.5</SPEED>
+</T>
+<T id="755">
+<LVL>503,480,419</LVL>
+<SPEED>2.9,2.3,2.5</SPEED>
+</T>
+<T id="756">
+<LVL>105,146,266</LVL>
+<SPEED>2.5,2.0,2.0</SPEED>
+</T>
+<T id="757">
+<LVL>229,75,119</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="758">
+<LVL>526,483,560</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="759">
+<LVL>295,534,599</LVL>
+<SPEED>3.7,2.5,2.5</SPEED>
+</T>
+<T id="760">
+<LVL>484,462,464</LVL>
+<SPEED>2.2,2.5,2.2</SPEED>
+</T>
+<T id="761">
+<LVL>269,161,105</LVL>
+<SPEED>7.5,2.5,2.5</SPEED>
+</T>
+<T id="762">
+<LVL>102,138,490</LVL>
+<SPEED>2.5,3.5,2.5</SPEED>
+</T>
+<T id="763">
+<LVL>42,515,131</LVL>
+<SPEED>2.2,2.2,2.2</SPEED>
+</T>
+<T id="764">
+<LVL>422,470,546</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="765">
+<LVL>373,312,325</LVL>
+<SPEED>2.2,2.5,2.2</SPEED>
+</T>
+<T id="766">
+<LVL>487,331,301</LVL>
+<SPEED>3.5,3.5,3.8</SPEED>
+</T>
+<T id="767">
+<LVL>101,68,133</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="768">
+<LVL>164,217,405</LVL>
+<SPEED>3.0,4.9,2.3</SPEED>
+</T>
+<T id="769">
+<LVL>329,128,402</LVL>
+<SPEED>3.2,2.3,2.3</SPEED>
+</T>
+<T id="770">
+<LVL>453,139,118</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="771">
+<LVL>404,256,525</LVL>
+<SPEED>2.2,2.2,2.5</SPEED>
+</T>
+<T id="772">
+<LVL>535,275,55</LVL>
+<SPEED>2.2,2.2,2.2</SPEED>
+</T>
+<T id="773">
+<LVL>426,510,585</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="774">
+<LVL>229,565,567</LVL>
+<SPEED>2.7,2.5,2.3</SPEED>
+</T>
+<T id="775">
+<LVL>534,516,536</LVL>
+<SPEED>2.3,2.3,2.3</SPEED>
+</T>
+<T id="776">
+<LVL>467,254,59</LVL>
+<SPEED>2.3,3.1,3.2</SPEED>
+</T>
+<T id="777">
+<LVL>450,580,358</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="778">
+<LVL>594,544,438</LVL>
+<SPEED>2.2,2.2,2.2</SPEED>
+</T>
+<T id="779">
+<LVL>468,60,194</LVL>
+<SPEED>2.5,5.5,5.5</SPEED>
+</T>
+<T id="780">
+<LVL>262,44,85</LVL>
+<SPEED>7.5,2.5,2.8</SPEED>
+</T>
+<T id="781">
+<LVL>502,421,506</LVL>
+<SPEED>3.5,2.5,2.5</SPEED>
+</T>
+<T id="782">
+<LVL>78,354,196</LVL>
+<SPEED>1.8,1.8,1.8</SPEED>
+</T>
+<T id="783">
+<LVL>54,212,530</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="784">
+<LVL>181,547,149</LVL>
+<SPEED>4.5,2.0,2.5</SPEED>
+</T>
+<T id="785">
+<LVL>113,424,288</LVL>
+<SPEED>4.5,2.5,2.5</SPEED>
+</T>
+<T id="786">
+<LVL>375,396,340</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="787">
+<LVL>514,296,447</LVL>
+<SPEED>5.5,3.5,3.5</SPEED>
+</T>
+<T id="788">
+<LVL>243,317,95</LVL>
+<SPEED>3.0,2.5,3.0</SPEED>
+</T>
+<T id="789">
+<LVL>401,359,265</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="790">
+<LVL>314,519,460</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="791">
+<LVL>166,159,532</LVL>
+<SPEED>4.1,4.1,3.5</SPEED>
+</T>
+<T id="792">
+<LVL>459,245,346</LVL>
+<SPEED>3.0,2.0,2.0</SPEED>
+</T>
+<T id="793">
+<LVL>80,200,573</LVL>
+<SPEED>2.5,3.0,4.0</SPEED>
+</T>
+<T id="794">
+<LVL>287,44,222</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="795">
+<LVL>227,363,257</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="796">
+<LVL>286,556,79</LVL>
+<SPEED>3.0,3.0,3.0</SPEED>
+</T>
+<T id="797">
+<LVL>446,370,184</LVL>
+<SPEED>2.5,2.5,3.5</SPEED>
+</T>
+<T id="798">
+<LVL>549,321,408</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="799">
+<LVL>224,379,124</LVL>
+<SPEED>2.0,3.0,3.0</SPEED>
+</T>
+<T id="800">
+<LVL>291,416,595</LVL>
+<SPEED>2.0,2.0,2.0</SPEED>
+</T>
+<T id="801">
+<LVL>528,365,474</LVL>
+<SPEED>2.5,3.5,3.5</SPEED>
+</T>
+<T id="802">
+<LVL>456,597,73</LVL>
+<SPEED>2.5,2.5,3.5</SPEED>
+</T>
+<T id="803">
+<LVL>225,202,204</LVL>
+<SPEED>3.0,3.0,3.0</SPEED>
+</T>
+<T id="804">
+<LVL>326,152,371</LVL>
+<SPEED>3.0,3.5,3.0</SPEED>
+</T>
+<T id="805">
+<LVL>91,353,125</LVL>
+<SPEED>2.0,2.0,2.0</SPEED>
+</T>
+<T id="806">
+<LVL>214,142,439</LVL>
+<SPEED>3.5,3.0,3.0</SPEED>
+</T>
+<T id="807">
+<LVL>233,360,387</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="808">
+<LVL>328,75,428</LVL>
+<SPEED>2.5,3.5,2.5</SPEED>
+</T>
+<T id="809">
+<LVL>464,505,575</LVL>
+<SPEED>2.0,3.0,2.0</SPEED>
+</T>
+<T id="810">
+<LVL>53,63,335</LVL>
+<SPEED>2.0,3.8,2.5</SPEED>
+</T>
+<T id="811">
+<LVL>457,308,557</LVL>
+<SPEED>2.5,3.5,2.5</SPEED>
+</T>
+<T id="812">
+<LVL>452,315,104</LVL>
+<SPEED>1.8,2.5,2.5</SPEED>
+</T>
+<T id="813">
+<LVL>123,389,583</LVL>
+<SPEED>3.5,2.5,2.0</SPEED>
+</T>
+<T id="814">
+<LVL>195,173,242</LVL>
+<SPEED>2.5,3.5,2.5</SPEED>
+</T>
+<T id="815">
+<LVL>553,277,130</LVL>
+<SPEED>2.5,2.5,3.5</SPEED>
+</T>
+<T id="816">
+<LVL>103,348,392</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="817">
+<LVL>451,177,461</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="818">
+<LVL>584,83,545</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="819">
+<LVL>366,191,176</LVL>
+<SPEED>2.5,2.5,3.5</SPEED>
+</T>
+<T id="820">
+<LVL>593,380,38</LVL>
+<SPEED>2.5,2.5,3.5</SPEED>
+</T>
+<T id="821">
+<LVL>489,154,578</LVL>
+<SPEED>3.0,3.7,2.0</SPEED>
+</T>
+<T id="822">
+<LVL>323,390,540</LVL>
+<SPEED>3.5,2.5,2.5</SPEED>
+</T>
+<T id="823">
+<LVL>581,179,444</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="824">
+<LVL>427,64,564</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="825">
+<LVL>479,413,526</LVL>
+<SPEED>2.5,3.5,2.5</SPEED>
+</T>
+<T id="826">
+<LVL>350,143,537</LVL>
+<SPEED>2.0,2.5,2.0</SPEED>
+</T>
+<T id="827">
+<LVL>263,100,491</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="828">
+<LVL>279,132,417</LVL>
+<SPEED>5.5,2.8,2.2</SPEED>
+</T>
+<T id="829">
+<LVL>411,150,448</LVL>
+<SPEED>1.8,1.8,1.8</SPEED>
+</T>
+<T id="830">
+<LVL>86,538,566</LVL>
+<SPEED>2.5,1.7,1.7</SPEED>
+</T>
+<T id="831">
+<LVL>399,274,148</LVL>
+<SPEED>2.5,4.5,3.5</SPEED>
+</T>
+<T id="832">
+<LVL>507,327,445</LVL>
+<SPEED>3.5,2.5,3.4</SPEED>
+</T>
+<T id="833">
+<LVL>338,210,509</LVL>
+<SPEED>3.2,3.5,2.5</SPEED>
+</T>
+<T id="834">
+<LVL>146,260,282</LVL>
+<SPEED>3.0,2.5,2.0</SPEED>
+</T>
+<T id="835">
+<LVL>141,230,117</LVL>
+<SPEED>3.2,3.2,2.5</SPEED>
+</T>
+<T id="836">
+<LVL>504,391,77</LVL>
+<SPEED>2.0,2.0,2.0</SPEED>
+</T>
+<T id="837">
+<LVL>280,71,406</LVL>
+<SPEED>3.5,2.5,3.5</SPEED>
+</T>
+<T id="838">
+<LVL>201,436,403</LVL>
+<SPEED>4.5,2.5,2.5</SPEED>
+</T>
+<T id="839">
+<LVL>429,281,590</LVL>
+<SPEED>3.2,3.2,3.2</SPEED>
+</T>
+<T id="840">
+<LVL>302,273,472</LVL>
+<SPEED>9.0,5.0,3.0</SPEED>
+</T>
+<T id="841">
+<LVL>582,298,501</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="842">
+<LVL>463,395,153</LVL>
+<SPEED>2.0,2.0,2.0</SPEED>
+</T>
+<T id="843">
+<LVL>496,74,559</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="844">
+<LVL>475,192,520</LVL>
+<SPEED>2.5,2.5,3.5</SPEED>
+</T>
+<T id="845">
+<LVL>99,518,410</LVL>
+<SPEED>2.5,4.5,2.0</SPEED>
+</T>
+<T id="846">
+<LVL>155,248,345</LVL>
+<SPEED>3.5,2.5,2.5</SPEED>
+</T>
+<T id="847">
+<LVL>423,480,226</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="848">
+<LVL>374,562,466</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="849">
+<LVL>442,295,127</LVL>
+<SPEED>2.0,3.0,2.0</SPEED>
+</T>
+<T id="850">
+<LVL>384,303,218</LVL>
+<SPEED>2.5,4.0,3.0</SPEED>
+</T>
+<T id="851">
+<LVL>313,577,529</LVL>
+<SPEED>2.5,2.5,3.5</SPEED>
+</T>
+<T id="852">
+<LVL>316,122,419</LVL>
+<SPEED>3.0,2.5,3.0</SPEED>
+</T>
+<T id="853">
+<LVL>355,499,290</LVL>
+<SPEED>2.5,3.5,2.5</SPEED>
+</T>
+<T id="854">
+<LVL>69,339,58</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="855">
+<LVL>465,94,119</LVL>
+<SPEED>2.0,2.0,2.0</SPEED>
+</T>
+<T id="856">
+<LVL>255,494,587</LVL>
+<SPEED>3.5,2.5,2.5</SPEED>
+</T>
+<T id="857">
+<LVL>228,220,558</LVL>
+<SPEED>2.0,2.5,2.0</SPEED>
+</T>
+<T id="858">
+<LVL>311,304,492</LVL>
+<SPEED>3.5,3.0,2.5</SPEED>
+</T>
+<T id="859">
+<LVL>344,289,297</LVL>
+<SPEED>3.0,4.0,3.0</SPEED>
+</T>
+<T id="860">
+<LVL>47,50,193</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="861">
+<LVL>372,469,542</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="862">
+<LVL>503,570,486</LVL>
+<SPEED>3.5,2.5,2.5</SPEED>
+</T>
+<T id="863">
+<LVL>223,109,219</LVL>
+<SPEED>3.0,2.5,2.5</SPEED>
+</T>
+<T id="864">
+<LVL>203,539,39</LVL>
+<SPEED>2.5,2.5,3.2</SPEED>
+</T>
+<T id="865">
+<LVL>473,362,250</LVL>
+<SPEED>3.0,1.5,2.0</SPEED>
+</T>
+<T id="866">
+<LVL>49,140,455</LVL>
+<SPEED>3.0,3.0,3.0</SPEED>
+</T>
+<T id="867">
+<LVL>120,284,158</LVL>
+<SPEED>2.0,3.0,4.0</SPEED>
+</T>
+<T id="868">
+<LVL>48,115,533</LVL>
+<SPEED>5.0,3.0,6.0</SPEED>
+</T>
+<T id="869">
+<LVL>431,523,552</LVL>
+<SPEED>2.0,2.5,2.0</SPEED>
+</T>
+<T id="870">
+<LVL>437,261,561</LVL>
+<SPEED>2.5,3.5,2.0</SPEED>
+</T>
+<T id="871">
+<LVL>309,524,206</LVL>
+<SPEED>3.5,8.5,4.5</SPEED>
+</T>
+<T id="872">
+<LVL>433,471,299</LVL>
+<SPEED>5.5,4.0,3.0</SPEED>
+</T>
+<T id="873">
+<LVL>462,239,572</LVL>
+<SPEED>4.0,3.0,3.0</SPEED>
+</T>
+<T id="874">
+<LVL>186,432,111</LVL>
+<SPEED>3.0,3.0,2.0</SPEED>
+</T>
+<T id="875">
+<LVL>513,267,98</LVL>
+<SPEED>2.0,3.5,2.5</SPEED>
+</T>
+<T id="876">
+<LVL>555,569,382</LVL>
+<SPEED>3.5,3.5,2.0</SPEED>
+</T>
+<T id="877">
+<LVL>82,425,568</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="878">
+<LVL>306,40,443</LVL>
+<SPEED>4.5,2.0,2.5</SPEED>
+</T>
+<T id="879">
+<LVL>52,531,232</LVL>
+<SPEED>2.5,6.5,2.5</SPEED>
+</T>
+<T id="880">
+<LVL>369,211,81</LVL>
+<SPEED>3.0,3.0,2.5</SPEED>
+</T>
+<T id="881">
+<LVL>548,108,253</LVL>
+<SPEED>2.5,5.0,3.5</SPEED>
+</T>
+<T id="882">
+<LVL>147,367,180</LVL>
+<SPEED>2.5,3.5,2.5</SPEED>
+</T>
+<T id="883">
+<LVL>175,574,478</LVL>
+<SPEED>3.5,2.5,2.5</SPEED>
+</T>
+<T id="884">
+<LVL>386,145,114</LVL>
+<SPEED>2.5,3.5,2.5</SPEED>
+</T>
+<T id="885">
+<LVL>231,383,234</LVL>
+<SPEED>2.0,2.0,2.0</SPEED>
+</T>
+<T id="886">
+<LVL>208,87,394</LVL>
+<SPEED>3.5,2.5,2.0</SPEED>
+</T>
+<T id="887">
+<LVL>135,134,541</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="888">
+<LVL>221,136,493</LVL>
+<SPEED>3.5,2.5,2.5</SPEED>
+</T>
+<T id="889">
+<LVL>126,554,292</LVL>
+<SPEED>6.5,2.5,3.5</SPEED>
+</T>
+<T id="890">
+<LVL>414,378,508</LVL>
+<SPEED>2.5,2.5,3.5</SPEED>
+</T>
+<T id="891">
+<LVL>190,336,488</LVL>
+<SPEED>3.0,2.0,2.5</SPEED>
+</T>
+<T id="892">
+<LVL>332,207,112</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="893">
+<LVL>209,458,368</LVL>
+<SPEED>3.5,2.0,2.0</SPEED>
+</T>
+<T id="894">
+<LVL>165,70,310</LVL>
+<SPEED>2.0,2.5,4.5</SPEED>
+</T>
+<T id="895">
+<LVL>187,412,294</LVL>
+<SPEED>3.5,2.5,2.5</SPEED>
+</T>
+<T id="896">
+<LVL>385,586,168</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="897">
+<LVL>172,357,400</LVL>
+<SPEED>2.5,2.5,2.0</SPEED>
+</T>
+<T id="898">
+<LVL>51,349,97</LVL>
+<SPEED>2.0,3.0,2.5</SPEED>
+</T>
+<T id="899">
+<LVL>454,511,162</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="900">
+<LVL>322,483,167</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="901">
+<LVL>268,409,435</LVL>
+<SPEED>2.0,2.0,2.0</SPEED>
+</T>
+<T id="902">
+<LVL>110,550,266</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="903">
+<LVL>300,89,397</LVL>
+<SPEED>3.5,2.5,2.5</SPEED>
+</T>
+<T id="904">
+<LVL>116,199,88</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="905">
+<LVL>76,449,497</LVL>
+<SPEED>2.0,2.0,2.5</SPEED>
+</T>
+<T id="906">
+<LVL>157,283,420</LVL>
+<SPEED>4.5,4.5,3.5</SPEED>
+</T>
+<T id="907">
+<LVL>66,90,393</LVL>
+<SPEED>4.0,2.5,3.0</SPEED>
+</T>
+<T id="908">
+<LVL>512,236,241</LVL>
+<SPEED>2.5,4.0,2.5</SPEED>
+</T>
+<T id="909">
+<LVL>272,238,430</LVL>
+<SPEED>2.5,3.5,5.5</SPEED>
+</T>
+<T id="910">
+<LVL>418,240,356</LVL>
+<SPEED>3.5,2.5,2.5</SPEED>
+</T>
+<T id="911">
+<LVL>517,381,259</LVL>
+<SPEED>2.5,3.5,2.5</SPEED>
+</T>
+<T id="912">
+<LVL>156,376,551</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="913">
+<LVL>247,37,46</LVL>
+<SPEED>4.0,2.5,3.5</SPEED>
+</T>
+<T id="914">
+<LVL>285,84,215</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="915">
+<LVL>57,67,343</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="916">
+<LVL>198,576,361</LVL>
+<SPEED>4.0,3.0,2.5</SPEED>
+</T>
+<T id="917">
+<LVL>563,189,415</LVL>
+<SPEED>2.5,3.0,2.5</SPEED>
+</T>
+<T id="918">
+<LVL>333,560,485</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="919">
+<LVL>45,43,264</LVL>
+<SPEED>4.5,4.0,2.8</SPEED>
+</T>
+<T id="920">
+<LVL>351,334,278</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="921">
+<LVL>62,481,319</LVL>
+<SPEED>4.0,3.0,3.5</SPEED>
+</T>
+<T id="922">
+<LVL>398,579,592</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="923">
+<LVL>591,589,170</LVL>
+<SPEED>3.5,2.5,3.5</SPEED>
+</T>
+<T id="924">
+<LVL>216,252,121</LVL>
+<SPEED>4.5,2.5,2.5</SPEED>
+</T>
+<T id="925">
+<LVL>347,258,441</LVL>
+<SPEED>5.5,3.0,2.5</SPEED>
+</T>
+<T id="926">
+<LVL>244,160,235</LVL>
+<SPEED>7.0,3.0,2.8</SPEED>
+</T>
+<T id="927">
+<LVL>495,521,596</LVL>
+<SPEED>3.5,3.5,2.5</SPEED>
+</T>
+<T id="928">
+<LVL>270,144,293</LVL>
+<SPEED>3.5,2.5,3.5</SPEED>
+</T>
+<T id="929">
+<LVL>388,72,93</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="930">
+<LVL>342,588,341</LVL>
+<SPEED>2.5,2.5,3.5</SPEED>
+</T>
+<T id="931">
+<LVL>476,197,320</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="932">
+<LVL>106,330,163</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="933">
+<LVL>377,307,527</LVL>
+<SPEED>3.3,3.3,3.5</SPEED>
+</T>
+<T id="934">
+<LVL>171,482,305</LVL>
+<SPEED>2.5,4.5,2.5</SPEED>
+</T>
+<T id="935">
+<LVL>364,352,407</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="936">
+<LVL>598,500,174</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="937">
+<LVL>276,183,246</LVL>
+<SPEED>7.5,4.5,2.5</SPEED>
+</T>
+<T id="938">
+<LVL>251,318,188</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="939">
+<LVL>169,92,571</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="940">
+<LVL>271,129,324</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="941">
+<LVL>522,137,440</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="942">
+<LVL>205,337,65</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="943">
+<LVL>185,543,434</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="944">
+<LVL>178,477,599</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="945">
+<LVL>237,498,484</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="946">
+<LVL>294,564,91</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="947">
+<LVL>536,309,232</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="948">
+<LVL>402,397,387</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="949">
+<LVL>59,305,67</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="950">
+<LVL>378,411,434</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="951">
+<LVL>114,496,75</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="952">
+<LVL>394,106,178</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="953">
+<LVL>197,593,253</LVL>
+<SPEED>3.0,3.0,3.0</SPEED>
+</T>
+<T id="954">
+<LVL>44,460,84</LVL>
+<SPEED>3.0,3.0,3.0</SPEED>
+</T>
+<T id="955">
+<LVL>234,464,279</LVL>
+<SPEED>3.0,3.0,3.5</SPEED>
+</T>
+<T id="956">
+<LVL>39,516,518</LVL>
+<SPEED>3.0,3.0,3.5</SPEED>
+</T>
+<T id="957">
+<LVL>459,369,252</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="958">
+<LVL>491,534,461</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="959">
+<LVL>331,150,140</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="960">
+<LVL>289,171,337</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="961">
+<LVL>320,288,546</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="962">
+<LVL>345,530,376</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="963">
+<LVL>238,293,580</LVL>
+<SPEED>2.5,3.5,3.5</SPEED>
+</T>
+<T id="964">
+<LVL>233,473,315</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="965">
+<LVL>514,457,458</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="966">
+<LVL>188,152,82</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="967">
+<LVL>133,526,276</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="968">
+<LVL>480,258,283</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="969">
+<LVL>297,421,236</LVL>
+<SPEED>2.5,2.5,3.5</SPEED>
+</T>
+<T id="970">
+<LVL>248,538,504</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="971">
+<LVL>290,561,97</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="972">
+<LVL>241,122,260</LVL>
+<SPEED>3.5,2.0,2.0</SPEED>
+</T>
+<T id="973">
+<LVL>594,437,74</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="974">
+<LVL>208,194,247</LVL>
+<SPEED>2.5,4.0,2.0</SPEED>
+</T>
+<T id="975">
+<LVL>493,343,118</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="976">
+<LVL>388,416,161</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="977">
+<LVL>153,214,37</LVL>
+<SPEED>3.5,3.5,3.5</SPEED>
+</T>
+<T id="978">
+<LVL>404,341,174</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="979">
+<LVL>299,55,123</LVL>
+<SPEED>3.5,2.5,2.5</SPEED>
+</T>
+<T id="980">
+<LVL>328,143,412</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="981">
+<LVL>167,71,578</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="982">
+<LVL>569,149,585</LVL>
+<SPEED>5.5,3.0,2.0</SPEED>
+</T>
+<T id="983">
+<LVL>424,342,547</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="984">
+<LVL>383,147,565</LVL>
+<SPEED>2.0,2.0,3.0</SPEED>
+</T>
+<T id="985">
+<LVL>525,463,79</LVL>
+<SPEED>3.5,3.0,2.5</SPEED>
+</T>
+<T id="986">
+<LVL>129,117,93</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="987">
+<LVL>49,540,68</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="988">
+<LVL>418,156,205</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="989">
+<LVL>432,532,557</LVL>
+<SPEED>2.5,2.5,2.5</SPEED>
+</T>
+<T id="990">
+<LVL>364,134,409</LVL>
+<SPEED>8.0,3.5,2.5</SPEED>
+</T>
+<T id="991">
+<LVL>482,244,312</LVL>
+<SPEED>3.0,3.0,2.5</SPEED>
+</T>
+<T id="992">
+<LVL>455,220,323</LVL>
+<SPEED>4.5,2.5,2.5</SPEED>
+</T>
+<T id="993">
+<LVL>410,338,531</LVL>
+<SPEED>2.7,3.5,2.5</SPEED>
+</T>
+<T id="994">
+<LVL>132,264,406</LVL>
+<SPEED>3.5,2.5,2.5</SPEED>
+</T>
+<T id="995">
+<LVL>285,560,46</LVL>
+<SPEED>5.5,3.5,4.0</SPEED>
+</T>
+<T id="996">
+<LVL>379,322,181</LVL>
+<SPEED>6.5,5.4,6.0</SPEED>
+</T>
+<T id="997">
+<LVL>573,596,262</LVL>
+<SPEED>8.0,3.5,6.6</SPEED>
+</T>
+<T id="998">
+<LVL>119,110,78</LVL>
+<SPEED>3.5,5.5,3.0</SPEED>
+</T>
+<T id="999">
+<LVL>495,447,360</LVL>
+<SPEED>3.5,2.5,1.0</SPEED>
+</T>
+<T id="1000">
+<LVL>116,451,203</LVL>
+<SPEED>1.8,1.4,1.2</SPEED>
+</T>
+<T id="1001">
+<LVL>365,454,185</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1002">
+<LVL>516,152,475</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1003">
+<LVL>166,366,364</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1004">
+<LVL>532,103,190</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1005">
+<LVL>595,245,124</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1006">
+<LVL>99,586,439</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1007">
+<LVL>196,558,258</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1008">
+<LVL>473,159,494</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1009">
+<LVL>161,492,324</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1010">
+<LVL>219,512,321</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1011">
+<LVL>93,443,308</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1012">
+<LVL>53,119,291</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1013">
+<LVL>45,102,408</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1014">
+<LVL>573,340,333</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1015">
+<LVL>77,518,83</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1016">
+<LVL>385,39,186</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1017">
+<LVL>544,478,483</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1018">
+<LVL>545,307,457</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1019">
+<LVL>179,542,298</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1020">
+<LVL>163,564,425</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1021">
+<LVL>169,410,465</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1022">
+<LVL>216,438,574</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1023">
+<LVL>577,508,283</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1024">
+<LVL>73,400,580</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1025">
+<LVL>353,555,597</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1026">
+<LVL>331,427,150</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1027">
+<LVL>370,305,212</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1028">
+<LVL>383,585,264</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1029">
+<LVL>488,94,204</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1030">
+<LVL>37,453,505</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1031">
+<LVL>133,207,525</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1032">
+<LVL>49,88,393</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1033">
+<LVL>134,458,378</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1034">
+<LVL>433,165,256</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1035">
+<LVL>188,95,48</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1036">
+<LVL>380,429,315</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1037">
+<LVL>44,388,543</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1038">
+<LVL>368,136,153</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1039">
+<LVL>357,108,530</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1040">
+<LVL>442,224,358</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1041">
+<LVL>154,535,235</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1042">
+<LVL>171,318,553</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1043">
+<LVL>144,326,541</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1044">
+<LVL>100,572,342</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1045">
+<LVL>436,557,594</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1046">
+<LVL>55,274,485</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1047">
+<LVL>129,250,113</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1048">
+<LVL>230,97,526</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1049">
+<LVL>560,180,426</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1050">
+<LVL>251,479,348</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1051">
+<LVL>241,206,330</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1052">
+<LVL>168,202,435</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1053">
+<LVL>281,81,110</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1054">
+<LVL>177,268,261</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1055">
+<LVL>225,376,576</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1056">
+<LVL>239,141,312</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1057">
+<LVL>397,420,409</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1058">
+<LVL>514,399,195</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1059">
+<LVL>210,72,549</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1060">
+<LVL>42,334,387</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1061">
+<LVL>320,46,289</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1062">
+<LVL>523,402,247</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1063">
+<LVL>327,536,71</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1064">
+<LVL>255,583,242</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1065">
+<LVL>347,43,332</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1066">
+<LVL>252,181,350</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1067">
+<LVL>456,54,203</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1068">
+<LVL>259,155,302</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1069">
+<LVL>461,394,276</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1070">
+<LVL>528,273,70</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1071">
+<LVL>221,178,87</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1072">
+<LVL>407,491,62</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1073">
+<LVL>300,432,547</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1074">
+<LVL>148,546,112</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1075">
+<LVL>126,275,80</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1076">
+<LVL>511,418,58</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1077">
+<LVL>445,450,220</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1078">
+<LVL>328,191,471</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1079">
+<LVL>406,455,486</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1080">
+<LVL>520,38,282</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1081">
+<LVL>240,589,295</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1082">
+<LVL>440,218,584</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1083">
+<LVL>395,284,137</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1084">
+<LVL>497,474,411</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1085">
+<LVL>482,568,233</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1086">
+<LVL>50,201,469</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1087">
+<LVL>582,244,89</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1088">
+<LVL>517,243,468</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1089">
+<LVL>226,437,303</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1090">
+<LVL>47,278,101</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1091">
+<LVL>84,132,304</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1092">
+<LVL>68,329,460</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1093">
+<LVL>296,116,389</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1094">
+<LVL>559,316,229</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1095">
+<LVL>578,76,288</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1096">
+<LVL>522,496,74</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1097">
+<LVL>521,91,335</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1098">
+<LVL>266,513,540</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1099">
+<LVL>313,125,170</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1100">
+<LVL>566,531,262</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1101">
+<LVL>211,314,548</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1102">
+<LVL>311,480,506</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1103">
+<LVL>143,183,462</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1104">
+<LVL>173,297,404</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1105">
+<LVL>176,569,105</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1106">
+<LVL>294,381,419</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1107">
+<LVL>162,109,67</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1108">
+<LVL>503,490,391</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1109">
+<LVL>260,121,501</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1110">
+<LVL>561,65,449</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1111">
+<LVL>217,590,390</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1112">
+<LVL>345,236,209</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1113">
+<LVL>339,467,59</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1114">
+<LVL>272,405,86</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1115">
+<LVL>214,317,306</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1116">
+<LVL>269,175,117</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1117">
+<LVL>593,265,246</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1118">
+<LVL>551,552,114</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1119">
+<LVL>477,285,373</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1120">
+<LVL>374,106,579</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1121">
+<LVL>157,75,384</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1122">
+<LVL>489,78,111</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1123">
+<LVL>539,392,104</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1124">
+<LVL>355,222,319</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1125">
+<LVL>147,280,587</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1126">
+<LVL>346,299,422</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1127">
+<LVL>325,187,208</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1128">
+<LVL>464,92,444</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1129">
+<LVL>359,343,498</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1130">
+<LVL>363,254,184</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1131">
+<LVL>238,361,401</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1132">
+<LVL>372,563,466</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1133">
+<LVL>286,189,430</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1134">
+<LVL>337,575,581</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1135">
+<LVL>215,537,375</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1136">
+<LVL>257,267,138</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1137">
+<LVL>135,140,379</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1138">
+<LVL>271,441,448</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1139">
+<LVL>487,344,567</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1140">
+<LVL>85,174,362</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1141">
+<LVL>423,290,192</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1142">
+<LVL>414,293,253</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1143">
+<LVL>194,228,416</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1144">
+<LVL>550,149,60</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1145">
+<LVL>248,128,198</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1146">
+<LVL>398,79,403</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1147">
+<LVL>309,413,223</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1148">
+<LVL>158,231,82</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1149">
+<LVL>556,382,377</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1150">
+<LVL>98,199,349</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1151">
+<LVL>570,588,127</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1152">
+<LVL>341,504,446</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1153">
+<LVL>509,338,292</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1154">
+<LVL>495,534,336</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1155">
+<LVL>369,527,322</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1156">
+<LVL>533,459,386</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1157">
+<LVL>428,515,591</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1158">
+<LVL>139,160,447</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1159">
+<LVL>452,565,145</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1160">
+<LVL>57,205,499</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1161">
+<LVL>227,538,507</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1162">
+<LVL>234,164,493</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1163">
+<LVL>424,451,360</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1164">
+<LVL>396,52,367</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1165">
+<LVL>502,146,417</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1166">
+<LVL>463,44,356</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1167">
+<LVL>64,415,323</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1168">
+<LVL>351,510,69</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1169">
+<LVL>554,571,40</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1170">
+<LVL>263,431,279</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1171">
+<LVL>562,63,500</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1172">
+<LVL>287,519,131</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1173">
+<LVL>310,118,277</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1174">
+<LVL>481,123,434</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1175">
+<LVL>371,421,529</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1176">
+<LVL>115,592,172</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1177">
+<LVL>354,524,66</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1178">
+<LVL>237,142,167</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1179">
+<LVL>472,156,130</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1180">
+<LVL>51,301,352</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1181">
+<LVL>476,120,412</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1182">
+<LVL>197,470,598</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1183">
+<LVL>122,484,193</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1184">
+<LVL>232,270,596</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1185">
+<LVL>599,200,90</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1186">
+<LVL>372,152,452</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1187">
+<LVL>251,223,415</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1188">
+<LVL>331,119,183</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1189">
+<LVL>205,267,548</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1190">
+<LVL>454,162,427</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1191">
+<LVL>582,322,345</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1192">
+<LVL>103,425,552</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1193">
+<LVL>410,509,40</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1194">
+<LVL>554,92,520</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1195">
+<LVL>67,58,148</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1196">
+<LVL>214,464,38</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1197">
+<LVL>561,196,268</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1198">
+<LVL>265,547,53</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1199">
+<LVL>579,99,353</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1200">
+<LVL>147,195,271</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1201">
+<LVL>590,220,269</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1202">
+<LVL>469,215,496</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1203">
+<LVL>144,301,583</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1204">
+<LVL>165,428,136</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1205">
+<LVL>588,319,348</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1206">
+<LVL>397,134,52</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1207">
+<LVL>419,124,211</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1208">
+<LVL>581,158,54</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1209">
+<LVL>474,338,179</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1210">
+<LVL>516,73,254</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1211">
+<LVL>66,343,446</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1212">
+<LVL>382,568,530</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1213">
+<LVL>432,138,239</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1214">
+<LVL>592,318,334</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1215">
+<LVL>424,463,412</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1216">
+<LVL>373,167,168</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1217">
+<LVL>86,133,437</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1218">
+<LVL>240,533,46</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1219">
+<LVL>252,97,63</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1220">
+<LVL>378,488,190</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1221">
+<LVL>83,79,408</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1222">
+<LVL>465,146,116</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1223">
+<LVL>228,253,456</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1224">
+<LVL>569,316,69</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1225">
+<LVL>325,82,504</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1226">
+<LVL>489,346,377</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1227">
+<LVL>118,187,337</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1228">
+<LVL>468,50,78</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1229">
+<LVL>315,514,572</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1230">
+<LVL>141,281,160</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1231">
+<LVL>292,503,189</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1232">
+<LVL>557,347,438</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1233">
+<LVL>495,313,553</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1234">
+<LVL>511,250,200</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1235">
+<LVL>405,395,37</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1236">
+<LVL>199,55,387</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1237">
+<LVL>558,361,388</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1238">
+<LVL>462,111,110</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1239">
+<LVL>384,448,91</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1240">
+<LVL>285,112,89</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1241">
+<LVL>42,258,460</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1242">
+<LVL>129,275,44</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1243">
+<LVL>153,439,218</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1244">
+<LVL>497,230,457</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1245">
+<LVL>70,344,221</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1246">
+<LVL>104,402,349</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1247">
+<LVL>490,450,60</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1248">
+<LVL>595,525,473</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1249">
+<LVL>291,386,307</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1250">
+<LVL>566,426,216</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1251">
+<LVL>113,248,85</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1252">
+<LVL>383,47,75</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1253">
+<LVL>498,44,435</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1254">
+<LVL>191,81,274</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1255">
+<LVL>317,357,131</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1256">
+<LVL>266,396,77</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1257">
+<LVL>80,263,531</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1258">
+<LVL>563,289,339</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1259">
+<LVL>143,94,482</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1260">
+<LVL>526,57,400</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1261">
+<LVL>327,247,545</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1262">
+<LVL>401,330,270</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1263">
+<LVL>90,423,226</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1264">
+<LVL>577,350,354</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1265">
+<LVL>560,299,109</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1266">
+<LVL>298,45,443</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1267">
+<LVL>508,297,507</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1268">
+<LVL>333,365,586</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1269">
+<LVL>150,433,538</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1270">
+<LVL>455,417,169</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1271">
+<LVL>550,238,115</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1272">
+<LVL>260,242,233</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1273">
+<LVL>392,130,272</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1274">
+<LVL>51,206,93</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1275">
+<LVL>71,483,527</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1276">
+<LVL>237,411,243</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1277">
+<LVL>241,352,359</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1278">
+<LVL>551,510,466</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1279">
+<LVL>422,62,198</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1280">
+<LVL>379,171,140</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1281">
+<LVL>501,209,39</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1282">
+<LVL>232,212,555</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1283">
+<LVL>442,484,95</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1284">
+<LVL>227,164,366</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1285">
+<LVL>101,177,323</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1286">
+<LVL>355,304,544</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1287">
+<LVL>556,585,523</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1288">
+<LVL>202,283,528</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1289">
+<LVL>576,403,277</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1290">
+<LVL>186,539,155</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1291">
+<LVL>65,519,564</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1292">
+<LVL>479,311,449</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1293">
+<LVL>487,540,259</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1294">
+<LVL>142,394,491</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1295">
+<LVL>139,305,309</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1296">
+<LVL>404,597,166</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1297">
+<LVL>340,591,180</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1298">
+<LVL>72,441,436</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1299">
+<LVL>434,279,499</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1300">
+<LVL>369,201,573</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1301">
+<LVL>380,529,188</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1302">
+<LVL>303,574,430</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1303">
+<LVL>543,559,296</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1304">
+<LVL>64,537,261</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1305">
+<LVL>225,521,522</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1306">
+<LVL>478,120,414</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1307">
+<LVL>246,108,128</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1308">
+<LVL>375,578,587</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1309">
+<LVL>192,87,341</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1310">
+<LVL>575,328,472</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1311">
+<LVL>159,175,467</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1312">
+<LVL>145,312,157</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1313">
+<LVL>204,287,584</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1314">
+<LVL>524,580,156</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1315">
+<LVL>506,59,280</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1316">
+<LVL>193,203,126</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1317">
+<LVL>88,154,459</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1318">
+<LVL>117,127,105</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1319">
+<LVL>231,293,342</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1320">
+<LVL>546,532,562</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1321">
+<LVL>300,161,518</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1322">
+<LVL>149,295,43</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1323">
+<LVL>314,351,399</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1324">
+<LVL>135,163,245</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1325">
+<LVL>413,284,222</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1326">
+<LVL>565,493,176</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1327">
+<LVL>475,594,447</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1328">
+<LVL>288,542,122</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1329">
+<LVL>370,257,208</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1330">
+<LVL>381,326,599</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1331">
+<LVL>207,185,106</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1332">
+<LVL>444,194,371</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1333">
+<LVL>234,505,132</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1334">
+<LVL>358,308,389</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1335">
+<LVL>236,123,76</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1336">
+<LVL>535,335,598</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1337">
+<LVL>294,356,458</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1338">
+<LVL>84,500,262</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1339">
+<LVL>364,398,470</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1340">
+<LVL>197,494,367</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1341">
+<LVL>174,570,440</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1342">
+<LVL>321,178,172</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1343">
+<LVL>418,368,476</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1344">
+<LVL>421,513,264</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1345">
+<LVL>98,536,235</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1346">
+<LVL>363,453,290</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1347">
+<LVL>210,336,49</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1348">
+<LVL>278,276,173</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1349">
+<LVL>391,515,100</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1350">
+<LVL>282,217,481</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1351">
+<LVL>477,471,589</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1352">
+<LVL>429,273,121</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1353">
+<LVL>416,184,451</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1354">
+<LVL>374,244,125</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1355">
+<LVL>431,306,332</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1356">
+<LVL>362,224,181</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1357">
+<LVL>534,567,406</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1358">
+<LVL>445,256,541</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1359">
+<LVL>302,593,376</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1360">
+<LVL>48,480,502</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1361">
+<LVL>407,512,461</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1362">
+<LVL>137,390,485</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1363">
+<LVL>393,74,114</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1364">
+<LVL>255,360,102</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1365">
+<LVL>286,571,324</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1366">
+<LVL>219,492,420</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1367">
+<LVL>596,310,409</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1368">
+<LVL>229,170,329</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1369">
+<LVL>486,549,320</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1370">
+<LVL>68,517,385</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1371">
+<LVL>140,462,454</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1372">
+<LVL>375,534,327</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1373">
+<LVL>518,264,571</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1374">
+<LVL>329,439,142</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1375">
+<LVL>488,83,227</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1376">
+<LVL>530,361,538</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1377">
+<LVL>371,100,480</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1378">
+<LVL>106,94,396</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1379">
+<LVL>184,495,212</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1380">
+<LVL>92,141,133</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1381">
+<LVL>449,312,71</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1382">
+<LVL>123,145,298</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1383">
+<LVL>204,301,517</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1384">
+<LVL>283,475,98</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1385">
+<LVL>170,411,585</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1386">
+<LVL>291,232,460</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1387">
+<LVL>67,526,284</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1388">
+<LVL>175,247,344</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1389">
+<LVL>427,510,268</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1390">
+<LVL>541,125,345</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1391">
+<LVL>554,132,424</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1392">
+<LVL>263,357,265</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1393">
+<LVL>224,565,158</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1394">
+<LVL>48,308,295</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1395">
+<LVL>393,193,591</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1396">
+<LVL>129,110,271</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1397">
+<LVL>93,388,195</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1398">
+<LVL>339,319,452</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1399">
+<LVL>515,86,551</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1400">
+<LVL>305,562,114</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1401">
+<LVL>57,99,438</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1402">
+<LVL>433,399,377</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1403">
+<LVL>314,296,172</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1404">
+<LVL>313,498,360</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1405">
+<LVL>39,351,504</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1406">
+<LVL>442,413,485</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1407">
+<LVL>302,477,262</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1408">
+<LVL>139,478,394</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1409">
+<LVL>372,354,547</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1410">
+<LVL>573,572,404</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1411">
+<LVL>367,440,214</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1412">
+<LVL>44,444,362</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1413">
+<LVL>188,121,109</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1414">
+<LVL>381,349,376</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1415">
+<LVL>403,237,310</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1416">
+<LVL>352,447,560</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1417">
+<LVL>552,273,82</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1418">
+<LVL>136,303,73</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1419">
+<LVL>443,590,364</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1420">
+<LVL>341,491,187</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1421">
+<LVL>62,524,558</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1422">
+<LVL>207,471,593</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1423">
+<LVL>115,431,122</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1424">
+<LVL>473,581,288</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1425">
+<LVL>535,104,408</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1426">
+<LVL>387,487,402</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1427">
+<LVL>539,38,226</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1428">
+<LVL>436,163,343</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1429">
+<LVL>587,331,292</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1430">
+<LVL>293,481,135</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1431">
+<LVL>59,194,470</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1432">
+<LVL>278,484,536</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1433">
+<LVL>208,412,576</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1434">
+<LVL>420,532,221</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1435">
+<LVL>523,185,164</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1436">
+<LVL>220,594,533</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1437">
+<LVL>509,368,157</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1438">
+<LVL>458,489,108</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1439">
+<LVL>355,165,382</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1440">
+<LVL>200,409,167</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1441">
+<LVL>244,419,155</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1442">
+<LVL>466,202,395</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1443">
+<LVL>252,196,42</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1444">
+<LVL>211,127,47</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1445">
+<LVL>432,75,544</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1446">
+<LVL>580,553,546</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1447">
+<LVL>287,219,380</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1448">
+<LVL>461,410,234</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1449">
+<LVL>274,153,342</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1450">
+<LVL>120,537,181</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1451">
+<LVL>453,418,445</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1452">
+<LVL>103,508,81</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1453">
+<LVL>467,58,430</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1454">
+<LVL>63,322,101</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1455">
+<LVL>528,326,64</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1456">
+<LVL>90,483,384</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1457">
+<LVL>146,482,390</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1458">
+<LVL>78,448,300</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1459">
+<LVL>423,161,317</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1460">
+<LVL>179,222,549</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1461">
+<LVL>256,451,154</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1462">
+<LVL>567,126,198</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1463">
+<LVL>128,91,46</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1464">
+<LVL>529,130,516</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1465">
+<LVL>340,435,209</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1466">
+<LVL>324,346,316</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1467">
+<LVL>383,143,455</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1468">
+<LVL>597,596,370</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1469">
+<LVL>472,502,446</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1470">
+<LVL>52,144,468</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1471">
+<LVL>514,548,45</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1472">
+<LVL>285,353,405</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1473">
+<LVL>574,178,379</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1474">
+<LVL>505,183,233</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1475">
+<LVL>429,315,134</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1476">
+<LVL>511,176,330</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1477">
+<LVL>400,89,543</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1478">
+<LVL>356,55,373</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1479">
+<LVL>479,401,365</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1480">
+<LVL>116,406,494</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1481">
+<LVL>180,171,258</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1482">
+<LVL>588,299,191</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1483">
+<LVL>40,229,147</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1484">
+<LVL>519,334,80</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1485">
+<LVL>531,118,456</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1486">
+<LVL>595,512,72</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1487">
+<LVL>190,318,150</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1488">
+<LVL>496,503,338</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1489">
+<LVL>44,246,192</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1490">
+<LVL>242,378,37</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1491">
+<LVL>561,416,309</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1492">
+<LVL>434,54,231</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1493">
+<LVL>168,254,506</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1494">
+<LVL>216,599,527</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1495">
+<LVL>53,60,337</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1496">
+<LVL>501,248,575</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1497">
+<LVL>111,457,76</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1498">
+<LVL>87,112,43</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1499">
+<LVL>269,407,169</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1500">
+<LVL>259,584,369</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1501">
+<LVL>95,425,294</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1502">
+<LVL>160,492,566</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1503">
+<LVL>260,97,499</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1504">
+<LVL>366,119,336</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1505">
+<LVL>577,363,569</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1506">
+<LVL>49,422,230</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1507">
+<LVL>570,557,277</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1508">
+<LVL>250,77,218</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1509">
+<LVL>131,563,69</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1510">
+<LVL>493,239,186</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1511">
+<LVL>241,348,203</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1512">
+<LVL>124,304,522</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1513">
+<LVL>320,556,289</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1514">
+<LVL>159,306,138</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1515">
+<LVL>253,333,173</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1516">
+<LVL>582,307,238</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1517">
+<LVL>325,51,251</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1518">
+<LVL>500,206,545</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1519">
+<LVL>228,148,217</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1520">
+<LVL>374,321,156</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1521">
+<LVL>428,270,137</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1522">
+<LVL>88,311,426</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1523">
+<LVL>236,281,174</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1524">
+<LVL>68,347,290</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1525">
+<LVL>385,272,261</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1526">
+<LVL>417,386,282</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1527">
+<LVL>79,257,275</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1528">
+<LVL>201,197,66</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1529">
+<LVL>465,568,578</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1530">
+<LVL>323,189,521</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1531">
+<LVL>177,542,450</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1532">
+<LVL>117,437,497</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1533">
+<LVL>358,335,152</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1534">
+<LVL>235,74,490</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1535">
+<LVL>149,598,243</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1536">
+<LVL>276,102,85</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1537">
+<LVL>463,266,474</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1538">
+<LVL>476,507,215</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1539">
+<LVL>105,564,199</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1540">
+<LVL>391,589,50</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1541">
+<LVL>297,583,223</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1542">
+<LVL>65,550,240</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1543">
+<LVL>392,540,398</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1544">
+<LVL>513,267,332</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1545">
+<LVL>486,245,525</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1546">
+<LVL>469,279,210</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1547">
+<LVL>225,464,555</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1548">
+<LVL>166,592,397</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1549">
+<LVL>350,559,113</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1550">
+<LVL>389,84,286</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1551">
+<LVL>162,359,579</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1552">
+<LVL>459,255,280</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1553">
+<LVL>415,70,328</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1554">
+<LVL>520,441,414</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1555">
+<LVL>205,421,586</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1556">
+<LVL>343,494,192</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1557">
+<LVL>59,549,424</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1558">
+<LVL>403,582,380</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1559">
+<LVL>547,361,418</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1560">
+<LVL>417,429,414</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1561">
+<LVL>412,572,132</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1562">
+<LVL>316,37,476</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1563">
+<LVL>588,153,174</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1564">
+<LVL>542,324,170</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1565">
+<LVL>274,496,511</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1566">
+<LVL>577,159,438</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1567">
+<LVL>289,467,495</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1568">
+<LVL>536,161,342</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1569">
+<LVL>388,176,198</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1570">
+<LVL>488,576,408</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1571">
+<LVL>486,266,356</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1572">
+<LVL>347,243,570</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1573">
+<LVL>573,346,38</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1574">
+<LVL>358,164,462</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1575">
+<LVL>504,97,393</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1576">
+<LVL>262,265,333</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1577">
+<LVL>345,115,392</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1578">
+<LVL>196,60,120</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1579">
+<LVL>206,395,437</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1580">
+<LVL>473,459,112</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1581">
+<LVL>485,225,270</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1582">
+<LVL>113,288,214</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1583">
+<LVL>452,365,321</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1584">
+<LVL>47,498,43</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1585">
+<LVL>524,589,194</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1586">
+<LVL>507,423,298</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1587">
+<LVL>58,328,474</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1588">
+<LVL>263,150,594</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1589">
+<LVL>197,340,130</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1590">
+<LVL>137,591,49</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1591">
+<LVL>500,102,571</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1592">
+<LVL>484,129,205</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1593">
+<LVL>556,559,446</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1594">
+<LVL>586,508,383</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1595">
+<LVL>593,373,44</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1596">
+<LVL>294,428,92</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1597">
+<LVL>539,548,86</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1598">
+<LVL>251,534,222</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1599">
+<LVL>297,101,306</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+<T id="1600">
+<LVL>257,68,578</LVL>
+<SPEED>6.2,6.25,6.3,</SPEED>
+</T>
+
+</MAP>

@@ -1,0 +1,251 @@
+﻿<?xml version="1.0"  encoding="UTF-8"?>
+<MAP>
+
+	<GAME_PLAY id="map1">
+		<EN>Welcome to the royal tournament of Match 3 Games!</EN> 
+		<EN>Click the first tournament to start the game</EN>
+		<RU>Приветствуем вас на королевском турнире Три в ряд!</RU> 
+		<RU>Кликните на первый турнир...</RU>
+                <FR>Bienvenue au tournoi royal de jeux de Match 3!</FR>
+		<FR>Cliquez sur le premier tournoi pour commencer</FR>
+		<DE>Willkommen zum königlichen Turnier der 3-Gewinnt-Spiele verdient!</DE> 
+		<DE>Um anzufangen, betätigen Sie das erste Turnier</DE>
+  </GAME_PLAY>
+  <GAME_PLAY id="map2">
+	  <EN>It’s your prize chest. Click it to start the timer, when it finishes you can take the prizes</EN>
+	  <EN>The timer of the chest opening has expired, click on the chest to pick up the presents</EN>
+	  <RU>Это ваш призовой сундук. Кликните по нему, чтобы запустить таймер, по окончанию которого можно забрать призы</RU>
+	  <RU>Таймер открытия сундука истек, кликните по сундуку, чтобы забрать подарки</RU>
+      <FR>Ce coffre est votre prix. Cliquez dessus pour mettre le timer : lorsque l’heure vient, vous pourrez collecter vos prix</FR>
+	  <FR>Le timer du coffre a fini, cliquez sur le coffre pour obtenir les prix</FR>
+      <DE>Das ist ihre Preistruhe. Klicken Sie darauf, um den Timer zu startet, nach dessen Ablauf Sie ihre Preise abholen können</DE>
+	  <DE>Der Timer zum Öffnen der Truhe ist abgelaufen, klicken Sie auf die Truhe, um das Geschenk zu erhalten</DE>
+  </GAME_PLAY>
+   <GAME_PLAY id="map3">
+	  <EN>Great! Continue to win other tournaments and earn points to take top position in the rankings and open new tournament maps</EN>
+	  <EN>Having won tournaments, you get points that allow you to take top position in the rankings and receive awards</EN>
+	  <RU>Отлично! Продолжайте выигрывать в остальных турнирах и зарабатывать очки, чтобы занимать призовые места в рейтингах и открывать новые карты турниров</RU>
+	  <RU>Побеждая в турнирах, вы получаете очки, которые позволят вам занимать призовые места в рейтингах и получать награды</RU>
+      <FR>Parfait! Continuez de gagner des tournois et obtenez des points de rating. Comme ça vous obtiendrez les premières places dans le rating et pourrez débloquer de nouvelles cartes des tournois</FR>
+	  <FR>Vous obtenez des points pour vos victoires aux tournois, qui vous permettront de prendre les premières places dans le rating et obtenir des prix</FR>
+      <DE>Ausgezeichnet! Spielen Sie weiter in anderen Turnieren und sammeln Sie Punkte. Um die Podestplätze in Ratings zu nehmen und die neuen Karten der Turniere aufzumachen</DE>
+	  <DE>Bei Gewinn in Turnieren erhalten Sie Punkte, die Ihnen erlauben, die Podestplätze in Ratings zu nehmen und die Belohnungen zu erhalten</DE>
+  </GAME_PLAY>
+
+  <GAME_MAP id="5" pers_id="6">
+	  <EN>The bravest inhabitants of our kingdom will meet in a fair fight and prove who deserves the title of the Best Player of Match 3 Games!</EN> 
+      <EN>I’m sure you’ll be able to demonstrate your skills and compete for the first place in the tournament. Prove that you’re the best!</EN>
+	  <RU>Самые отважные жители нашего королевства сойдутся в честной битве и докажут кто из них достоин звания Лучшего игрока Три в ряд!</RU>
+	  <RU>Я уверен, что вы сможете показать всем свое мастерство и побороться за первое место в турнире. Докажите, что вы – лучший!</RU>
+      <FR>Les habitants les plus courageux de notre royaume se rencontreront dans un combat loyal et prouveront qui mérite le titre de meilleur joueur de jeux de Match 3!</FR>
+      <FR>Je suis sûr que vous pourrez démontrer vos compétences et concourir pour la première place du tournoi. Prouvez que vous êtes le meilleur!</FR>
+      <DE>Die tapfersten Bewohner unseres Königreichs treffen sich in einem fairen Kampf und beweisen, wer den Titel des besten Spielers der 3-Gewinnt-Spiele verdient!</DE>
+      <DE>Ich bin sicher, dass Sie Ihre Fähigkeiten unter Beweis stellen und um den ersten Platz im Turnier kämpfen können. Beweisen, dass Sie der Beste sind!</DE> 
+  </GAME_MAP>
+
+ 
+ 
+ 
+<GAME_PLAY id="1_1">
+
+
+	  <EN>Your task is to clear all silver tiles from the playing field faster than your opponents do. Information about your rivals</EN> 
+	  <EN>Match 3 or more identical items to destroy silver tiles</EN>
+	  <EN>Click to continue</EN>
+	 
+	  
+	  <RU>Ваша задача очистить игровое поле от серебряных плиток на поле быстрее, чем ваши соперники. Тут находится информация о ваших соперниках</RU> 
+	  <RU>Собирайте по три и более одинаковых фишки чтобы уничтожить серебряные плитки</RU>
+	  <RU>Щелкните, чтобы продолжить</RU>
+	 
+      
+	  <FR>Vous devez vider le champ de jeu en nettoyant d'argent toutes les tuiles plus vite que vos adversaires. L’information sur vos rivaux</FR> 
+	  <FR>Collectez des séries de trois pierres identiques pour les carreaux d'argent disparaître</FR>
+	  <FR>Cliquez pour continuer</FR>
+	 
+      
+	  <DE>Ihre Aufgabe ist es, alle silberne Fliesen auf dem Spielfeld, vor ihren Gegner zu entfernen. Informationen über seine Rivalen</DE> 
+	  <DE>Tun sie drei  gleiche  Steine zusammen, um sie silberne Fliesen vernichten</DE>
+	  <DE>Klicke um Fortzufahren</DE>
+	  
+  </GAME_PLAY> 
+  
+  
+    <GAME_PLAY id="2_1">
+
+	  <EN>This is the gold tile. Collect such tiles to take part in the ranking</EN>
+  
+	  <RU>Это золотая плитка. Собирайте такие плитки для участия в рейтинге</RU>
+      
+	  <FR>C’est une tuiles dorée. Collectez les tuile pareilles pour augmenter votre rating</FR>
+     
+	  <DE>Das ist die Goldfliesen. Sammeln Sie solche Fliesen, um am Rating teilnehmen zu können</DE>
+
+  </GAME_PLAY> 
+  
+  
+  
+  <GAME_PLAY id="3_1">
+	  <EN>Match 4 items of the same type to get explosive box</EN>
+	  <EN>Move bomb in any direction or double click it to explode items</EN>
+	  
+	  <RU>Соберите вместе 4 одинаковых фишки</RU>
+	  <RU>Подвиньте бомбу в любом направлении или дважды кликните по ней для взрыва фишек</RU>
+
+          <FR>Collectez 4 pierres pareilles</FR>
+          <FR>Déplacez la bombe dans n'importe quelle direction ou double-cliquez dessus pour faire exploser des objets</FR>
+
+          <DE>Tun sie vier gleiche Steine zusammen</DE>
+          <DE>Bewegen Sie die Bombe in eine beliebige Richtung oder doppelklicken Sie darauf, um Gegenstände zu explodieren</DE>
+  </GAME_PLAY> 
+  
+  <GAME_PLAY id="4">
+	  <EN>Make match3 near the crate to destroy it</EN>
+	  <RU>Соберите 3 одинаковых фишки около ящика, чтобы взорвать его</RU>
+          <FR>Faites une série de 3 pierres identiques près de la boîte pour la faire sauter</FR>
+          <DE>Planieren sie drei gleiche Steine um die Truhe, um sie zu sprengen</DE>
+  </GAME_PLAY> 
+
+  <GAME_PLAY id="5">
+	  <EN>Move Sword bonus in any direction or double click it to destroy the horizontal line on the field</EN>
+	  <RU>Подвиньте в любом направлении бонус Меч или дважды нажмите на него, чтобы уничтожить горизонтальный ряд на поле</RU>
+          <FR>Employez l'épée bonus  pour supprimer une rangée horizontale sur le champ</FR>
+          <DE>Déplacez l'épée dans n'importe quelle direction ou double-cliquez dessus pour détruire la ligne horizontale sur le terrain</DE>
+  </GAME_PLAY>    
+  
+  <GAME_PLAY id="6">
+	  <EN>Make match3 near the portal to open the hidden part of the playing field</EN>
+	  <RU>Уничтожьте фишки рядом с порталом и вам откроется скрытое поле</RU>
+          <FR>Faites disparaître les pierres près du portail et vous aurez accès à un champ caché</FR>
+          <DE>Vernichten sie die Steine neben der Portal, dann erscheint das versteckte Feld</DE>
+  </GAME_PLAY> 
+
+   <GAME_PLAY id="7">
+	  <!-- <EN>Use hammer booster to destroy any item</EN>
+	  <RU>Используйте бустер Молот, чтобы уничтожить любую фишку на поле</RU>
+          <FR>Utilisez le booster marteau pour faire disparaître une pierre sur le champ</FR>
+          <DE>Benutzen sie den Hammer um einen beliebigen Stein zu zerstören</DE> -->
+          <EN>Use hammer booster to destroy items in radius</EN>
+	  <RU>Используйте бустер Молот, чтобы уничтожить фишки по радиусу</RU>
+          <FR>Utilisez un booster de marteau pour détruire les objets dans le rayon</FR>
+          <DE>Verwenden Sie einen Hammerbooster, um Gegenstände im Radius zu zerstören</DE>
+  </GAME_PLAY>
+
+ <GAME_PLAY id="8">
+	  <EN>Click on the coin to collect it. Use coins to buy boosters and additional moves</EN>
+	  <RU>Наведите курсор на монету чтобы её собрать. За монеты можно покупать бустеры и дополнительные ходы</RU>
+          <FR>Cliquez sur la pièce pour la récupérer. Utilisez des pièces pour acheter des boosters et des mouvements supplémentaires</FR>
+          <DE>Klicke auf die Münze, um sie einzusammeln. Verwenden Sie Münzen, um Booster und zusätzliche Züge zu kaufen</DE>          
+  </GAME_PLAY> 
+  
+    <GAME_PLAY id="9">
+	  <EN>Spider number grows during the play. Destroy them as quickly as possible</EN>
+	  <RU>Количество пауков увеличивается во время игры. Уничтожайте их так быстро, насколько это возможно</RU>
+          <FR>Le nombre d’araignées grandit au cours du jeu. Tuez-les le plus vite possible</FR>
+          <DE>Die Anzahl der Spinnen wird immer steigen. Vernichten sie so viele es geh</DE>
+  </GAME_PLAY> 
+
+   <GAME_PLAY id="10">
+	  <EN>This item is locked. Pair it with matching items to break the web</EN>
+	  <RU>Некоторые фишки заблокированы паутиной. Соберите три одинаковых фишки чтобы уничтожить её</RU>
+          <FR>Certaines pierres sont bloquées par la toile. Collectez trois pierres identiques pour la faire disparaître</FR>
+          <DE>Manche Steine sind durch das Spinnen weben geschützt. Sammeln sie drei gleiche Steine um dieses zu zerstören</DE>
+  </GAME_PLAY>   
+  
+    <GAME_PLAY id="11">	
+	  <!-- <EN>Use Broom booster to destroy a web or a spider</EN>
+	  <RU>Используйте бустер Метлу, чтобы уничтожить паутину или паука</RU>
+          <FR>Employez le balai pour supprimer la toile d’araignée ou l’araignée</FR>
+          <DE>Benutzen sie ein Besen, um eine Spinne oder ein Spinnen Weben zu vernichten</DE> -->
+          <EN>Use Broom booster to destroy webs or spiders in a radius</EN>
+	  <RU>Используйте бустер Метлу, чтобы уничтожить паутины или пауков по радиусу</RU>
+          <FR>Utilisez le booster de balai pour détruire les toiles ou les araignées dans un rayon</FR>
+          <DE>Verwenden Sie den Besenverstärker, um Netze oder Spinnen in einem Radius zu zerstören</DE>
+  </GAME_PLAY> 
+  
+    <GAME_PLAY id="12">
+	  <EN>Make match3 several times near the ice block to destroy ice</EN>
+	  <RU>Чтобы уничтожить лёд, вам необходимо несколько раз уничтожить рядом фишки</RU>
+          <FR>Pour faire disparaître un bloc de glace, supprimez des pierres à côté quelque fois de suite</FR>
+          <DE>Um das Eis zu zerstören, müssen sie die Steine daneben mehrmals beschädigen</DE>
+  </GAME_PLAY> 
+  
+    <GAME_PLAY id="13">
+	  <EN>Move the shield in any direction or double click it to make an explosion</EN>
+	  <RU>Подвиньте щит в любую сторону или дважды нажмите на него, чтобы произошел взрыв</RU>
+          <FR>Déplacez le bouclier dans n'importe quelle direction ou double-cliquez dessus pour faire une explosion</FR>
+          <DE>Bewegen Sie den Schild in eine beliebige Richtung oder doppelklicken Sie darauf, um eine Explosion auszulösen</DE>
+  </GAME_PLAY> 
+  
+    <GAME_PLAY id="14">
+	  <EN>Destroy ghosts, otherwise they’ll reproduce very quickly </EN>
+	  <RU>Уничтожайте привидения, иначе они распространятся по полю очень быстро</RU>
+          <FR>Chassez les fantômes, sinon, ils vont occuper tout l’espace du jeu</FR>
+          <DE>Zerstören sie die Geister, sonst vermehren sie sich</DE>
+	</GAME_PLAY>
+	
+	 <GAME_PLAY id="15">
+	  <EN>Shoot the items in diagonals using two arrows</EN>
+	  <RU>Уничтожайте фишки по-диагоналям с помощью двух стрел</RU> 
+          <FR>Faites disparaître les pierres en diagonale à l’aide de deux flèches</FR>
+          <DE>Zerstören sie die diagonalen Steine mit zwei Pfeilen</DE>
+  </GAME_PLAY>  
+	
+	<GAME_PLAY id="16"> 
+	  <EN>Use Magnet booster to destroy the same items on the field</EN>
+	  <RU>Используйте магнит, чтобы уничтожить одинаковые фишки на поле</RU>
+          <FR>Employez l’aimant pour faire disparaître tous les jetons du même type sur le champ</FR>
+          <DE>Benutzen sie ein Magnet, um alle gleichen Steine auf dem Feld zu zerstören</DE>
+  </GAME_PLAY> 
+  
+     <GAME_PLAY id="18"> 
+	  <EN>Use gift bag to put 5 bonuses on the field</EN>
+	  <RU>Используйте мешок подарков, чтобы появилось 5 бонусов на поле</RU>
+          <FR>Employez le sac aux cadeaux pour obtenir 5 bonus</FR>
+          <DE>Benutzen sie  die Geschenktüte, damit 5 Bonusse auf dem Feld erscheinen</DE>
+  </GAME_PLAY>
+
+  <GAME_PLAY id="20"> 
+	  <EN>Use cross swords to destroy all horizontal and vertical items</EN>
+	  <RU>Используйте поперечные мечи, чтобы уничтожить все горизонтальные и вертикальные фишки</RU>
+          <FR>Utilisez des épées croisées pour détruire toutes les pierres horizontales et verticales</FR>
+          <DE>Verwenden Sie Kreuzschwerter, um alle horizontalen und vertikalen Steine ​​zu zerstören</DE>
+  </GAME_PLAY>
+  <!-- <GAME_PLAY id="20"> 
+	  <EN>Use bat booster to destroy random items</EN>
+	  <RU>Используйте летучую мышь, чтобы уничтожить случайные фишки</RU>
+          <FR>Employez le chauve-souris pour supprimer les pierres aléatoires</FR>
+          <DE>Benutzen sie die Fledermaus, damit sie irgendeinen Stein auf dem Feld zerstören</DE>
+  </GAME_PLAY> -->
+  
+   <GAME_PLAY id="tasks">
+	  <EN>Now everyday tasks are available. Get the royal chest for their fulfillment. Click on the task button to look at them</EN>
+	  <RU>Теперь вам доступны ежедневные задания. За их выполнение вы получите королевский сундук. Щелкните кнопку заданий, чтобы увидеть их</RU>
+      <FR>Maintenant des tâches quotidiennes sont disponibles pour vous. Vous obtiendrez un coffre royal pour chaque tâche réalisée. Cliquez sur le bouton des tâches pour les voir</FR>
+      <DE>Jetzt können Sie auf die Tagesmissionen zugreifen. Für deren Erfüllen, bekommen sie eine Königstruhe. Klicken Sie den Aufgabenknopf, um sie zu sehen</DE>	  
+  </GAME_PLAY> 
+  
+  
+  <GAME_PLAY id="lottery">
+	  <EN>You have perfectly coped with many rivals already, and it's time for you to learn how to catch a wave!</EN>
+	  <RU>Вы отлично справились уже со многими соперниками, и пора вам научиться ловить удачу за хвост!</RU>
+      <FR>Vous avez vaincu plusieurs adversaires, il est temps d’apprendre à saisir la chance!</FR>
+      <DE>Sie haben schon viele Gegner besiegt und müssen langsam lernen, das Glück zu ergreifen!</DE>
+ </GAME_PLAY> 
+ 
+ 
+    <GAME_PLAY id="lottery2">
+	  <EN>Every day you get a ticket, click on the button to start the game</EN>
+	  <EN>Erase all 9 rows by clicking on them. Your goal is to collect 3 crosses (noughts) in a line</EN>
+	  <RU>Каждый день вы получаете билет, нажмите кнопку, чтобы начать игру</RU>
+	  <RU>Сотрите все 9 полей щелкая по ним. Ваша цель собрать 3 крестика (нолика) в линию</RU>
+      <FR>Chaque jour vous obtiendrez un ticket, cliquez sur le bouton pour commencer le jeu</FR>
+	  <FR>Grattez les 9 champs en cliquant dessus. Votre but est d’avoir une ligne complète de « x » ou de « o »</FR>
+      <DE>Sie bekommen jeden Tag ein Ticket, drücken sie auf den Knopf, um das Spiel zu starten</DE>
+	  <DE>Löschen Sie alle 9 Felder, indem Sie diese anklicken. Ihr Ziel ist es 3 Kreuze (Kreise), in eine Linie zu bekommen</DE>
+	  
+  </GAME_PLAY> 
+
+
+  
+</MAP>

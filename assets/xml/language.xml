@@ -1,0 +1,8646 @@
+﻿<?xml version="1.0"  encoding="UTF-8"?>
+<MAP>
+<DYNAMIC_PHRASE scene_id="game_windows" item_id="social_reward"  phrase_id="1">
+	  <EN>
+		<TEXT>Reward!</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Награда!</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Prix!</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Belohnung!</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	  <ES>
+		<TEXT>Premio!</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Prêmio!</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+	  <IT>
+		<TEXT>Premio!</TEXT>
+		<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="social_reward"  phrase_id="2">
+	  <EN>
+		<TEXT>Your Bonus</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Ваш бонус:</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Votre bonus</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Ihr Bonus</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	  <ES>
+		<TEXT>Tu bono</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Seu bônus</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+	  <IT>
+		<TEXT>Il tuo bonus</TEXT>
+		<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="social_reward"  phrase_id="3">
+		<EN>
+			<TEXT>Continue</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Продолжить</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Continuer</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Weiter</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+		<TEXT>Continuar</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Continuar</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+	  <IT>
+		<TEXT>Continua</TEXT>
+		<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE> 
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="social_reward"  phrase_id="wall_post">
+	  <EN>
+		<TEXT>Thanks for sharing the game</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Спасибо, что поделились игрой</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Merci pour le partage du jeu</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Danke für das Teilen des Spiels</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	  <ES>
+		<TEXT>Gracias por compartir el juego.</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Obrigado por compartilhar o jogo</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+	  <IT>
+		<TEXT>Grazie per aver condiviso il gioco</TEXT>
+		<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="social_reward"  phrase_id="ig_tournament">
+	  <EN>
+		<TEXT>Thank you for creating the tournament</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Спасибо за создание турнира</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Merci d'avoir créé le tournoi</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Vielen Dank für die Erstellung des Turniers</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	  <ES>
+		<TEXT>Gracias por crear el torneo.</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Obrigado por criar o torneio</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+	  <IT>
+		<TEXT>Grazie per aver creato il torneo</TEXT>
+		<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="game_windows" item_id="share"  phrase_id="1">
+	  <EN>
+		<TEXT>Share</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Поделиться</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Partager</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Compartir</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Compartilhar</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Teilen</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+ 	  <IT>
+	    <TEXT>Condividere</TEXT>
+		<SIZE>0</SIZE>
+	  </IT>
+    </DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="share" item_id="share"  phrase_id="1">
+	  <EN>
+		<TEXT>Share +%val</TEXT>
+		<SIZE>2</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Поделиться +%val</TEXT>
+		<SIZE>-4</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Partager +%val</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Aktie +%val</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	  <ES>
+		<TEXT>Compartir +%val</TEXT>
+		<SIZE>-3</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Compartilhar +%val</TEXT>
+		<SIZE>-5</SIZE>		
+	  </PT>
+	  <IT>
+		<TEXT>Condividere +%val</TEXT>
+		<SIZE>-4</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="tournament" item_id="tournament"  phrase_id="1">
+	  <EN>
+		<TEXT>Start your tournament</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Начать свой турнир</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Commencez votre tournoi</TEXT>
+		<SIZE>-2</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Starten Sie Ihr Turnier</TEXT>
+		<SIZE>-1</SIZE>		
+	  </DE>
+	  <ES>
+		<TEXT>Empieza tu torneo</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Comece seu torneio</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+	  <IT>
+		<TEXT>Inizia il tuo torneo</TEXT>
+		<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+<DYNAMIC_PHRASE scene_id="game_windows" item_id="buy_money"  phrase_id="tip">
+		<EN>
+			<TEXT>Any purchase also removes ads</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Любая покупка выключает рекламу</TEXT>
+			<SIZE>-2</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Tout achat supprime également les annonces</TEXT>
+			<SIZE>-6</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Cualquier compra también elimina los anuncios.</TEXT>
+			<SIZE>-4</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Qualquer compra também remove anúncios</TEXT>
+			<SIZE>-4</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Bei jedem Kauf werden auch Anzeigen entfernt</TEXT>
+			<SIZE>-7</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Qualsiasi acquisto rimuove anche gli annunci</TEXT>
+			<SIZE>-4</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+<DYNAMIC_PHRASE scene_id="game_windows" item_id="sales"  phrase_id="sale_starter_pack">
+	  <EN>
+		<TEXT>Starter pack</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Набор новичка</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Kit de départ</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Anfänger Packet</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sales"  phrase_id="sale_winner_pack">
+	  <EN>
+		<TEXT>Winner pack</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Набор победителя</TEXT>
+		<SIZE>-10</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Pack gagnant</TEXT>
+		<SIZE>-2</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Gewinnerpaket</TEXT>
+		<SIZE>-4</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sales"  phrase_id="sale_looser_pack">
+	  <EN>
+		<TEXT>Overcoming difficulties</TEXT>
+		<SIZE>-10</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Преодолевая трудности</TEXT>
+		<SIZE>-10</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Surmonter les difficultés</TEXT>
+		<SIZE>-12</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Schwierigkeiten überwinden</TEXT>
+		<SIZE>-13</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sales"  phrase_id="sale_chest_1">
+	  <EN>
+		<TEXT>Useful chest</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Полезный сундук</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Coffre utile</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Nützliche Brust</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sales"  phrase_id="sale_chest_2">
+	  <EN>
+		<TEXT>Major League Chest</TEXT>
+		<SIZE>-3</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Сундук высшей лиги</TEXT>
+		<SIZE>-4</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Coffre de la ligue majeure</TEXT>
+		<SIZE>-12</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Major League Truhe</TEXT>
+		<SIZE>-3</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sales"  phrase_id="sale_short_hammer_pack">
+	  <EN>
+		<TEXT>Hammers pack</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Пак молотков</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Pack de marteaux</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Hämmer-Paket</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sales"  phrase_id="sale_game_play_pack">
+	  <EN>
+		<TEXT>Relax playing!</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Играй без стресса!</TEXT>
+		<SIZE>-2</SIZE>
+	  </RU>
+	  <FR>
+		<TEXT>Détendez-vous en jouant !</TEXT>
+		<SIZE>-12</SIZE>		
+	  </FR>
+	  <DE>
+		<TEXT>Entspannen Sie spielen!</TEXT>
+		<SIZE>-9</SIZE>		
+	  </DE>
+	  <ES>
+		<TEXT>¡Relájate jugando!</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Relaxe jogando!</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+	  <IT>
+		<TEXT>Rilassati giocando!</TEXT>
+		<SIZE>0</SIZE>		
+	  </IT>
+	</DYNAMIC_PHRASE>	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sales"  phrase_id="sale_hammer_pack">
+	  <EN>
+		<TEXT>Hammers and nothing else</TEXT>
+		<SIZE>-12</SIZE>				
+	  </EN>
+	  <RU>
+		<TEXT>Молотки и больше ничего</TEXT>
+		<SIZE>-11</SIZE>		
+	  </RU>
+		  <FR>
+		<TEXT>Des marteaux et rien d'autre</TEXT>
+		<SIZE>-14</SIZE>				
+	  </FR>
+		  <DE>
+		<TEXT>Hämmer und sonst nichts</TEXT>
+		<SIZE>-11</SIZE>				
+	  </DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sales"  phrase_id="sale_magnet_pack">
+	  <EN>
+		<TEXT>Magnets and nothing else</TEXT>
+		<SIZE>-12</SIZE>				
+	  </EN>
+	  <RU>
+		<TEXT>Магниты и больше ничего</TEXT>
+		<SIZE>-12</SIZE>		
+	  </RU>
+		  <FR>
+		<TEXT>Aimants et rien d'autre</TEXT>
+		<SIZE>-10</SIZE>				
+	  </FR>
+		  <DE>
+		<TEXT>Magnete und sonst nichts</TEXT>
+		<SIZE>-12</SIZE>				
+	  </DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sales"  phrase_id="sale_cross_pack">
+	  <EN>
+		<TEXT>Swords and nothing else</TEXT>
+		<SIZE>-11</SIZE>				
+	  </EN>
+	  <RU>
+		<TEXT>Мечи и больше ничего</TEXT>
+		<SIZE>-10</SIZE>		
+	  </RU>
+		  <FR>
+		<TEXT>Des épées et rien d'autre</TEXT>
+		<SIZE>-10</SIZE>				
+	  </FR>
+		  <DE>
+		<TEXT>Schwerter und sonst nichts</TEXT>
+		<SIZE>-14</SIZE>				
+	  </DE>
+	</DYNAMIC_PHRASE>
+
+<DYNAMIC_PHRASE scene_id="game_windows" item_id="game_map"  phrase_id="sale">
+	  <EN>
+		<TEXT>%val [Day,Days]</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>%val [день ,дня ,дней]</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>%val [jour ,jours]</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>%val [Tag ,Tage]</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_play" item_id="booster1"  phrase_id="0">
+		<EN>
+			<TEXT>Hammer</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Молоток</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Marteau</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Hammer</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>  
+
+	<DYNAMIC_PHRASE scene_id="game_play" item_id="booster1"  phrase_id="1">
+		<EN>
+			<TEXT>Tap any item to remove items in a radius!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Нажмите на любой элемент, чтобы удалить предметы по радиусу!</TEXT>
+			<SIZE>-5</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Appuyez sur n'importe quel élément pour supprimer des éléments dans un rayon!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Tippen Sie auf ein beliebiges Element, um Elemente in einem Umkreis zu entfernen!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 
+
+	<DYNAMIC_PHRASE scene_id="game_play" item_id="booster2"  phrase_id="0">
+		<EN>
+			<TEXT>Broom</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Метла</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Balais</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Besen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>  
+
+	<DYNAMIC_PHRASE scene_id="game_play" item_id="booster2"  phrase_id="1">
+		<EN>
+			<TEXT>Use Broom booster to destroy webs or spiders in a radius</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Используйте бустер Метлу, чтобы уничтожить паутины или пауков по радиусу</TEXT>
+			<SIZE>-5</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Utilisez le booster de balai pour détruire les toiles ou les araignées dans un rayon</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Verwenden Sie den Besenverstärker, um Netze oder Spinnen in einem Radius zu zerstören</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_play" item_id="booster4"  phrase_id="0">
+		<EN>
+			<TEXT>Magnet</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Магнит</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Aimant</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Magnet</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>  
+
+	<DYNAMIC_PHRASE scene_id="game_play" item_id="booster4"  phrase_id="1">
+		<EN>
+			<TEXT>Tap to destroy the same items!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Нажмите, чтобы уничтожить одинаковые предметы!</TEXT>
+			<SIZE>-5</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Appuyez pour détruire les mêmes objets!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Tippen Sie auf, um dieselben Gegenstände zu zerstören!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_play" item_id="booster6"  phrase_id="0">
+		<EN>
+			<TEXT>Dynamite</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Динамит</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Dynamiter</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Dynamit</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>  
+
+	<DYNAMIC_PHRASE scene_id="game_play" item_id="booster6"  phrase_id="1">
+		<EN>
+			<TEXT>Tap to destroy vertical and horizontal items!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Нажмите, чтобы уничтожить вертикальные и горизонтальные предметы!</TEXT>
+			<SIZE>-10</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Appuyez pour détruire les éléments verticaux et horizontaux!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Tippen Sie auf, um vertikale und horizontale Objekte zu zerstören!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="bonus1">
+		<EN>
+			<TEXT>Explodes gems in the radius.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Взрывает фишки по радиусу.</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Exploser des gemmes dans le rayon.</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Explodiere Edelsteine ​​im Radius.</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>  
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="bonus3">
+		<EN>
+			<TEXT>Removes vertical gems.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Удаляет вертикальные фишки.</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Supprime les gemmes verticales.</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Entfernt vertikale Edelsteine.</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="bonus5">
+		<EN>
+			<TEXT>Removes vertical and horizontal gems.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Удаляет вертикальные и горизонтальные фишки.</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Supprime les gemmes verticales et horizontales.</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Entfernt vertikale und horizontale Edelsteine.</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="bonus6">
+		<EN>
+			<TEXT>Removes horizontal gems.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Удаляет горизонтальные фишки.</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Supprime les gemmes horizontales.</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Entfernt horizontale Edelsteine.</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="bonus15">
+		<EN>
+			<TEXT>Removes gems of a certain color. Color defined be swapped gem.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Удаляет драгоценные камни определенного цвета. Цвет определяется заменяемым камнем.</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Supprime les gemmes d'une certaine couleur. La couleur définie peut être échangée.</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Entfernt Edelsteine ​​einer bestimmten Farbe. Farbe definiert werden Edelstein getauscht.</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="bonus16">
+		<EN>
+			<TEXT>Removes task gem.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Удаляет гем по заданию.</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Supprime les gemmes de tâche.</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Entfernt Aufgabenedelsteine.</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="1">
+		<EN>
+			<TEXT>How to play</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Как играть</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Comment jouer</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Cómo jugar</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Como jogar</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Information</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>  
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="2">
+		<EN>
+			<TEXT>ОK</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>ОK</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>OK</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>OK</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>OK</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>OK</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 	
+	
+  
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="3">
+		<EN>
+			<TEXT>Swap to match 3 or more identical items in a row.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Собирайте одинаковые фишки в ряд не менее трёх.</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Mettez au moins 3 jetons de la même couleur dans un rang.</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Cambie para unir 3 o más elementos idénticos en una fila.</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Troque para combinar 3 ou mais itens idênticos seguidos.</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Sammeln sie mindestens drei gleiche Steine in einer Reihe.</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>   
+  
+  
+  
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="4">
+		<EN>
+			<TEXT>Break all golden or silver tiles to finish the level.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>За некоторыми фишками находятся золотые или серебряные плитки. Разбейте их все, чтобы закончить уровень</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Casser tous les carreaux d'or ou d'argent pour terminer le niveau.</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Rompe todos los azulejos dorados o plateados para terminar el nivel.</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Quebre todos os azulejos dourados ou prateados para terminar o nível.</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Zerbrich alle goldenen oder silbernen Kacheln, um das Level zu beenden.</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>    
+  
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="5">
+		<EN>
+			<TEXT>Obstacles</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Препятствия</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Obstacles</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Obstáculos</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Obstáculos</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Hindernis</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>      
+  
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="6">
+		<EN>
+			<TEXT>Create matches of 3-in-row near the silver and golden tiles to break them.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Уничтожьте фишки над серебряными и золотыми плитками, чтобы разбить их все и закончить уровень</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Faites disparaître les jetons au-dessus des tablettes d'argent et d'or pour les briser et terminer le niveau</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Destruye las fichas sobre las barras de plata y oro  para romperlas todas y terminar el nivel</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Destrua as fichas sobre as barras prateadas e douradas para quebrá-las e terminar o nível</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Zerstören sie Steine über den silberne und goldene Platten um diese zu zerstören.</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>    
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="7">
+		<EN>
+			<TEXT>Match near the crates and ice cubes or use a bonus to unblock the playing field.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Уничтожьте фишки возле ящиков и кусков льда или взорвите их бонусами, чтобы разблокировать игровое поле</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Faites disparaître les jetons près des boîtes et des morceaux de glace ou faites-les sauter pour débloquer le champ de jeu</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Destruye las fichas cerca de las cajas y trozos de hielo o diséñalo con bonos para desbloquear el campo de juego</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Destrua as fichas perto das caixas e pedaços de gelo ou exploda-as com bônus para desbloquear o campo de jogo</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Zerstören sie Steine neben Kisten bzw. Eisstücken oder sprengen sie diese mit Hilfe von Bonussen, um ein neues Feld freizuschalten</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>   
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="8">
+		<EN>
+			<TEXT>Move the object down to get it and to finish the level</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Опустите предмет вниз поля, чтобы собрать его и закончить уровень</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Tirez l’objet vers le bas du champ pour le cueillir et terminer le niveau </TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Mueve el objeto hacia abajo para obtenerlo y para terminar el nivel</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Mova o objeto para baixo para obtê-lo e para terminar o nível</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Befördern sie den Gegenstand nach unten, um ihn einzusammeln und das Level zu beenden</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>   
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="9">
+		<EN>
+			<TEXT>This item is locked. Pair it with matching items or use a bonus to break the web.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Уничтожьте фишку под паутиной или взорвите её бонусом, чтобы очистить поле</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Faites disparaître le jeton sous la toile d’araignée ou faites-le sauter avec le bonus pour dégager le champ</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Destruye la ficha debajo de la tela de araña o abrázala con una bonificación para despejar el campo</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Destruir o ficha sob a teia de aranha ou explodi-lo com um bônus para limpar o campo</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Zerstören sie den Stein über den Spinnen Weben oder sprengen sie dieses mit einem Bonus, um das Level zu beenden.</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>   
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="10">
+		<EN>
+			<TEXT>Match near ghosts and spiders or use a bonus till they block the playing field.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Уничтожьте фишки рядом с привидением и пауком или взорвите их бонусом, пока они не заблокировали всё поле</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Faites disparaître les jetons près d’un fantôme et d’une araignée ou faites-les sauter à l’aide du bonus tant qu’ils n’ont pas bloqué le champ entier</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Destruye las fichas junto al fantasma y la araña, o hazlas explotar con una bonificación, hasta que bloqueen todo el campo</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Destrua as fichas ao lado do fantasma e da aranha, ou exploda-as com um bônus, até que elas bloqueiem todo o campo</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Zerstören sie einen Stein neben einer Spinne bzw. eines Geists oder sprengen sie die Spinne mit einem Bonus, um das Level zu beenden.</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>   
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="11">
+		<EN>
+			<TEXT>Match near the portal or use a bonus to unlock the hidden part of the playing field.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Уничтожьте фишки возле портала или взорвите его бонусом, чтобы открыть скрытую часть поля</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Faites disparaître les jetons près de la porte entrouverte ou faites-la sauter àl’aide du bonus pour ouvrir la partie cachée du champ</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Destruye las fichas cerca del portal o atácalo con una bonificación para abrir la parte oculta del campo</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Destrua as fichas perto do portal ou exploda-as com um bônus para abrir a parte oculta do campo</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Zerstören sie Steine neben einer offenen Tür oder sprengen sie die Tür mit einem Bonus, um ein neues Feld freizuschalten</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>   
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="12">
+		<EN>
+			<TEXT>Game Bonuses</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Игровые Бонусы</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Bonus de jeu</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Bonos de juego</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Bônus do jogo</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Spielbonusse</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 	
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="13">
+		<EN>
+			<TEXT>Match 4 tiles to get</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Уничтожьте 4 фишки чтобы получить</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Faites disparaître 4 jetons pour obtenir</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Destruye 4 fichas para obtener</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Destrua 4 fichas para obter</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Zerstören sie 4 Steine um zu bekommen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 		
+
+
+	
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="14">
+		<EN>
+			<TEXT>Match 5 items to get</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Уничтожьте 5 фишек чтобы получить</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Faites disparaître 5 jetons pour obtenir</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Destruye 5 fichas para obtener</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Destrua 5 fichas para obter</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Zerstören sie 5 Steine um zu bekommen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 	
+
+
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="15">
+		<EN>
+			<TEXT>Match 4 or more items to get</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Уничтожьте 4 или более фишек чтобы получить</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Faites disparaître au moins 4 jetons pour obtenir</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Destruye 4 fichas para obtener</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Destrua 4 fichas para obter</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Zerstören sie 4 oder mehr Steine um zu bekommen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 		
+	
+	
+	
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="16">
+		<EN>
+			<TEXT>Buy Bonuses</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Покупные бонусы</TEXT>
+			<SIZE>-4</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Bonus d’achat</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Comprar bônus</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Compre bonos</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Kaufen sie Bonusse</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 	
+  
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="17">
+		<EN>
+			<TEXT>Buy these bonuses for earned coins and use them in the game</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Купите эти бонусы на заработанные монеты и используйте их в игре</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Achetez ces bonus pour les pièces gagnées et utilisez-les</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Compre estas bonificaciones por las monedas ganadas y úselas en el juego</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Compre estes bônus para ganhar moedas e use-os no jogo</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Kaufen sie die Bonusse für die Münzen aus dem Spiel und setzen diese dann im Spiel ein</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>  
+  
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="18">
+		<EN>
+			<TEXT>Hammer - destroys items and obstacles</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Молоток - уничтожает фишки и препятствия</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Marteau – supprime les jetons et les obstacles</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Martillo: destruye objetos y obstáculos</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Martelo - destrói itens e obstáculos</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Hammer – zerstört Steine und Hindernisse</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>   
+  
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="19">
+		<EN>
+			<TEXT>Broom - destroys the web</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Метла - уничтожает паутину</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Balai – fait disparaître la toile d’araignée</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Escoba - destruye la web</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Vassoura - destrói a teia</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Besen – zerstört Spinnen Weben</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>    
+  
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="20">
+		<EN>
+			<TEXT>Tornado - mixes all items</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Торнадо - перемешивает фишки на поле</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Mélange – pour mélanger les jetons sur le champ</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Tornado - mistura todos os itens</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Tornado - mezcla todos los artículos</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Mischung – mischt alle Steine auf dem Feld</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>  
+  
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="21">
+		<EN>
+			<TEXT>Magnet - destroys all identical items</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Магнит - уничтожает все одинаковые фишки на поле</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Aimant – fait disparaître tous les jetons du même type sur le champ</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Imán: destruye todos los elementos idénticos</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Magnet - destrói todos os itens idênticos</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Magnet – zerstört alle gleichen Steine auf dem Feld</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>  
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="22">
+		<EN>
+			<TEXT>Gift Box - adds random bonuses on the playing field</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Мешок с подарками - добавляет случайные бонусы на поле</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Boîte aux cadeaux – ajoute des bonus aléatoires sur le champ</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Caja de regalo: agrega bonos al azar en el campo de juego</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Gift Box - adiciona bônus aleatórios no campo de jogo</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Geschenkkiste – fügt einen Bonus hinzu</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 	
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_help"  phrase_id="23">
+		<EN>
+			<TEXT>Swords - removes vertical and horizontal gems.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Мечи - удаляют вертикальные и горизонтальные фишки.</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Swords - supprime les gemmes verticales et horizontales.</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Schwerter - Entfernt vertikale und horizontale Edelsteine.</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 
+	
+   	<DYNAMIC_PHRASE scene_id="game_map" item_id="button_play"  phrase_id="1">
+		<EN>
+			<TEXT>Continue</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Продолжить</TEXT>
+			<SIZE>-2</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Continuer</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Continuar</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Continuar</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Weiter</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 
+   
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="game_map"  phrase_id="1">
+		<EN>
+			<TEXT>Play</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Играть</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+          <FR>
+		<TEXT>Jouez</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Jugar</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Jogar</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Spielen</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>	   
+   
+	
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="hint_stars"  phrase_id="1">
+		<EN>
+			<TEXT>There're the stars that you earned. Use them to unlock the levels.</TEXT>
+			<SIZE>0</SIZE>			
+		</EN>
+		<RU>
+			<TEXT>Это заработанные вами звёзды.\n Они вам необходимы чтобы, открывать заблокированные уровни.</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Il y a les étoiles que vous avez gagnées. Utilisez-les pour ouvrir les niveaux.</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Están las estrellas que ganaste. Úselos para desbloquear los niveles.</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>São as estrelas que você ganhou. Use-os para desbloquear os níveis.</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Da sind die Sterne, die du verdient hast. Benutze sie, um die Level öffnen.</TEXT>
+			<SIZE>0</SIZE>
+		</DE>
+	</DYNAMIC_PHRASE>  
+
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="hint_pimp"  phrase_id="1">
+		<EN>
+			<TEXT>Please go through the previous tournaments to open the next one.</TEXT>
+			<SIZE>0</SIZE>			
+		</EN>
+		<RU>
+			<TEXT>Пройдите предыдущие турниры, чтобы открыть следующий</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>SVP terminez les tournois précédents pour ouvrir le prochain.</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Bitte gehen Sie durch die vorherigen Turniere, um diese zu öffnen.</TEXT>
+			<SIZE>0</SIZE>
+		</DE>
+	</DYNAMIC_PHRASE>  
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="hint_pimp"  phrase_id="2">
+		<EN>
+			<TEXT>Closed</TEXT>
+			<SIZE>0</SIZE>			
+		</EN>
+		<RU>
+			<TEXT>Закрыто</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Fermé</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Geschlossen</TEXT>
+			<SIZE>0</SIZE>
+		</DE>
+	</DYNAMIC_PHRASE> 
+	
+
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="buy_money"  phrase_id="1">
+		<EN>
+			<TEXT>You didn't have enough coins. Buy coins in our store</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>У вас не хватило монет. Приобретайте монеты в нашем магазине</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Vous n'aviez pas assez de pièces. Acheter des pièces dans notre magasin</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Comprar monedas</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Comprar moedas</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Sie haben nicht genug Münzen. Kaufen Münzen in unserem Laden</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="buy_money"  phrase_id="2">
+		<EN>
+			<TEXT>Most popular</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Хит продаж</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Top des ventes</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Golpe de ventas</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Batida de vendas</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Verkaufsschlager</TEXT>
+			<SIZE>-4</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 	
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="buy_money"  phrase_id="3">
+		<EN>
+			<TEXT>Best value</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Выгодная цена</TEXT>
+			<SIZE>-4</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Prix avantageux</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Precio razonable</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Preço razoável</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Angebot</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>	
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="buy_money"  phrase_id="6">
+		<EN>
+			<TEXT>Free</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Бесплатно</TEXT>
+			<SIZE>-2</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Gratuit</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Gratis</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Grátis</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Kostenlos</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="buy_money"  phrase_id="8">
+		<EN>
+			<TEXT>Coins</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Монеты</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Pièces</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Münzen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="buy_money"  phrase_id="9">
+		<EN>
+			<TEXT>Royal chests</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Королевские сундуки</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Coffres Royaux</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Königliche Truhen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="game_exit"  phrase_id="1">
+		<EN>
+			<TEXT>Quit the game</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Выйти из игры</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Quittez le jeu</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Salir del juego</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Feche o jogo</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Spiel verlassen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>	
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="game_exit"  phrase_id="2">
+		<EN>
+			<TEXT>Do you really want to quit the level?</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Уже уходите?</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Vous voulez bien terminer le niveau?</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Wollen sie wirklich den Level abschließen?</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>	
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="game_exit"  phrase_id="5">
+		<EN>
+			<TEXT>You'll lose</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Вам будет засчитано поражение!</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Vous allez perdre</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Sie werden verlieren</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="game_exit"  phrase_id="3">
+		<EN>
+			<TEXT>Exit</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Выйти</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Quitter</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Salida</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Saída</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Verlassen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>		
+	
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="game_exit"  phrase_id="4">
+		<EN>
+			<TEXT>Cancel</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Отмена</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Annuler</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Cancelar</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Cancelar</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Abbrechen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>		
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="game_finished"  phrase_id="1">
+		<EN>
+			<TEXT>Congratulations!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Поздравляем!</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Félicitations!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>¡Felicitaciones!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Parabéns!</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Glückwunsch!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>	
+	
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="game_finished"  phrase_id="2">
+		<EN>
+			<TEXT>You've finished the game</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Вы прошли всю игру!</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Vous avez passé tous les niveaux!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Has terminado el juego</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Você terminou o jogo</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Sie haben das ganze Spiel durch!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>	
+	
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="game_finished"  phrase_id="3">
+		<EN>
+			<TEXT>Reset game</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Начать с начала</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Recommencer</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Reiniciar el juego</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Redefinir o jogo</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Von vorne anfangen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>		
+	
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="game_finished"  phrase_id="4">
+		<EN>
+			<TEXT>More games</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Ещё игры</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Plus de jeux</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Más juegos</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Mais jogos</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Mehr Spiele</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>		
+	
+  
+  
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_complete"  phrase_id="1">
+		<EN>
+			<TEXT>Level complete</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Уровень пройден</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Niveau terminé</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Nivel pasado</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Nível passado</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Level geschafft</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>  
+  
+  
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_complete"  phrase_id="2">
+		<EN>
+			<TEXT>Well Done</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Отлично</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Parfait</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Genial</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Ótimo</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Super</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>    
+  
+  
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_complete"  phrase_id="3">
+		<EN>
+			<TEXT>Great Game</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Превосходно</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Bravo</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Excelente</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Soberbo</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Toll</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>    
+    
+  
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_complete"  phrase_id="4">
+		<EN>
+			<TEXT>You're a master</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Восхитительно</TEXT>
+			<SIZE>-4</SIZE>
+		</RU>
+		<FR>
+			<TEXT>À merveille</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Es delicioso</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>É delicioso</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Perfekt</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>    
+  
+  
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_complete"  phrase_id="5">
+		<EN>
+			<TEXT>Score:</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Очки:</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Points:</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Puntos:</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Pontos:</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Punkte:</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>    
+  
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_complete"  phrase_id="6">
+		<EN>
+			<TEXT>Continue</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Продолжить</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Continuer</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Continuar</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Continuar</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Weiter</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>     
+	
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_complete"  phrase_id="10">
+	  <EN>
+		<TEXT>Tournament %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Турнир %val</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Tournoi %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+       <DE>
+		<TEXT>Turnier %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_complete"  phrase_id="11">
+	  <EN>
+		<TEXT>Get your prize</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Получите вашу награду</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Obtenez votre prix</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Holen Sie Ihr Belohnung</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_complete"  phrase_id="12">
+	  <EN>
+		<TEXT>Unfortunately all chest places are occupied</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>К сожалению, все места для сундуков заняты</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Malheureusement, il n’y a plus de place libre pour un coffre</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Leider, sind alle Plätze für die Truhe besetzt</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_complete"  phrase_id="13">
+	  <EN>
+		<TEXT>You’ve already got the chest for this tournament</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Вы уже получали сундук за этот турнир</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Vous avez déjà obtenu un coffre pour ce tournoi</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Sie haben die Truhe für dieses Turnier schon bekommen</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	 <DYNAMIC_PHRASE scene_id="game_windows" item_id="level_complete"  phrase_id="9">
+	  <EN>
+		<TEXT>Earned rating points:</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Заработано очков рейтинга:</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Points attribués:</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Verdiente Bewertungspunkte:</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+		 <DYNAMIC_PHRASE scene_id="game_windows" item_id="level_complete"  phrase_id="91">
+	  <EN>
+		<TEXT>Earned rating points:</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Заработано очков рейтинга:</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Points attribués:</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Verdiente Bewertungspunkte:</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+		 <DYNAMIC_PHRASE scene_id="game_windows" item_id="level_complete"  phrase_id="92">
+	  <EN>
+		<TEXT>Earned rating points:</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Заработано очков рейтинга:</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Points attribués:</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Verdiente Bewertungspunkte:</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	 <DYNAMIC_PHRASE scene_id="game_windows" item_id="level_complete"  phrase_id="14">
+	  <EN>
+		<TEXT>Tell friends and get %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Рассказать друзьям и получить %val</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Partager avec des amis et obtenir %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT> %val:</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT> %val:</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Den Freunden erzählen und bekommen %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+
+  
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_failed"  phrase_id="1">
+		<EN>
+			<TEXT>Level Failed</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Уровень не пройден</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Niveau à repasser</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Nivel no pasado</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Nível não passado</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Level nicht geschafft</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>   
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_failed"  phrase_id="2">
+		<EN>
+			<TEXT>No moves left!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>У вас закончились ходы</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Plus de marches</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>¡No quedan movimientos!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Não há movimentos à esquerda!</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Keine Züge mehr</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 
+	
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_failed"  phrase_id="4">
+		<EN>
+			<TEXT>Add %val [move,moves]</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Добавить %val [ход,хода,ходов]</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Ajouter %val [marche,marches]</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Añadir %val [movimiento, movimientos]</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Adicionar %val [movimento, movimentos]</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Hinzufügen %val [Zug, Züge] </TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>   
+	
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_failed"  phrase_id="8">
+		<EN>
+			<TEXT>Add %val[card, cards] to the deck for %val</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Добавить %val[карта, карты, карт] в колоду за %val</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Ajouter %val[cart, cartes] au paquet pour %val</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Füge %val[Karte, Karten] zu Deck hinzu für %val</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_failed"  phrase_id="9">
+		<EN>
+			<TEXT>Add</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Добавить</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Ajouter</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Hinzufügen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+  </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_failed"  phrase_id="6">
+		<EN>
+			<TEXT>Continue</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Продолжить</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Continuer</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Continuar</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Continuar</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Weiter</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>   
+	
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_failed"  phrase_id="7">
+		<EN>
+			<TEXT>Exit</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Выйти</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Quittez</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Salida</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Saída</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Verlassen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_failed2"  phrase_id="1">
+	  <EN>
+	   <TEXT>You lost</TEXT>
+	   <SIZE>0</SIZE>  
+	  </EN>
+	  <RU>
+	   <TEXT>Вы проиграли</TEXT>
+	   <SIZE>0</SIZE>
+	  </RU>
+	  <FR>
+	   <TEXT>Vous avez perdu</TEXT>
+	   <SIZE>0</SIZE>  
+	  </FR>
+	  <ES>
+	   <TEXT> Perdiste</TEXT>
+	   <SIZE>0</SIZE>  
+	  </ES>
+	  <PT>
+	   <TEXT>Você perdeu</TEXT>
+	   <SIZE>0</SIZE>  
+	  </PT>
+	  <DE>
+	   <TEXT>Sie haben verloren</TEXT>
+	   <SIZE>0</SIZE>  
+	  </DE>
+	 </DYNAMIC_PHRASE> 
+
+	 <DYNAMIC_PHRASE scene_id="game_windows" item_id="level_failed2"  phrase_id="2">
+	  <EN>
+	   <TEXT>Don't be upset,\n you'll win next time!</TEXT>
+	   <SIZE>0</SIZE>  
+	  </EN>
+	  <RU>
+	   <TEXT>Не расстраивайтесь,\n у вас еще получится победить!</TEXT>
+	   <SIZE>0</SIZE>
+	  </RU>
+	  <FR>
+	   <TEXT>Ne sois pas fâché,\n vous gagnerez la prochaine fois!</TEXT>
+	   <SIZE>0</SIZE>  
+	  </FR>
+	  <ES>
+	   <TEXT>  </TEXT>
+	   <SIZE>0</SIZE>  
+	  </ES>
+	  <PT>
+	   <TEXT>  </TEXT>
+	   <SIZE>0</SIZE>  
+	  </PT>
+	  <DE>
+	   <TEXT>Sei nicht sauer,\n Sie werden das nächste Mal gewinnen! </TEXT>
+	   <SIZE>0</SIZE>  
+	  </DE>
+	 </DYNAMIC_PHRASE>	
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_failed2"  phrase_id="3">
+	  <EN>
+		<TEXT>You have to wait to try one more time</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Вам нужно подождать, чтобы попробовать еще раз</TEXT>
+		<SIZE>-2</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Vous devez attendre pour essayer encore une fois</TEXT>
+		<SIZE>-3</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>wait</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>wait</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Sie müssen warten, um es noch einmal zu versuchen</TEXT>
+		<SIZE>-4</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+
+  
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_locked"  phrase_id="1">
+		<EN>
+			<TEXT>Level is locked</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Уровень заблокирован</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Niveau est bloqué</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Nivel está bloqueado</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Nível está bloqueado</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Level blockiert</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>    
+  
+  
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_locked"  phrase_id="2">
+		<EN>
+			<TEXT>Please, collect %val [star,stars] in previous levels to open new levels</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Соберите %val [звёзду,звезды,звёзд] на предыдущих уровнях, чтобы открыть новые уровни</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Collectez %val [étoile,étoile] aux niveaux précédants</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Por favor, recoge %val [estrella,estrellas] en el nivel anterior</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Por favor, colete %val [estrela,estrelas] no nível anterior</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Sammeln Sie %val [Stern, Sterne] in den letzten Leven</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>    
+  
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_locked"  phrase_id="3">
+		<EN>
+			<TEXT>Currently: %val</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Собрано: %val</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Collecté : %val</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Coleccionado:</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Recolhido:</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Gesammelt: %val</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>   
+  <DYNAMIC_PHRASE scene_id="game_windows" item_id="level_locked"  phrase_id="4">
+	  <EN>
+		<TEXT>Open for %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Открыть за %val</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Ouvrir pour %val</TEXT>
+		<SIZE>-2</SIZE>		
+	  </FR>
+       <DE>
+		<TEXT>Offen für %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+ 
+  
+  
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="purchase_complete"  phrase_id="1">
+		<EN>
+			<TEXT>Congratulations</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Поздравляем</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Félicitations</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>¡Felicitaciones!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Parabéns!</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Herzlichen Glückwunsch!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>    
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="purchase_complete"  phrase_id="2">
+		<EN>
+			<TEXT>Purchase is complete!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Покупка выполнена успешно!</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>L’achat est réalisé!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>¡La compra fue exitosa!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>A compra foi bem sucedida!</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Kauf erfolgreich abgeschlossen!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>  
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="purchase_complete"  phrase_id="3">
+		<EN>
+			<TEXT>Continue</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Продолжить</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Continuer</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Continuar</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Continuar</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Weiter</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>  	
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="purchase_complete"  phrase_id="4">
+		<EN>
+			<TEXT>Now you have:</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Теперь у вас:</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Maintenant vous avez:</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Ahora tu tienes:</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Agora você tem:</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Jetzt haben Sie:</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+  
+  
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="purchase_failed"  phrase_id="1">
+		<EN>
+			<TEXT>Purchase failed</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Покупка не удалась</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>L’achat n’est pas réalisé</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>La compra falló</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>A compra falhou</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Kauf gescheitert</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>    
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="purchase_failed"  phrase_id="2">
+		<EN>
+			<TEXT>Something is wrong with your purchase</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Что-то пошло не так с покупкой...</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Quelque chose ne va pas avec votre achat...</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Algo está mal con su compra...</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Algo está errado com sua compra...</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Etwas funktioniert beim Kauf nicht…</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>  
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="purchase_failed"  phrase_id="3">
+		<EN>
+			<TEXT>Continue</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Продолжить</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Continuer</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Continuar</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Continuar</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Weiter</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>  	  
+
+  	
+
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="1">
+		<EN>
+			<TEXT>How to play</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Как играть</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Comment jouer</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Cómo jugar</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Como jogar</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Information</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>  
+	
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="2">
+		<EN>
+			<TEXT>ОK</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>ОK</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>OK</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>OK</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>OK</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>OK</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 	
+	
+  
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="3">
+		<EN>
+			<TEXT>Swap to match 3 or more identical items in a row.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Собирайте одинаковые фишки в ряд не менее трёх.</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Mettez au moins 3 jetons de la même couleur dans un rang.</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Cambie para unir 3 o más elementos idénticos en una fila.</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Troque para combinar 3 ou mais itens idênticos seguidos.</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Sammeln sie mindestens drei gleiche Steine in einer Reihe.</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>   
+  
+  
+  
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="4">
+		<EN>
+			<TEXT>Break all golden or silver tiles to finish the level.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>За некоторыми фишками находятся золотые или серебряные плитки. Разбейте их все, чтобы закончить уровень</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Casser tous les carreaux d'or ou d'argent pour terminer le niveau.</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Rompe todos los azulejos dorados o plateados para terminar el nivel.</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Quebre todos os azulejos dourados ou prateados para terminar o nível.</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Zerbrich alle goldenen oder silbernen Kacheln, um das Level zu beenden.</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>    
+  
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="5">
+		<EN>
+			<TEXT>Obstacles</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Препятствия</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Obstacles</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Obstáculos</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Obstáculos</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Hindernis</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>      
+  
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="6">
+		<EN>
+			<TEXT>Create matches of 3-in-row near the silver and golden tiles to break them.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Уничтожьте фишки над серебряными и золотыми плитками, чтобы разбить их все и закончить уровень</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Faites disparaître les jetons au-dessus des tablettes d'argent et d'or pour les briser et terminer le niveau</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Destruye las fichas sobre las barras de plata y oro  para romperlas todas y terminar el nivel</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Destrua as fichas sobre as barras prateadas e douradas para quebrá-las e terminar o nível</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Zerstören sie Steine über den silberne und goldene Platten um diese zu zerstören.</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>    
+	
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="7">
+		<EN>
+			<TEXT>Match near the crates and ice cubes or use a bonus to unblock the playing field.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Уничтожьте фишки возле ящиков и кусков льда или взорвите их бонусами, чтобы разблокировать игровое поле</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Faites disparaître les jetons près des boîtes et des morceaux de glace ou faites-les sauter pour débloquer le champ de jeu</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Destruye las fichas cerca de las cajas y trozos de hielo o diséñalo con bonos para desbloquear el campo de juego</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Destrua as fichas perto das caixas e pedaços de gelo ou exploda-as com bônus para desbloquear o campo de jogo</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Zerstören sie Steine neben Kisten bzw. Eisstücken oder sprengen sie diese mit Hilfe von Bonussen, um ein neues Feld freizuschalten</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>   
+
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="8">
+		<EN>
+			<TEXT>Move the object down to get it and to finish the level</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Опустите предмет вниз поля, чтобы собрать его и закончить уровень</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Tirez l’objet vers le bas du champ pour le cueillir et terminer le niveau </TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Mueve el objeto hacia abajo para obtenerlo y para terminar el nivel</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Mova o objeto para baixo para obtê-lo e para terminar o nível</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Befördern sie den Gegenstand nach unten, um ihn einzusammeln und das Level zu beenden</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>   
+
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="9">
+		<EN>
+			<TEXT>This item is locked. Pair it with matching items or use a bonus to break the web.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Уничтожьте фишку под паутиной или взорвите её бонусом, чтобы очистить поле</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Faites disparaître le jeton sous la toile d’araignée ou faites-le sauter avec le bonus pour dégager le champ</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Destruye la ficha debajo de la tela de araña o abrázala con una bonificación para despejar el campo</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Destruir o ficha sob a teia de aranha ou explodi-lo com um bônus para limpar o campo</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Zerstören sie den Stein über den Spinnen Weben oder sprengen sie dieses mit einem Bonus, um das Level zu beenden.</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>   
+
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="10">
+		<EN>
+			<TEXT>Match near ghosts and spiders or use a bonus till they block the playing field.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Уничтожьте фишки рядом с привидением и пауком или взорвите их бонусом, пока они не заблокировали всё поле</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Faites disparaître les jetons près d’un fantôme et d’une araignée ou faites-les sauter à l’aide du bonus tant qu’ils n’ont pas bloqué le champ entier</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Destruye las fichas junto al fantasma y la araña, o hazlas explotar con una bonificación, hasta que bloqueen todo el campo</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Destrua as fichas ao lado do fantasma e da aranha, ou exploda-as com um bônus, até que elas bloqueiem todo o campo</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Zerstören sie einen Stein neben einer Spinne bzw. eines Geists oder sprengen sie die Spinne mit einem Bonus, um das Level zu beenden.</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>   
+
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="11">
+		<EN>
+			<TEXT>Match near the portal or use a bonus to unlock the hidden part of the playing field.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Уничтожьте фишки возле портала или взорвите его бонусом, чтобы открыть скрытую часть поля</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Faites disparaître les jetons près de la porte entrouverte ou faites-la sauter àl’aide du bonus pour ouvrir la partie cachée du champ</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Destruye las fichas cerca del portal o atácalo con una bonificación para abrir la parte oculta del campo</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Destrua as fichas perto do portal ou exploda-as com um bônus para abrir a parte oculta do campo</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Zerstören sie Steine neben einer offenen Tür oder sprengen sie die Tür mit einem Bonus, um ein neues Feld freizuschalten</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>   
+
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="12">
+		<EN>
+			<TEXT>Game Bonuses</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Игровые Бонусы</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Bonus de jeu</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Bonos de juego</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Bônus do jogo</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Spielbonusse</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 	
+	
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="13">
+		<EN>
+			<TEXT>Match 4 tiles to get</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Уничтожьте 4 фишки чтобы получить</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Faites disparaître 4 jetons pour obtenir</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Destruye 4 fichas para obtener</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Destrua 4 fichas para obter</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Zerstören sie 4 Steine um zu bekommen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 		
+
+
+	
+	
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="14">
+		<EN>
+			<TEXT>Match 5 items to get</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Уничтожьте 5 фишек чтобы получить</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Faites disparaître 5 jetons pour obtenir</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Destruye 5 fichas para obtener</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Destrua 5 fichas para obter</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Zerstören sie 5 Steine um zu bekommen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 	
+
+
+
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="15">
+		<EN>
+			<TEXT>Match 4 or more items to get</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Уничтожьте 4 или более фишек чтобы получить</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Faites disparaître au moins 4 jetons pour obtenir</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Destruye 4 fichas para obtener</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Destrua 4 fichas para obter</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Zerstören sie 4 oder mehr Steine um zu bekommen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 		
+	
+	
+	
+	
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="16">
+		<EN>
+			<TEXT>Buy Bonuses</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Покупные бонусы</TEXT>
+			<SIZE>-4</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Bonus d’achat</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Comprar bônus</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Compre bonos</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Kaufen sie Bonusse</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 	
+  
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="17">
+		<EN>
+			<TEXT>Buy these bonuses for earned coins and use them in the game</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Купите эти бонусы на заработанные монеты и используйте их в игре</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Achetez ces bonus pour les pièces gagnées et utilisez-les</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Compre estas bonificaciones por las monedas ganadas y úselas en el juego</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Compre estes bônus para ganhar moedas e use-os no jogo</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Kaufen sie die Bonusse für die Münzen aus dem Spiel und setzen diese dann im Spiel ein</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>  
+  
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="18">
+		<EN>
+			<TEXT>Hammer - destroys items and obstacles</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Молоток - уничтожает фишки и препятствия</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Marteau – supprime les jetons et les obstacles</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Martillo: destruye objetos y obstáculos</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Martelo - destrói itens e obstáculos</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Hammer – zerstört Steine und Hindernisse</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>   
+  
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="19">
+		<EN>
+			<TEXT>Broom - destroys the web</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Метла - уничтожает паутину</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Balai – fait disparaître la toile d’araignée</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Escoba - destruye la web</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Vassoura - destrói a teia</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Besen – zerstört Spinnen Weben</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>    
+  
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="20">
+		<EN>
+			<TEXT>Tornado - mixes all items</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Торнадо - перемешивает фишки на поле</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Mélange – pour mélanger les jetons sur le champ</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Tornado - mistura todos os itens</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Tornado - mezcla todos los artículos</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Mischung – mischt alle Steine auf dem Feld</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>  
+  
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="21">
+		<EN>
+			<TEXT>Magnet - destroys all identical items</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Магнит - уничтожает все одинаковые фишки на поле</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Aimant – fait disparaître tous les jetons du même type sur le champ</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Imán: destruye todos los elementos idénticos</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Magnet - destrói todos os itens idênticos</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Magnet – zerstört alle gleichen Steine auf dem Feld</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>  
+
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="22">
+		<EN>
+			<TEXT>Gift Box - adds random bonuses on the playing field</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Мешок с подарками - добавляет случайные бонусы на поле</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Boîte aux cadeaux – ajoute des bonus aléatoires sur le champ</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Caja de regalo: agrega bonos al azar en el campo de juego</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Gift Box - adiciona bônus aleatórios no campo de jogo</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Geschenkkiste – fügt einen Bonus hinzu</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 	
+	
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="tutorial"  phrase_id="23">
+		<EN>
+			<TEXT>Bat - calls the butterflies and destroys the obstacles</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Летучая мышь - вызывает бабочек и уничтожает препятствия на поле</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>La chauve-souris – appelle des papillons et supprime des obstacles sur le champ</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>El murciélago: llama a las mariposas y destruye los obstáculos</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Morcego - chama as borboletas e destrói os obstáculos</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Fledermaus - zerstört ein Hindernis auf dem Feld</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 	
+
+  	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="day_bonus"  phrase_id="1">
+	  <EN>
+		<TEXT>Daily bonus</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Ежедневный бонус</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Bonus quotidien</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Bonus diario</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Bônus diário</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Täglicher Bonus</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="day_bonus"  phrase_id="2">
+	  <EN>
+		<TEXT>Day %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>%val день</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Jour %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Día %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Dia %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Tag %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="day_bonus"  phrase_id="3">
+	  <EN>
+		<TEXT>Your prize</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Ваша награда</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Votre prix</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Tu bono</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Seu bônus</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Ihr Belohnung</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="day_bonus"  phrase_id="4">
+	  <EN>
+		<TEXT>Thanks</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Спасибо</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Merci</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Gracias</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Obrigado</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Danke</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+<DYNAMIC_PHRASE scene_id="game_windows" item_id="sale_strip"  phrase_id="1">
+	  <EN>
+		<TEXT>Special offer</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Уникальное предложение</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Offre spéciale</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Oferta especial</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Oferta especial</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Sonderangebot</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sale_strip"  phrase_id="2">
+	  <EN>
+		<TEXT>Profitable offer</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Выгодное предложение</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Offre rentable</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Oferta rentable</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Oferta rentável</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Profitables Angebot</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sale_strip"  phrase_id="3">
+	  <EN>
+		<TEXT>Personal offer</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Персональное предложение</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Offre personnelle</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Oferta personal</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Oferta pessoal</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Persönliches Angebot</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sale_strip"  phrase_id="4">
+	  <EN>
+		<TEXT>Profitable offer</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Выгодное предложение</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Offre rentable</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Oferta rentable</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Oferta rentável</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Profitables Angebot</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sale_info1"  phrase_id="1">
+	  <EN>
+		<TEXT>Special offer to buy coins</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Уникальное предложение на покупку монет</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Offre spéciale pour acheter des pièces</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Oferta especial para comprar monedas</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Oferta especial para comprar moedas</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Sonderangebot zum Kauf von Münzen</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sale_info1"  phrase_id="2">
+	  <EN>
+		<TEXT>Limited offer to buy coins</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Ограниченное предложение на покупку монет</TEXT>
+		<SIZE>-2</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Offre limitée pour acheter des pièces</TEXT>
+		<SIZE>-2</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Oferta limitada para comprar monedas</TEXT>
+		<SIZE>-2</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Oferta limitada para comprar moedas</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Limitiertes Angebot zum Kauf von Münzen</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sale_info1"  phrase_id="3">
+	  <EN>
+		<TEXT>Personal offer to buy coins</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Персональное предложение на покупку монет</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Offre personnelle pour acheter des pièces</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Oferta personal para comprar monedas</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Oferta pessoal para comprar moedas</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Persönliches Angebot zum Kauf von Münzen</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sale_info1"  phrase_id="4">
+	  <EN>
+		<TEXT>Profitable offer to buy bonuses</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Выгодное предложение на покупку бонусов!</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Offre rentable acheter des bonus</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Oferta rentable comprar bonos</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Oferta rentável para comprar bônus</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Profitables Angebot Boni kaufen</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sale_info2"  phrase_id="1">
+	  <EN>
+		<TEXT>Make your first purchase and get a discount of %val% more profitable than in the store!</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Совершите вашу первую покупку и получите на %val% больше монет, чем в магазине!</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Faites votre premier achat et obtenez un rabais %val% plus rentable que dans le magasin!</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Haga su primera compra y obtenga un descuento ¡%val% más rentable que en la tienda!</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Faça sua primeira compra e ganhe um desconto %val% mais rentável do que na loja !</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Machen Sie Ihren ersten Einkauf und erhalten Sie einen Rabatt %val% mehr Gewinn als im Laden!</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sale_info2"  phrase_id="2">
+	  <EN>
+		<TEXT>Make your second purchase and get a discount of %val% more profitable than in the store! </TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Совершите вашу вторую покупку и получите на %val% больше монет, чем в магазине!</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Faites votre deuxième achat et obtenez un rabais %val% plus rentable que dans le magasin!</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Haga su segunda compra y obtenga un descuento ¡%val% más rentable que en la tienda!</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Faça sua segunda compra e ganhe um desconto %val% mais rentável do que na loja !</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Machen Sie Ihren zweiten Einkauf und erhalten Sie einen Rabatt %val% mehr Gewinn als im Laden! </TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sale_info2"  phrase_id="3">
+	  <EN>
+		<TEXT>We appreciate you like our game. Only for you we make %val% discount on coins</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Мы ценим то, что вам нравится наша игра. Только для вас мы делаем бонус на монеты +%val%</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Nous apprécions que vous aimez notre jeu. Seulement pour vous, nous faisons %val% de réduction sur les pièces </TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Apreciamos que te guste nuestro juego. Solo para ti hacemos un %val% de descuento en monedas</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Agradecemos a você como o nosso jogo. Somente para você, fazemos %val% de desconto em moedas</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Wir freuen uns, dass Sie unser Spiel mögen. Nur für Sie machen wir %val% Rabatt auf Münzen *</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sale_info2"  phrase_id="4">
+	  <EN>
+		<TEXT>Buy bonuses for very profitable price +%val% to purchase a set right now</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Запаситесь подсказками по очень выгодной цене +%val% на покупку набора прямо сейчас</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Acheter des bonus pour un prix très rentable +%val% pour acheter un ensemble en ce moment</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Compre bonos por un precio muy rentable +%val% comprar un juego en este momento</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Compre bônus por um preço muito lucrativo +%val% para comprar um set agora</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Kaufen Sie Boni für sehr profitablen Preis +%val% um jetzt ein Set zu kaufen</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sale"  phrase_id="1">
+	  <EN>
+		<TEXT>Sale</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Акция</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Remise!</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Acción</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Promoção</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Aktie!</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sale"  phrase_id="2">
+	  <EN>
+		<TEXT>Not enough coins?</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Недостаточно монет?</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Pas assez des pièces</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>No hay suficientes monedas</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Não há moedas suficientes</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Nicht genug Münzen</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sale"  phrase_id="3">
+	  <EN>
+		<TEXT>The offer is valid:</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>До конца акции осталось:</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>L'offre est valide:</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>La oferta es válida:</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>A oferta é válida:</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Das Angebot ist gültig:</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sale"  phrase_id="4">
+	  <EN>
+		<TEXT>%val coins</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>%val монет</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>%val pièces</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>%val monedas</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>%val moedas</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>%val Münzen</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sale"  phrase_id="5">
+	  <EN>
+		<TEXT>%val hints</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>%val подсказок</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>%val indices</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>%val pistas</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>%val dicas</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>%val Tipps</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="sale"  phrase_id="6">
+	  <EN>
+		<TEXT>Buy for %val</TEXT>
+		<SIZE>-2</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Купить за %val</TEXT>
+		<SIZE>-5</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Acheter pour %val</TEXT>
+		<SIZE>-8</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Comprar para %val</TEXT>
+		<SIZE>-8</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Comprar para %val</TEXT>
+		<SIZE>-8</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Kaufen für %val</TEXT>
+		<SIZE>-6</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="no_sales"  phrase_id="3">
+	  <EN>
+		<TEXT>Continue</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Продолжить</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Continuer</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Continuar</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Continuar</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Fortsetzen</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="no_sales"  phrase_id="2">
+	   <EN>
+	  <TEXT>Unfortunately, there’re no promotional offers now, but they'll appear tomorrow!</TEXT>
+	  <SIZE>0</SIZE>  
+	   </EN>
+	   <RU>
+	  <TEXT>К сожалению, сейчас нет доступных акционных предложений, но они появятся завтра!</TEXT>
+	  <SIZE>0</SIZE>
+	   </RU>
+			  <FR>
+	  <TEXT>Malheureusement, il n'y a pas d'offres promotionnelles maintenant, mais elles apparaîtront demain!</TEXT>
+	  <SIZE>0</SIZE>  
+	   </FR>
+			  <ES>
+	  <TEXT>Desafortunadamente, ahora no hay ofertas promocionales, ¡pero aparecerán mañana!</TEXT>
+	  <SIZE>0</SIZE>  
+	   </ES>
+			  <PT>
+	  <TEXT>Infelizmente, não há ofertas promocionais agora, mas aparecerão amanhã!</TEXT>
+	  <SIZE>0</SIZE>  
+	   </PT>
+			  <DE>
+	  <TEXT>Leider gibt es keine Werbeangebote, aber sie werden morgen erscheinen!</TEXT>
+	  <SIZE>0</SIZE>  
+	   </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="no_sales"  phrase_id="1">
+	   <EN>
+	  <TEXT>Sales are unavailable</TEXT>
+	  <SIZE>0</SIZE>  
+	   </EN>
+	   <RU>
+	  <TEXT>Акции недоступны</TEXT>
+	  <SIZE>0</SIZE>
+	   </RU>
+			  <FR>
+	  <TEXT>Les remises ne sont pas disponibles</TEXT>
+	  <SIZE>0</SIZE>  
+	   </FR>
+			  <ES>
+	  <TEXT></TEXT>
+	  <SIZE>0</SIZE>  
+	   </ES>
+			  <PT>
+	  <TEXT></TEXT>
+	  <SIZE>0</SIZE>  
+	   </PT>
+			  <DE>
+	  <TEXT>Akties nicht verfügbar</TEXT>
+	  <SIZE>0</SIZE>  
+	   </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="wait_tournament"  phrase_id="1">
+	  <EN>
+		<TEXT>You've lost the previous tournament!</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Вы проиграли в предыдущем турнире!</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Vous avez perdu dans le tournoi précédent!</TEXT>
+		<SIZE>-2</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>¡Perdiste en el torneo anterior!</TEXT>
+		<SIZE>-2</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Você perdeu no torneio anterior!</TEXT>
+		<SIZE>-2</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Sie haben im vorherigen Turnier verloren!</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="wait_tournament"  phrase_id="4">
+	  <EN>
+		<TEXT>Please wait to try again</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Пожалуйста, подождите, чтобы попробовать еще раз</TEXT>
+		<SIZE>-3</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Veuillez patienter pour commencer un nouveau</TEXT>
+		<SIZE>-2</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Por favor, espera para comenzar uno nuevo.</TEXT>
+		<SIZE>-2</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Por favor aguarde para começar uma nova.</TEXT>
+		<SIZE>-2</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Bitte warten Sie, um eine neue zu starten.</TEXT>
+		<SIZE>-2</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="wait_tournament"  phrase_id="2">
+	  <EN>
+		<TEXT>Play now %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Играть сейчас %val</TEXT>
+		<SIZE>-7</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Jouez maintenant %val</TEXT>
+		<SIZE>-8</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Desbloquear %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Desbloquear %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Spielen Sie jetzt %val</TEXT>
+		<SIZE>-8</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="wait_tournament"  phrase_id="3">
+	  <EN>
+		<TEXT>You have to wait</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Придется подождать</TEXT>
+		<SIZE>-4</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Vous devez attendre</TEXT>
+		<SIZE>-4</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Tienes que esperar</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Você tem que esperar</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Sie müssen warten</TEXT>
+		<SIZE>-3</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="wait_competitors"  phrase_id="1">
+	  <EN>
+		<TEXT>Knockout tournament</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Турнир на вылет</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Tournoi d’appui</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Torneo Eliminatorio</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Torneio de eliminação</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Turnier zum Austritt</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="wait_competitors"  phrase_id="2">
+	  <EN>
+		<TEXT>Waiting for the participants...</TEXT>
+		<SIZE>-6</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Ожидаем участников...</TEXT>
+		<SIZE>-2</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>En attendant les participants...</TEXT>
+		<SIZE>-6</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Esperando a los participantes...</TEXT>
+		<SIZE>-6</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Esperando os participantes...</TEXT>
+		<SIZE>-6</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Warten auf die Teilnehmer...</TEXT>
+		<SIZE>-6</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="wait_competitors"  phrase_id="3">
+	  <EN>
+		<TEXT>Duel!</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Дуэль!</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Duel!</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Duell!</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="wait_competitors"  phrase_id="4">
+	  <EN>
+		<TEXT>Waiting for the competitors...</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Ожидаем соперника...</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>En attendant l’adversaire...</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Gegner erwarten...</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="wait_competitors"  phrase_id="8">
+	  <EN>
+		<TEXT>Game on!</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Начали!</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>A commencé!</TEXT>
+		<SIZE>-25</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Juego en!</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Já começaram!</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Spiel an!</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+  
+	<DYNAMIC_PHRASE scene_id="tutorial" item_id="click"  phrase_id="1">
+	  <EN>
+		<TEXT>Click to continue</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Щелкните, чтобы продолжить</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Cliquez pour continuer</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Haz click para continuar</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Clique para continuar</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Klicke um Fortzufahren</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+  
+  <DYNAMIC_PHRASE scene_id="game_map" item_id="left_stand"  phrase_id="all">
+	  <EN>
+		<TEXT>Leaders</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Лидеры</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Leaders</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Führer</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+
+  	<DYNAMIC_PHRASE scene_id="game_map" item_id="left_header"  phrase_id="1">
+	  <EN>
+		<TEXT>Rating</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Рейтинг</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Rating</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Clasificación</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Classificação</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Rating</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="left_rating_type"  phrase_id="1">
+	  <EN>
+		<TEXT>Daily</TEXT>
+		<SIZE>-1</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Дневной</TEXT>
+		<SIZE>-6</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Quotidien</TEXT>
+		<SIZE>-6</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Diariamente</TEXT>
+		<SIZE>-6</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Diariamente</TEXT>
+		<SIZE>-2</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Täglich</TEXT>
+		<SIZE>-6</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="left_rating_type"  phrase_id="2">
+	  <EN>
+		<TEXT>Weekly</TEXT>
+		<SIZE>-3</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Недельный</TEXT>
+		<SIZE>-9</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Hebdomadaire</TEXT>
+		<SIZE>-11</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Semanal</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Semanal</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Wöchentlich</TEXT>
+		<SIZE>-10</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="left_rating_type"  phrase_id="3">
+	  <EN>
+		<TEXT>Overall</TEXT>
+		<SIZE>-4</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Общий</TEXT>
+		<SIZE>-6</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Total</TEXT>
+		<SIZE>-6</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Total</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Total</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Insgesamt</TEXT>
+		<SIZE>-8</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="left_ending"  phrase_id="1">
+	  <EN>
+		<TEXT>Summing-up</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Итоги:</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Résumé</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Resumiendo</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Resumindo</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Zusammenfassen</TEXT>
+		<SIZE>-6</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="left_details"  phrase_id="1">
+	  <EN>
+		<TEXT>More details</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Подробнее</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Plus de détails</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Mehr Details</TEXT>
+		<SIZE>-2</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="left_friends"  phrase_id="1">
+	  <EN>
+		<TEXT>Among friends</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Среди друзей</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Entre amis</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Entre amigos</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Entre amigos</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Unter Freunden</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="left_rating_tip"  phrase_id="1">
+	  <EN>
+		<TEXT>Win tournaments and get points for it. The more you pass in a week or a day, the higher you will be in the weekly and daily ranking, respectively</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Выигрывайте турниры и получайте за это очки. Чем больше вы пройдете турниров в течении недели или дня, тем выше вы будете в недельннедельном и дневном рейтинге соответственно</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Gagnez des tournois et obtenez des points pour cela. Plus vous passez une semaine ou une journée, plus vous serez dans le classement hebdomadaire et quotidien, respectivement.</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Gana torneos y consigue puntos por él. Cuanto más pases en una semana o un día, más alto estarás en el ranking semanal y diario, respectivamente.</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Ganhe torneios e obtenha pontos por isso. Quanto mais você passar em uma semana ou um dia, maior será o ranking semanal e diário, respectivamente.</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Gewinne Turniere und bekomme Punkte dafür. Je mehr du in einer Woche oder einem Tag vorbeikommst, desto höher wirst du in der wöchentlichen bzw. täglichen Rangliste sein.</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="left_where"  phrase_id="1">
+	  <EN>
+		<TEXT>Find yourself</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Найти себя</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Trouvez-vous</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Encontrarse</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Encontre-se</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Finde dich selbst</TEXT>
+		<SIZE>-4</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+		<DYNAMIC_PHRASE scene_id="game_map" item_id="left_stand"  phrase_id="all">
+	  <EN>
+		<TEXT>Leaders</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Лидеры</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Leaders</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Líderes</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Líderes</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Führer</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="left_stand"  phrase_id="week">
+	  <EN>
+		<TEXT>Week winners</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Победители недели</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Gagnants de la semaine</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Ganadores de la semana</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Vencedores da semana</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Gewinner der Woche</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="left_stand"  phrase_id="day">
+	  <EN>
+		<TEXT>Yesterday's winners</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Вчерашние победители</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Gagnants d'hier</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Ganadores de ayer</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Vencedores de ontem</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Gestern Gewinner</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="left_stand_tip"  phrase_id="1">
+	  <EN>
+		<TEXT>Here you can see the first three places of the overall rating</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Здесь отображаются первые три места общего рейтинга</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Ici, vous pouvez voir les trois premières places de la classification totale</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Aquí puedes ver los primeros tres lugares de la clasificación total</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Aqui você pode ver os três primeiros lugares da Classificação total</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Hier sehen Sie die ersten drei Plätze der Gesamtbewertung</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="left_stand_tip"  phrase_id="2">
+	  <EN>
+		<TEXT>Here are the leaders of previous period</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Здесь отображаются лидеры рейтинга за предыдущий период</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Voici les leaders de la période précédente</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Aquí están los líderes del período anterior</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Aqui estão os líderes do período anterior</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Hier sind die Führer der Vorperiode</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="no_rating"  phrase_id="1">
+	  <EN>
+		<TEXT>Sorry, could not get rating</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Извините, не удалось получить рейтинг</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Désolé, nous n'avons pas pu obtenir la classification</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Lo sentimos, no se pudo obtener la calificación</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Desculpe, não conseguiria a classificação</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Es tut uns leid, konnte nicht die Bewertung bekommen</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="week_end"  phrase_id="1">
+	  <EN>
+		<TEXT>%val [day ,days ]%val</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>%val[день ,дня ,дней ]%val</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>%val [jour ,jours ] %val</TEXT>
+		<SIZE>-3</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>%val [día  ,días ] %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>%val [dia ,dias ] %val</TEXT>
+		<SIZE>-2</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>%val[Tag ,Tage ] %val</TEXT>
+		<SIZE>-3</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="week_end"  phrase_id="2">
+	  <EN>
+		<TEXT>%val [hour ,hours ] %val%val [min.,mins.]</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>%val [час ,часа ,часов ] %val%val [мин.,мин.,мин.]</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>%val [heure ,heures ] %val%val [min.,mins.]</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>%val [hora ,horas ] %val%val [min.,mins.]</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>%val [hora ,horas ] %val%val [min.,mins.]</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>%val [Stunde ,Stunden ] %val%val [Min.,Minn.]</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="week_end"  phrase_id="3">
+	  <EN>
+		<TEXT>%val [min.,mins.]</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>%val [мин.,мин.,мин.]</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>%val [min.,mins.]</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>%val [min.,mins.]</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>%val [min.,mins.]</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>%val [Min.,Minn.]</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="week_end"  phrase_id="4">
+	  <EN>
+		<TEXT>less than a minute</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>меньше минуты</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>moins d'une minute</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>menos de un minuto</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>menos de um minuto</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>weniger als einer Minute</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_rating" item_id="rating"  phrase_id="1">
+		<EN>
+			<TEXT>Time left</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Осталось времени</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Temps restant</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Übrige Zeit</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+
+
+	<DYNAMIC_PHRASE scene_id="game_rating" item_id="rating"  phrase_id="5">
+	  <EN>
+		<TEXT>If you finish higher, you will move to the higher league</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Закончите выше, чтобы перейти в следуюшую лигу</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Si vous terminez plus haut, vous passerez à la ligue supérieure</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Wenn Sie höher abschließen, wechseln Sie in die höhere Liga</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_rating" item_id="rating"  phrase_id="6">
+	  <EN>
+		<TEXT>If you finish below, you will move to the lower league</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Финишируя ниже, вы выбываете из лиги</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Si vous terminez ci-dessous, vous passerez à la ligue inférieure</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Wenn Sie unten fertig sind, wechseln Sie in die untere Liga</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_rating" item_id="league_name"  phrase_id="wood">
+	  <EN>
+		<TEXT>Wooden league</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Деревянная лига</TEXT>
+		<SIZE>-1</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Ligue en bois</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Holzliga</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_rating" item_id="league_name"  phrase_id="bronze">
+	  <EN>
+		<TEXT>Bronze league</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Бронзовая лига</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Ligue de bronze</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Bronze Liga</TEXT>
+		<SIZE>0</SIZE>		 
+	  </DE>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_rating" item_id="league_name"  phrase_id="silver">
+	  <EN>
+		<TEXT>Silver league</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Серебряная лига</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Ligue d'argent</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Silberliga</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_rating" item_id="league_name"  phrase_id="gold">
+	  <EN>
+		<TEXT>Gold league</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Золотая лига</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Ligue d'or</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Goldliga</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_rating" item_id="league_name"  phrase_id="diamond">
+	  <EN>
+		<TEXT>Diamond league</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Алмазная лига</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Ligue de diamant</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Diamantliga</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_rating" item_id="sidebar"  phrase_id="1">
+	<EN>
+		<TEXT>Your rank: %val</TEXT>
+		<SIZE>0</SIZE>		
+	</EN>
+	<RU>
+		<TEXT>Ваше место: %val</TEXT>
+		<SIZE>0</SIZE>
+	</RU>
+	<FR>
+		<TEXT>Votre rang: %val</TEXT>
+		<SIZE>0</SIZE>		
+	</FR>
+	<DE>
+		<TEXT>Dein Rang: %val</TEXT>
+		<SIZE>0</SIZE>		
+	</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_rating" item_id="move_status"  phrase_id="stable">
+	<EN>
+		<TEXT>Staying in this part of the ranking you will stay in the current league</TEXT>
+		<SIZE>0</SIZE>		
+	</EN>
+	<RU>
+		<TEXT>Находясь в этой части рейтинга, вы останетесь в текущей лиге</TEXT>
+		<SIZE>0</SIZE>
+	</RU>
+	<FR>
+		<TEXT>En restant dans cette partie du classement, vous resterez dans la ligue actuelle</TEXT>
+		<SIZE>0</SIZE>		
+	</FR>
+	<DE>
+		<TEXT>Wenn Sie in diesem Teil der Rangliste bleiben, bleiben Sie in der aktuellen Liga</TEXT>
+		<SIZE>0</SIZE>		
+	</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_rating" item_id="move_status"  phrase_id="promotion">
+	<EN>
+		<TEXT>Stay in this part of the ranking to move up to the next league</TEXT>
+		<SIZE>0</SIZE>		
+	</EN>
+	<RU>
+		<TEXT>Оставайтесь в этой части рейтинга, чтобы подняться в следующую лигу</TEXT>
+		<SIZE>0</SIZE>
+	</RU>
+	<FR>
+		<TEXT>Restez dans cette partie du classement pour passer à la ligue suivante</TEXT>
+		<SIZE>0</SIZE>		
+	</FR>
+	<DE>
+		<TEXT>Bleiben Sie in diesem Teil der Rangliste, um in die nächste Liga aufzusteigen</TEXT>
+		<SIZE>0</SIZE>		
+	</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_rating" item_id="move_status"  phrase_id="knockout">
+	<EN>
+		<TEXT>If you stay in this part of the ranking you will be moved to the previous league</TEXT>
+		<SIZE>0</SIZE>		
+	</EN>
+	<RU>
+		<TEXT>Если вы будете оставаться в этой части рейтинга, вы перейдете в предыдущую лигу</TEXT>
+		<SIZE>0</SIZE>
+	</RU>
+	<FR>
+		<TEXT>Si vous restez dans cette partie du classement, vous serez déplacé dans la ligue précédente</TEXT>
+		<SIZE>0</SIZE>		
+	</FR>
+	<DE>
+		<TEXT>Wenn Sie in diesem Teil der Rangliste bleiben, werden Sie in die vorherige Liga versetzt</TEXT>
+		<SIZE>0</SIZE>		
+	</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_rating" item_id="sidebar"  phrase_id="2">
+	<EN>
+		<TEXT>Reward for this rank:</TEXT>
+		<SIZE>0</SIZE>		
+	</EN>
+	<RU>
+		<TEXT>Награда за это место:</TEXT>
+		<SIZE>0</SIZE>
+	</RU>
+	<FR>
+		<TEXT>Récompense pour ce rang:</TEXT>
+		<SIZE>0</SIZE>		
+	</FR>
+	<DE>
+		<TEXT>Belohnung für diesen Rang:</TEXT>
+		<SIZE>0</SIZE>		
+	</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_rating" item_id="sidebar"  phrase_id="3">
+	  <EN>
+		<TEXT>Reward table</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Таблица наград</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+	  <FR>
+		<TEXT>Table de récompense</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+	  <DE>
+		<TEXT>Belohnungstabelle</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_rating" item_id="sidebar"  phrase_id="4">
+	  <EN>
+		<TEXT>Summing-up in</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Итоги через</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Résumé en</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Zusammenfassung in</TEXT>
+		<SIZE>-2</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_rating" item_id="sidebar"  phrase_id="5">
+	  <EN>
+		<TEXT>%val [day,days]</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>%val [день,дня,дней]</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>%val [jour,jours]</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>%val [Tag,Tage]</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_rating" item_id="sidebar"  phrase_id="6">
+	  <EN>
+		<TEXT>Daily reward</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Ежедневная награда</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+	  <FR>
+		<TEXT>Récompense quotidienne</TEXT>
+		<SIZE>-2</SIZE>		
+	  </FR>
+	  <DE>
+		<TEXT>Tägliche Belohnung</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_rating" item_id="sidebar"  phrase_id="7">
+	  <EN>
+		<TEXT>Rewards up to</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Награды до</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+	  <FR>
+		<TEXT>Récompenses jusqu'à</TEXT>
+		<SIZE>-3</SIZE>		
+	  </FR>
+	  <DE>
+		<TEXT>Belohnungen bis zu</TEXT>
+		<SIZE>-2</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_rating" item_id="move_result"  phrase_id="promotion">
+	<EN>
+		<TEXT>Congratulations! You have moved up to the next league!</TEXT>
+		<SIZE>0</SIZE>		
+	</EN>
+	<RU>
+		<TEXT>Поздравляем! Вы поднялись в следующую лигу!</TEXT>
+		<SIZE>0</SIZE>
+	</RU>
+	<FR>
+		<TEXT>Toutes nos félicitations! Vous êtes passé à la ligue suivante!</TEXT>
+		<SIZE>0</SIZE>		
+	</FR>
+	<DE>
+		<TEXT>Herzliche Glückwünsche! Du bist in die nächste Liga aufgestiegen!</TEXT>
+		<SIZE>0</SIZE>		
+	</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_rating" item_id="move_result"  phrase_id="knockout">
+	<EN>
+		<TEXT>Sorry, you moved to a lower league</TEXT>
+		<SIZE>0</SIZE>		
+	</EN>
+	<RU>
+		<TEXT>К сожалению вы перешли в более низкую лигу</TEXT>
+		<SIZE>0</SIZE>
+	</RU>
+	<FR>
+		<TEXT>Désolé, vous êtes passé dans une ligue inférieure</TEXT>
+		<SIZE>0</SIZE>		
+	</FR>
+	<DE>
+		<TEXT>Entschuldigung, Sie sind in eine niedrigere Liga gewechselt</TEXT>
+		<SIZE>0</SIZE>		
+	</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_rating" item_id="move_result"  phrase_id="stable">
+	<EN>
+		<TEXT>At the end of the week, you stayed in the same league</TEXT>
+		<SIZE>0</SIZE>		
+	</EN>
+	<RU>
+		<TEXT>По итогам недели Вы остались в той же лиге</TEXT>
+		<SIZE>0</SIZE>
+	</RU>
+	<FR>
+		<TEXT>A la fin de la semaine, tu restais dans la même ligue</TEXT>
+		<SIZE>0</SIZE>		
+	</FR>
+	<DE>
+		<TEXT>Am Ende der Woche bist du in der gleichen Liga geblieben </TEXT>
+		<SIZE>0</SIZE>		
+	</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_tip" item_id="tip"  phrase_id="booster_later">
+		<EN>
+			<TEXT>The booster will be available later</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Этот бустер будет доступен позже</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Le booster sera disponible plus tard</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>El refuerzo estará disponible más tarde</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>O booster estará disponível mais tarde</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Der Booster wird später verfügbar sein</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 
+
+  <DYNAMIC_PHRASE scene_id="game" item_id="offline"  phrase_id="1">
+		<EN>
+			<TEXT>No Internet connection</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Нет связи с Интернетом</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Pas de connexion Internet</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Sin conexión a Internet</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Sem conexão com a internet</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Keine Internetverbindung</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game" item_id="challenge"  phrase_id="1">
+		<EN>
+			<TEXT>It's your turn to play!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Теперь твоя очередь играть!</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>A vous de jouer!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>¡Ahora es tu turno de jugar!</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Agora é sua vez de jogar!</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Sie sind dran zu spielen!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game" item_id="email"  phrase_id="1">
+		<EN>
+			<TEXT>Do you need any help? Contact us:\n %val\nYour game ID: %val</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Нужна помощь? Свяжитесь с нами:\n %val\nВаш игровой ID: %val</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Besoin d'aide? Contactez nous:\n %val\nVotre identifiant de jeu: %val</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Brauche Hilfe? Kontaktiere uns:\n %val\nDeine Spiel-ID: %val</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+
+	<DYNAMIC_PHRASE scene_id="game" item_id="server_request"  phrase_id="1">
+		<EN>
+			<TEXT>Connecting to server...</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Соединяемся с сервером...</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Connexion au serveur...</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Conectando al servidor...</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Conectando ao servidor...</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Verbindung zu Server ...</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>  
+	</DYNAMIC_PHRASE> 
+	
+	<DYNAMIC_PHRASE scene_id="game_play" item_id="left_panel"  phrase_id="1">
+		<EN>
+			<TEXT>Level:</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Уровень:</TEXT>
+			<SIZE>-2</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Niveau:</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Nivel:</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Nível:</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Level:</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>      
+   
+   
+	<DYNAMIC_PHRASE scene_id="game_play" item_id="score_manager"  phrase_id="1">
+		<EN>
+			<TEXT>Score:</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Очки:</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Points:</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Puntos:</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Pontos:</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Punkte:</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>   
+ 
+  	<DYNAMIC_PHRASE scene_id="game_play" item_id="level_targets"  phrase_id="title">
+		<EN>
+			<TEXT>Targets</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Задания</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Tâches</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Tareas</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Tarefas</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Aufgabe</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 	
+
+	   <DYNAMIC_PHRASE scene_id="game_play" item_id="hint_tasks"  phrase_id="1">
+		<EN>
+			<TEXT>It's clear</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Понятно</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>C'est clair</TEXT>
+			<SIZE>0</SIZE>
+		</FR>
+		<ES>
+			<TEXT>Está claro</TEXT>
+			<SIZE>0</SIZE>
+		</ES>
+		<PT>
+			<TEXT>É claro</TEXT>
+			<SIZE>0</SIZE>
+		</PT>
+		<DE>
+			<TEXT>Alles klar</TEXT>
+			<SIZE>0</SIZE>
+		</DE>
+	</DYNAMIC_PHRASE>
+
+
+
+	<DYNAMIC_PHRASE scene_id="game_play" item_id="hint_booster"  phrase_id="1">
+		<EN>
+			<TEXT>It's clear</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Понятно</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>C'est clair</TEXT>
+			<SIZE>0</SIZE>
+		</FR>
+		<ES>
+			<TEXT>Está claro</TEXT>
+			<SIZE>0</SIZE>
+		</ES>
+		<PT>
+			<TEXT>É claro</TEXT>
+			<SIZE>0</SIZE>
+		</PT>
+		<DE>
+			<TEXT>Alles klar</TEXT>
+			<SIZE>0</SIZE>
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_play" item_id="hint_booster"  phrase_id="later">
+		<EN>
+			<TEXT>The bonus will be available later</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Этот бонус будет доступен на более поздних уровнях</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Le bonus sera disponible plus tard</TEXT>
+			<SIZE>0</SIZE>
+		</FR>
+		<ES>
+			<TEXT>La bonificación estará disponible más tarde</TEXT>
+			<SIZE>0</SIZE>
+		</ES>
+		<PT>
+			<TEXT>O bônus estará disponível mais tarde</TEXT>
+			<SIZE>0</SIZE>
+		</PT>
+		<DE>
+			<TEXT>Dieser Bonus wird später verfügbar sein</TEXT>
+			<SIZE>0</SIZE>
+		</DE>
+	</DYNAMIC_PHRASE>
+
+   
+   <DYNAMIC_PHRASE scene_id="game_play" item_id="hint_tasks"  phrase_id="1">
+		<EN>
+			<TEXT>It's clear</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Понятно</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>C'est clair</TEXT>
+			<SIZE>0</SIZE>
+		</FR>
+		<ES>
+			<TEXT>Está claro</TEXT>
+			<SIZE>0</SIZE>
+		</ES>
+		<PT>
+			<TEXT>É claro</TEXT>
+			<SIZE>0</SIZE>
+		</PT>
+		<DE>
+			<TEXT>Alles klar</TEXT>
+			<SIZE>0</SIZE>
+		</DE>
+	</DYNAMIC_PHRASE>
+
+	
+	<DYNAMIC_PHRASE scene_id="game_play" item_id="hint_booster"  phrase_id="no_money">
+		<EN>
+			<TEXT>You don't have enough money to buy booster</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>У вас не хватает денег на покупку бустера</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Vous n'avez pas assez d'argent pour acheter du booster</TEXT>
+			<SIZE>0</SIZE>
+		</FR>
+		<ES>
+			<TEXT>No tienes suficiente dinero para comprar un booster</TEXT>
+			<SIZE>0</SIZE>
+		</ES>
+		<PT>
+			<TEXT>Você não tem dinheiro suficiente para comprar o booster</TEXT>
+			<SIZE>0</SIZE>
+		</PT>
+		<DE>
+			<TEXT>Sie haben nicht genug Geld, um Booster zu kaufen</TEXT>
+			<SIZE>0</SIZE>
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_play" item_id="hint_booster"  phrase_id="unavailable">
+		<EN>
+			<TEXT>The booster is unavailable now</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Данный бустер сейчас недоступен</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Le booster est indisponible maintenant</TEXT>
+			<SIZE>0</SIZE>
+		</FR>
+		<ES>
+			<TEXT>El amplificador no está disponible ahora</TEXT>
+			<SIZE>0</SIZE>
+		</ES>
+		<PT>
+			<TEXT>O booster está indisponível agora</TEXT>
+			<SIZE>0</SIZE>
+		</PT>
+		<DE>
+			<TEXT>Der Booster ist jetzt nicht verfügbar</TEXT>
+			<SIZE>0</SIZE>
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_tutorial" item_id="info"  phrase_id="1">
+	  <EN>
+		<TEXT>(click to continue)</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>(щелкните, чтобы продолжить)</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>(Cliquer pour continuer)</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>(Haz click para continuar)</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>(Clique para continuar)</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>(Klicken Sie um Fortzufahren)</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+		<DYNAMIC_PHRASE scene_id="game_map" item_id="chest_open"  phrase_id="1">
+		<EN>
+			<TEXT>Open</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Открыть</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Ouvrez</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Öffnen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>  
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="chest_open"  phrase_id="2">
+		<EN>
+			<TEXT>Unblock</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Разблокировать</TEXT>
+			<SIZE>-4</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Débloquer</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Entsperren </TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="chest_open"  phrase_id="3">
+		<EN>
+			<TEXT>Open %valh.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Открыть %valч.</TEXT>
+			<SIZE>-2</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Ouvrez %valh.</TEXT>
+			<SIZE>-2</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Öffnen %valS.</TEXT>
+			<SIZE>-2</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="chest_open"  phrase_id="4">
+		<EN>
+			<TEXT>Open %vals.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Открыть %valс.</TEXT>
+			<SIZE>-2</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Ouvrez %vals.</TEXT>
+			<SIZE>-2</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Öffnen %valSek.</TEXT>
+			<SIZE>-2</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="chest_open"  phrase_id="5">
+		<EN>
+			<TEXT>Open %valmin.</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Открыть %valм.</TEXT>
+			<SIZE>-2</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Ouvrez %valm.</TEXT>
+			<SIZE>-2</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Öffnen %valM.</TEXT>
+			<SIZE>-2</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="chest_open"  phrase_id="6">
+		<EN>
+			<TEXT>Chest place</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Место для сундука</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Coffre lieu </TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Truhe Platz</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="chest_open"  phrase_id="7">
+		<EN>
+			<TEXT>Opened</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Открыто</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Ouvert</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Geöffnet</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 
+	
+	
+	<DYNAMIC_PHRASE scene_id="game_tip" item_id="chest_empty"  phrase_id="1">
+	  <EN>
+		<TEXT>To get it you need to win in a tournament in which you have not yet won</TEXT>
+		<SIZE>-2</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Чтобы заработать сундук необходимо выиграть в турнире, в котором вы ещё не побеждали</TEXT>
+		<SIZE>-4</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Gagnez à un nouveau tournoi pour en obtenir un.</TEXT>
+		<SIZE>-2</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Um eine Truhe zu bekommen, müssen Sie in einem Turnier gewinnen, in dem Sie noch nicht gewonnen haben.</TEXT>
+		<SIZE>-5</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+
+		<DYNAMIC_PHRASE scene_id="game_play" item_id="round"  phrase_id="1">
+	  <EN>
+		<TEXT>%val\nRound</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>%val\nРаунд</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>%val\nTour</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>%val\nRonda</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>%val\nRodada</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>%val\nRunde</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_play" item_id="round"  phrase_id="2">
+	  <EN>
+		<TEXT>Round winner:\n %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Победитель раунда:\n %val</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Gagnant du tour:\n %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Ronda:\n %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Rodada:\n %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Runder Sieger:\n %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+
+
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="money_box"  phrase_id="1">
+	  <EN>
+		<TEXT>Piggy bank</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Копилка</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Tirelire</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Hucha</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Cofrinho</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Sparschwein</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE> 
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="money_box"  phrase_id="3">
+	   <EN>
+		<TEXT>Break for %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Разбить за %val</TEXT>
+		<SIZE>-4</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Ouvert pour %val</TEXT>
+		<SIZE>-4</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Abrir para %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Aberto para %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Offen für %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+  </DYNAMIC_PHRASE> 
+  
+  <DYNAMIC_PHRASE scene_id="game_windows" item_id="money_box"  phrase_id="31">
+	   <EN>
+		<TEXT>Break</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Разбить</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Ouvert</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Abrir</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Aberto</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Offen</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+  </DYNAMIC_PHRASE> 
+  
+  <DYNAMIC_PHRASE scene_id="game_windows" item_id="money_box"  phrase_id="2">
+	   <EN>
+		<TEXT>Piggy bank contains maximum %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>В копилку помещается максимум %val</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Tirelire contient maximum %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Hucha contiene máximo %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Cofrinho contém máximo %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Sparschwein enthält maximal %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+  </DYNAMIC_PHRASE> 
+ 
+   <DYNAMIC_PHRASE scene_id="game_windows" item_id="money_box"  phrase_id="4">
+	   <EN>
+		<TEXT>In piggy bank %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>У вас в копилке %val</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Dans tirelire %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>En cofrecito %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Em caixa %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>In Schatulle %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+  </DYNAMIC_PHRASE> 
+  <DYNAMIC_PHRASE scene_id="game_windows" item_id="money_box"  phrase_id="5">
+	   <EN>
+		<TEXT>You can break the piggy bank and get all coins it contains</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Вы можете разбить копилку и получить все монеты, которые в ней находятся</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Vous pouvez casser la tirelire et obtenir toutes les pièces qu'elle contient</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Sie können das Sparschwein zerbrechen und alle Münzen, die es enthält, bekommen</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+  </DYNAMIC_PHRASE> 
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="rating_bonus"  phrase_id="1">
+	  <EN>
+		<TEXT>Daily Rating Bonus</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Бонус за дневной рейтинг</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Bonus du rating du jour</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Bonificación por calificación diaria</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Bônus de classificação diária</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Täglicher Bewertung Bonus</TEXT>
+		<SIZE>-2</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="rating_bonus"  phrase_id="7">
+	  <EN>
+		<TEXT>Weekly Rating Bonus</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Бонус за недельный рейтинг</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Bonus de rating hebdomadaire</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Bonificación por calificación semanal</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Bônus de classificação semanal</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Wöchentlicher Bewertung Bonus</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="rating_bonus"  phrase_id="2">
+	  <EN>
+		<TEXT>Congratulations!\n You took: %val place</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Поздравляем!\n Вы достигли: %val места</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Félicitations!\n Vous avez pris: %val place</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>¡Felicitaciones!\n Usted tomó: %val lugar</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Parabéns!\n Você pegou: %val lugar</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Glückwunsche!\n Sie haben: %val Platz</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="rating_bonus"  phrase_id="3">
+	  <EN>
+		<TEXT>Your Bonus</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Ваш бонус:</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Votre bonus</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Tu bono</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Seu bônus</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Ihr Bonus</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="rating_bonus"  phrase_id="4">
+	  <EN>
+		<TEXT>Thanks</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Спасибо</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Merci</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Gracias</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Obrigado</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Danke</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="rating_bonus"  phrase_id="5">
+	  <EN>
+		<TEXT>Weekly\nawards in places:</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Недельные\nнаграды по местам:</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Récompenses\nhebdomadaires par endroits:</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Premios\nsemanales en lugares:</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Prêmios\nsemanais em lugares:</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Wöchentliche\nPreise an Orten:</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="rating_bonus"  phrase_id="6">
+	  <EN>
+		<TEXT>Dayly\nawards in places:</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Дневные\nнаграды по местам:</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Récompenses\nhebdomadaires par endroits:</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Premios\ndiario en lugares:</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Prêmios\ndiário em lugares:</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Täglich\nPreise an Orten:</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="chest_wait"  phrase_id="1">
+	  <EN>
+		<TEXT>Please wait...</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Нужно подождать</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>S'il vous plaît, attendez...</TEXT>
+		<SIZE>-4і</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Bitte, warten Sie mal...</TEXT>
+		<SIZE>-3</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="chest_wait"  phrase_id="2">
+	  <EN>
+		<TEXT>Another chest has already running timer, wait for it to finish before starting the timer for this chest</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>У другого сундука уже запущен таймер. Дождитесь его окончания, прежде чем запустить таймер для этого сундука</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Il y a un autre coffre, dont le timer est en cours, attendez la fin du décompte pour mettre le timer pour le nouveau coffre.</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Der Timer für das Öffnen einer anderen Truhe läuft bereits,  um den Timer dieser Truhe zu starten, müssen Sie warten bis der andere abgelaufen ist.</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="chest_wait"  phrase_id="3">
+		<EN>
+			<TEXT>Continue</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Продолжить</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Continuer</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Continuar</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Continuar</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Weiter</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 
+  
+  	<DYNAMIC_PHRASE scene_id="game_windows" item_id="chest_open"  phrase_id="1">
+	  <EN>
+		<TEXT>Magic chest</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Волшебный сундук</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Coffre magique</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Zaubertruhe</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	 	<DYNAMIC_PHRASE scene_id="game_windows" item_id="chest_open"  phrase_id="2">
+		<EN>
+			<TEXT>Take</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Забрать</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Collectez</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Erhalten</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="chest_open"  phrase_id="3">
+	  <EN>
+		<TEXT>Open for %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Открыть за %val</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Ouvrir pour %val</TEXT>
+		<SIZE>-2</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Offen für %val</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="chest_open"  phrase_id="4">
+	  <EN>
+		<TEXT>You need to wait to open the chest</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Чтобы открыть сундук,вам необходимо подождать</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Patientez avant d’ouvrir le coffre</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Sie müssen warten, um die Truhe zu öffnen</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="chest_open"  phrase_id="5">
+	  <EN>
+		<TEXT>Click on the chest to get presents</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Чтобы получить подарки, щелкайте по сундуку</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Cliquez sur le coffre pour obtenir les cadeaux</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Klicken Sie auf die Truhe, um das Geschenk zu erhalten</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="chest_open"  phrase_id="6">
+	  <EN>
+		<TEXT>Take presents</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Заберите подарки</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Collectez les cadeaux</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT></TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Erhalten Sie ihre Geschenke</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="chest_open"  phrase_id="7">
+		<EN>
+			<TEXT>Time left to unlock</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Осталось времени до разблокировки</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Temps restant à débloquer</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Verbleibende Zeit zum Entsperren</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 
+
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="purchase_complete_boosters"  phrase_id="1">
+		<EN>
+			<TEXT>Your bonuses</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Ваши бонусы</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Vos bonus</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Ihre Bonus</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="all_stars"  phrase_id="1">
+	  <EN>
+	  <TEXT>Tournament is unavailable</TEXT>
+	  <SIZE>0</SIZE>  
+	   </EN>
+	   <RU>
+	  <TEXT>Турнир недоступен</TEXT>
+	  <SIZE>0</SIZE>
+	   </RU>
+	  <FR>
+	  <TEXT>Tournoi indisponible</TEXT>
+	  <SIZE>0</SIZE>  
+	   </FR>
+			  <ES>
+	  <TEXT></TEXT>
+	  <SIZE>0</SIZE>  
+	   </ES>
+			  <PT>
+	  <TEXT></TEXT>
+	  <SIZE>0</SIZE>  
+	   </PT>
+			  <DE>
+	  <TEXT>Das Turnier ist nicht verfügbar</TEXT>
+	  <SIZE>0</SIZE>  
+	   </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="all_stars"  phrase_id="2">
+	  <EN>
+	  <TEXT>You’ve the highest score possible in this tournament. Please, play the next ones.</TEXT>
+	  <SIZE>0</SIZE>  
+	   </EN>
+	   <RU>
+	  <TEXT>У вас максимальный результат в этом турнире. Пожалуйста, запустите следующие турниры.</TEXT>
+	  <SIZE>-4</SIZE>
+	   </RU>
+			  <FR>
+	  <TEXT>Vous avez le meilleur score possible dans ce tournoi. S'il vous plaît, jouez les suivants.</TEXT>
+	  <SIZE>-4</SIZE>  
+	   </FR>
+			  <ES>
+	  <TEXT>Tienes el puntaje más alto posible en este torneo. Por favor, juega los siguientes. </TEXT>
+	  <SIZE>0</SIZE>  
+	   </ES>
+			  <PT>
+	  <TEXT>Você tem a maior pontuação possível neste torneio. Por favor, jogue os próximos.</TEXT>
+	  <SIZE>0</SIZE>  
+	   </PT>
+			  <DE>
+	  <TEXT>Sie haben die höchste Punktzahl in diesem Turnier. Bitte spielen Sie die nächsten.</TEXT>
+	  <SIZE>-4</SIZE>  
+	   </DE>
+    </DYNAMIC_PHRASE>
+  
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="all_stars"  phrase_id="3">
+		<EN>
+			<TEXT>Continue</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Продолжить</TEXT>
+			<SIZE>-4</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Continuer</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Continuar</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Continuar</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Weiter</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="tasks_daily"  phrase_id="1">
+		<EN>
+			<TEXT>Daily tasks</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Ежедневные задания</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Tâches quotidiennes </TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Tagesmissionen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="tasks_daily"  phrase_id="2">
+		<EN>
+			<TEXT>Take prize</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Забрать приз</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Collectez prix</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Erhalten Sie ihre Preis</TEXT>
+			<SIZE>-7</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="tasks_daily"  phrase_id="3">
+		<EN>
+			<TEXT>Time left</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Осталось времени</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Temps restant</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Übrige Zeit</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+<!--	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="tasks_daily"  phrase_id="4">
+		<EN>
+			<TEXT>Skip for %val</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Пропустить за %val</TEXT>
+			<SIZE>-6</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Passez pour %val</TEXT>
+			<SIZE>-4</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Überspringen für %val</TEXT>
+			<SIZE>-8</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+-->
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="tasks_daily"  phrase_id="4">
+		<EN>
+			<TEXT>Skip</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Пропустить</TEXT>
+			<SIZE>-5</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Passez</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Überspringen</TEXT>
+			<SIZE>-7</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="tasks_daily"  phrase_id="6">
+		<EN>
+			<TEXT>Skip</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Пропустить</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Passez</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Überspringen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="tasks_daily"  phrase_id="5">
+		<EN>
+			<TEXT>You’ve already got the prize for the task today</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Вы сегодня уже получили приз за задания</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Vous avez déjà obtenu le prix pour la tâche aujourd'hui</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Sie haben heute den Preis für die Aufgabe schon bekommen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="tasks_daily"  phrase_id="8">
+		<EN>
+			<TEXT>Having fulfilled all tasks you'll get the prize:</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>За выполнение всех заданий вы получите приз:</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Après avoir rempli toutes les tâches, vous recevrez le prix :</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Nachdem Sie alle Aufgaben erfüllt haben, erhalten Sie den Preis:</TEXT>
+			<SIZE>-2</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="tasks_daily"  phrase_id="tournaments">
+		<EN>
+			<TEXT>Victories in tournaments</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Победы в турнирах</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Victoires dans les tournois</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Siege in Turnieren</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="tasks_daily"  phrase_id="moneybox">
+		<EN>
+			<TEXT>Collect coins in a piggy bank</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Собрать монеты в копилку</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Mettre les pièces dans la tirelire</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Münzen in der Spardose sammeln</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="tasks_daily"  phrase_id="open_chest">
+		<EN>
+			<TEXT>Open chests</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Открыть сундуки</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Ouvrez les coffres</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Öffnen Sie Truhen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="tasks_daily"  phrase_id="gem1">
+		<EN>
+			<TEXT>Collect yellow chips</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Собрать желтые фишки</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Collect yellow chips</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Collect yellow chips</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="tasks_daily"  phrase_id="gem2">
+		<EN>
+			<TEXT>Collect violet chips</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Собрать фиолетовые фишки</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Collect violet chips</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Collect violet chips</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="tasks_daily"  phrase_id="gem3">
+		<EN>
+			<TEXT>Collect red chips</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Собрать красные фишки</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Collect red chips</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Collect red chips</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="tasks_daily"  phrase_id="gem4">
+		<EN>
+			<TEXT>Collect green chips</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Собрать зеленые фишки</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Collect green chips</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Collect green chips</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="tasks_daily"  phrase_id="gem5">
+		<EN>
+			<TEXT>Collect blue chips</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Собрать синие фишки</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Collect blue chips</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Collect blue chips</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+			<DYNAMIC_PHRASE scene_id="game_windows" item_id="tasks_daily"  phrase_id="golden_tile">
+		<EN>
+			<TEXT>Collect golden tiles</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Собрать золотые плитки</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Collect golden tiles</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Collect golden tiles</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="tasks_daily"  phrase_id="win_round">
+		<EN>
+			<TEXT>Victories in rounds</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Победы в раундах</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Victoires en rondes</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Siege in Runden</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="tasks_daily"  phrase_id="rating_place">
+		<EN>
+			<TEXT>Hit the Top-%val of daily rating</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Войти в Топ-%val дневного рейтинга</TEXT>
+			<SIZE>-2</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Entrer dans le Top-%val du rating du jour</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Top-%val Tagesrating betreten</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_complete_duel"  phrase_id="1">
+		<EN>
+			<TEXT>Victory in a duel</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Победа в дуэли</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Victoire au duel</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Sieg in Duell</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>  
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="challenge_duel"  phrase_id="1">
+		<EN>
+			<TEXT>You have been challenged!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Вам бросили вызов!</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>On vous a lancé un défi!</TEXT>
+			<SIZE>-2</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Sie wurde herausgefordert! </TEXT>
+			<SIZE>-2</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="challenge_duel"  phrase_id="2">
+		<EN>
+			<TEXT>You are challenged to a duel</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Вас вызывают на дуэль</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>On vous appelle en duel</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Sie wurde zum Duell gefordert</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="challenge_duel"  phrase_id="3">
+		<EN>
+			<TEXT>Yes</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Да</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Oui</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Sí</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Sim</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Ja</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="challenge_duel"  phrase_id="4">
+		<EN>
+			<TEXT>No</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Нет</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Non</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>No</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Não</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Nein</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="challenge_duel"  phrase_id="5">
+		<EN>
+			<TEXT>Challenge is valid:</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Вызов действителен:</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Défi valable :</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Herausforderung ist gültig:</TEXT>
+			<SIZE>-4</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="challenge_duel"  phrase_id="6">
+		<EN>
+			<TEXT>Don't send challenge today</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Не присылать вызовов сегодня</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Ne pas appeler en duel aujourd’hui</TEXT>
+			<SIZE>-2</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Keine Herausforderung heute schicken</TEXT>
+			<SIZE>-4</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="challenge_duel"  phrase_id="7">
+		<EN>
+			<TEXT>Take up the challenge?</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Принять вызов?</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Accepter le défi?</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Herausforderung annehmen? </TEXT>
+			<SIZE>-2</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_play" item_id="duel_info"  phrase_id="1">
+		<EN>
+			<TEXT>You have only one competitor in Duel mode</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>В режиме Дуэль у вас только 1 соперник</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>En mode Duel vous n’avez qu’un seul adversaire</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Im Modus Duell haben Sie nur 1 Gegner</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_complete_duel"  phrase_id="2">
+		<EN>
+			<TEXT>Victory</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Победа</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Victoire</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Sieg</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_complete_duel"  phrase_id="1">
+		<EN>
+			<TEXT>You've won in Duel Tournament!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Вы выиграли в турнире дуэль!</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Vous avez gagné au tournoi en duel!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Sie haben im Turiner Duell gewonnen! </TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE> 
+	
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="user_profile"  phrase_id="1">
+		<EN>
+			<TEXT>Profile</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Профиль</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Profil</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Profil</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="user_profile"  phrase_id="2">
+		<EN>
+			<TEXT>Continue</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Продолжить</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Continuer</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Fortsetzen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="user_profile"  phrase_id="3">
+		<EN>
+			<TEXT>Number of days in the game</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Количество дней в игре</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Nombre de jours dans le jeu</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Anzahl der Tage im Game</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="user_profile"  phrase_id="4">
+		<EN>
+			<TEXT>Total tournaments played</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Сыграно всего турниров</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Total des tournois joués</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Insgesamt Turniere gespielt</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="user_profile"  phrase_id="5">
+		<EN>
+			<TEXT>Victories</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Победы</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Victoires</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Siege</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="user_profile"  phrase_id="6">
+		<EN>
+			<TEXT>Losings</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Проигрыши</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Pertes</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Verluste</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="user_profile"  phrase_id="7">
+		<EN>
+			<TEXT>Friends in game</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Друзей в игре</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Amis dans le jeu</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Freunden im Game</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="user_profile"  phrase_id="8">
+		<EN>
+			<TEXT>Your stats</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Ваша статистика</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Vos statistiques</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Ihre Statistik</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="user_profile"  phrase_id="9">
+		<EN>
+			<TEXT>Total ranking points</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Всего очков рейтинга</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Total des points de rating</TEXT>
+			<SIZE>-2</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Insgesamt Punkte im Rating</TEXT>
+			<SIZE>-2</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+
+	 <DYNAMIC_PHRASE scene_id="game_map" item_id="lock_tip"  phrase_id="1">
+	  <EN>
+		<TEXT>You need %val [star,stars] to unlock the tournament \n Score %val [star,stars]</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Чтобы разблокировать турнир, необходимо %val [звезда,звезды,звезд]\n Осталось набрать %val [звезду,звезды,звезд]</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Il vous faut %val [étoile,étoiles] pour débloquer le tournoi. Il vous reste à collecter %val [étoile,étoiles]</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+        <DE>
+		<TEXT>Um das Turnier zu entsperren, brauchen Sie %val [Stern,Sterne]\n Sie benötigen noch %val [Stern,Sterne]</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="share"  phrase_id="1">
+	  <EN>
+		<TEXT>Share</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Поделиться</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Partager</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Compartir</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Compartilhar</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Teilen</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+
+  <DYNAMIC_PHRASE scene_id="game_windows" item_id="oops"  phrase_id="1">
+		<EN>
+			<TEXT>Oooooops...</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Ой...</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Oooooops...</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Oooooops...</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Oooooops...</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Oooooops...</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>	
+	
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="shop"  phrase_id="2">
+		<EN>
+			<TEXT>You don't have enough coins. Buy coins in our store</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>У вас недостаточно монет. Вы можете купить их в нашем магазине</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Vous n'avez pas assez de pièces.</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Comprar monedas</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Comprar moedas</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Sie haben nicht genug Münzen. Kaufen Münzen in unserem Laden</TEXT>
+			<SIZE>-2</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_tip" item_id="tip"  phrase_id="stars_tip">
+	  <EN>
+		<TEXT>These're your stars. Use them to unlock some levels.</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Это ваши звёзды. Вам они понадобятся для разблокировки некоторых эпизодов</TEXT>
+		<SIZE>-2</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Ce sont vos etoiles. Utilisez-les pour debloquer certains niveaux</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Estas son tus estrellas. Uselos para desbloquear algunos niveles</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Estas sao suas estrelas. Use-os para desbloquear alguns niveis</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Das sind deine Stars. Benutze sie, um einige Level freizuschalten</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_tip" item_id="tip"  phrase_id="competitor_player">
+	  <EN>
+		<TEXT>The information panel displays your place in the tournament</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Это информационная панель по вашему месту в турнире</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Le panneau d'information affiche votre place dans le tournoi</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>El panel de información muestra tu lugar en el torneo.</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>O painel de informações mostra o seu lugar no torneio</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Das Informationsfeld zeigt Ihren Platz im Turnier an</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_tip" item_id="tip"  phrase_id="competitor">
+	  <EN>
+		<TEXT>The information panel displays your rival's place in the tournament</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Это информационная панель по вашему сопернику</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Le panneau d'information affiche la place de votre rival dans le tournoi.</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>El panel de información muestra el lugar de tu rival en el torneo.</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>O painel de informações exibe o lugar do seu rival no torneio</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Im Informationsbereich wird der Platz Ihres Rivalen im Turnier angezeigt</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_tip" item_id="tip"  phrase_id="golden">
+	  <EN>
+		<TEXT>Delete all tiles on the playing field to win</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Чтобы выиграть - вам нужно уничтожить все плитки на поле</TEXT>
+		<SIZE>-2</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Vous devez détruire toutes les tuiles sur le terrain de jeu pour gagner</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <DE>
+		<TEXT>Löschen Sie alle Steine auf dem Spielfeld, um zu gewinnen</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_tip" item_id="tip"  phrase_id="round">
+	  <EN>
+		<TEXT>You have three rounds in the tournament.</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>У вас есть три раунда в турнире.</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Vous avez trois tours dans le tournoi.</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <DE>
+		<TEXT>Sie haben drei Runden im Turnier.</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	
+	
+	
+	<DYNAMIC_PHRASE scene_id="wall_post" item_id="title"  phrase_id="day_bonus">
+	  <EN>
+		<TEXT>Coins received!</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Монеты получены!</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Pièces reçues!</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Monedas recibidas!</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Moedas recebidas!</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Münzen erhalten!</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>	
+	
+	<DYNAMIC_PHRASE scene_id="wall_post" item_id="description"  phrase_id="day_bonus">
+	  <EN>
+		<TEXT>I've just collected my daily bonus!</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Я только что собрал свой ежедневный бонус!</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Je viens de recueillir mon bonus quotidien!</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>¡Acabo de recoger mi bono diario!</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Acabei de receber meu bônus diário!</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Ich habe gerade meinen täglichen Bonus gesammelt!</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>	
+	
+	
+	<DYNAMIC_PHRASE scene_id="wall_post" item_id="title"  phrase_id="money_box">
+	  <EN>
+		<TEXT>The piggy bank is broken!</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Копилка разбита!</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>La tirelire est cassée!</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>¡La alcancía está rota!</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>O cofrinho está quebrado!</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Das Sparschwein ist kaputt!</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>	
+	
+	<DYNAMIC_PHRASE scene_id="wall_post" item_id="description"  phrase_id="money_box">
+	  <EN>
+		<TEXT>There's an incredible prize in the broken piggy bank!</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>В разбитой копилке меня ждала невероятная награда!</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Il y a un prix incroyable dans la tirelire cassée!</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>¡Hay un premio increíble en la hucha rota!</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Há um prêmio incrível no cofrinho quebrado!</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>In dem kaputten Sparschwein steckt ein unglaublicher Preis!</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>		
+	
+	
+	
+	
+	<DYNAMIC_PHRASE scene_id="wall_post" item_id="title"  phrase_id="rating_day">
+	  <EN>
+		<TEXT>The prize is received!</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Награда получена!</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Le prix est reçu!</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>El premio es recibido!</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>O prêmio é recebido!</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Der Preis ist eingegangen!</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>	
+	
+	<DYNAMIC_PHRASE scene_id="wall_post" item_id="description"  phrase_id="rating_day">
+	  <EN>
+		<TEXT>I received an award according to the daily rating results!</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>По результатам дневного рейтинга я получил награду!</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>J'ai reçu un prix en fonction des résultats de rating quotidiens!</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>¡Recibí un premio de acuerdo con los resultados de la calificación diaria!</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Recebi um prêmio de acordo com os resultados da classificação diária!</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Ich habe eine Auszeichnung gemäß den täglichen Bewertungsergebnissen erhalten!</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>		
+	
+	
+	<DYNAMIC_PHRASE scene_id="wall_post" item_id="title"  phrase_id="rating_week">
+	  <EN>
+		<TEXT>The prize is received!</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Награда получена!</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Le prix est reçu!</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>El premio es recibido!</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>O prêmio é recebido!</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Der Preis ist eingegangen!</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>	
+	
+	<DYNAMIC_PHRASE scene_id="wall_post" item_id="description"  phrase_id="rating_week">
+	  <EN>
+		<TEXT>I received an award according to the weekly rating results!</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>По результатам недельного рейтинга я получил награду!</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>J'ai reçu un prix en fonction des résultats de rating hebdomadaire!</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>¡Recibí un premio de acuerdo con los resultados de la calificación semanal!</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Eu recebi um prêmio de acordo com os resultados da classificação semanal!</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Ich habe eine Auszeichnung gemäß den wöchentlichen Bewertungsergebnissen erhalten!</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>	
+
+
+	<DYNAMIC_PHRASE scene_id="wall_post" item_id="title"  phrase_id="win">
+	  <EN>
+		<TEXT>Level cleared!</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Уровень пройден!</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Niveau réussi!</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Nivel pasado!</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Nível passado!</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Level abgeschlossen!</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>	
+	
+	<DYNAMIC_PHRASE scene_id="wall_post" item_id="description"  phrase_id="win">
+	  <EN>
+		<TEXT>I've managed to beat one more level! But there are a lot of them!</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Мне удалось завершить еще один уровень! Но сколько еще впереди!</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>J'ai réussi à battre un niveau de plus! Mais il y en a beaucoup!</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>¡He logrado superar un nivel más! ¡Pero hay muchos de ellos!</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Consegui vencer mais um nível! Mas existem muitos!</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Ich habe es geschafft, ein weiteres Level zu schlagen! Aber es gibt viele davon!</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>	
+
+	<DYNAMIC_PHRASE scene_id="wall_post" item_id="title"  phrase_id="win_3star">
+	  <EN>
+		<TEXT>Level cleared!</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Уровень пройден!</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Niveau réussi!</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Nivel pasado!</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Nível passado!</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Level abgeschlossen!</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>	
+	
+	<DYNAMIC_PHRASE scene_id="wall_post" item_id="description"  phrase_id="win_3star">
+	  <EN>
+		<TEXT>I've managed to complete the level with the maximum result!</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Мне удалось завершить уровень с максимальным результатом!</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>J'ai réussi à terminer le niveau avec le résultat maximum!</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>¡He logrado completar el nivel con el máximo resultado!</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Consegui completar o nível com o resultado máximo!</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Ich habe es geschafft, das Level mit dem maximalen Ergebnis zu beenden!</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>	
+	
+	<DYNAMIC_PHRASE scene_id="game_tip" item_id="tip"  phrase_id="shop_lock">
+		<EN>
+			<TEXT>Will be available tomorrow</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Станет доступно завтра</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Sera disponible demain</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Estará disponible mañana</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Estará disponível amanhã</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Wird morgen verfügbar sein</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="options"  phrase_id="7">
+		<EN>
+			<TEXT>More games</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Ещё игры</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Plus de jeux</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>		
+		<DE>
+			<TEXT>Mehr Spiele</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>	 
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="more_games"  phrase_id="1">
+		<EN>
+			<TEXT>Play more our games!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Сыграйте в другие наши игры!</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Jouez plus à nos jeux!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT></TEXT>
+			<SIZE>0</SIZE>		
+		</PT>		
+		<DE>
+			<TEXT>Spielen Sie mehr unserer Spiele!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="shop"  phrase_id="2">
+		<EN>
+			<TEXT>You don't have enough coins. Buy coins in our store</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>У вас недостаточно монет.</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Vous n'avez pas assez de pièces de monnaie.</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Comprar monedas</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Comprar moedas</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Sie haben nicht genug Münzen. Kaufen Münzen in unserem Laden</TEXT>
+			<SIZE>-2</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>	
+	
+	<DYNAMIC_PHRASE scene_id="game_tip" item_id="tip"  phrase_id="tasks">
+		<EN>
+			<TEXT>Now everyday tasks are available. Get the valuable chest for their fulfillment</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Теперь вам доступны ежедневные задания. За их выполнение вы получите ценный сундук</TEXT>
+			<SIZE>-4</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Maintenant des tâches quotidiennes sont disponibles pour vous. Vous obtiendrez un coffre royal pour chaque tâche réalisée</TEXT>
+			<SIZE>-6</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Jetzt können Sie auf die Tagesmissionen zugreifen. Für deren Erfüllen, bekommen sie eine Königstruhe</TEXT>
+			<SIZE>-4</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="button_free"  phrase_id="1">
+		<EN>
+			<TEXT>Free</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Бесплатно</TEXT>
+			<SIZE>-6</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Gratuit</TEXT>
+			<SIZE>-3</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Frei</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="free_coins"  phrase_id="1">
+		<EN>
+			<TEXT>Free coins</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Бесплатные монеты</TEXT>
+			<SIZE>-2</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Pièces gratuites</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Kostenlose Münzen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>	
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="free_coins"  phrase_id="2">
+		<EN>
+			<TEXT>Ads coins</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Монеты за рекламу</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Annonces pièces</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Anzeigen Münzen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>	
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="free_coins"  phrase_id="3">
+	  <EN>
+		<TEXT>Coins mine</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Шахта монет</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Mine de monnaie</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Münze meins</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="free_coins"  phrase_id="4">
+		<EN>
+			<TEXT>Tasks</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Задания</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Tâches</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Aufgaben</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_tip" item_id="tip"  phrase_id="money">
+		<EN>
+			<TEXT>These are coins you earned</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Это заработанные вами монеты</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Ce sont des pièces que vous avez gagnées</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Estas son monedas que ganaste</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Estas são moedas que você ganhou</TEXT>
+			<SIZE>0</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Dies sind Münzen, die Sie verdient haben.</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	
+			<DYNAMIC_PHRASE scene_id="game_windows" item_id="no_video"  phrase_id="1">
+	  <EN>
+		<TEXT>Continue</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Продолжить</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Continuer</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Continuar</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Continuar</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Fortzufahren</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="no_video"  phrase_id="2">
+	   <EN>
+	  <TEXT>Unfortunately, there're currently no videos available, please try again later!</TEXT>
+	  <SIZE>0</SIZE>  
+	   </EN>
+	   <RU>
+	  <TEXT>К сожалению, сейчас нет доступных видео, попробуйте немного позже!</TEXT>
+	  <SIZE>0</SIZE>
+	   </RU>
+			  <FR>
+	  <TEXT>Malheureusement, il n'y a pas de vidéos disponibles maintenant, réessayez plus tard!</TEXT>
+	  <SIZE>0</SIZE>  
+	   </FR>
+			  <ES>
+	  <TEXT>Desafortunadamente, no hay videos disponibles ahora, ¡inténtalo de nuevo más tarde!</TEXT>
+	  <SIZE>0</SIZE>  
+	   </ES>
+			  <PT>
+	  <TEXT>Infelizmente, não há vídeos disponíveis agora, tente novamente mais tarde!</TEXT>
+	  <SIZE>0</SIZE>  
+	   </PT>
+			  <DE>
+	  <TEXT>Leider sind derzeit keine Videos verfügbar. Versuchen Sie es später erneut.</TEXT>
+	  <SIZE>0</SIZE>  
+	   </DE>
+    </DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_tip" item_id="no_money"  phrase_id="1">
+		<EN>
+			<TEXT>You don't have enough coins</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>У вас не хватило монет</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Vous n’avez pas assez de pièces</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Sie haben nicht genügend Münzen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="video_reward"  phrase_id="1">
+	  <EN>
+		<TEXT>Video reward</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Награда за видео</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Récompense vidéo</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Video Belohnung</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="video_reward"  phrase_id="2">
+	  <EN>
+		<TEXT>You'll get</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Вы получите</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Tu auras</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Du wirst kriegen</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="video_reward"  phrase_id="3">
+	  <EN>
+		<TEXT>for watching the video</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>за просмотр видео</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>pour regarder une vidéo</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>zum Ansehen eines Videos</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="video_reward"  phrase_id="4">
+	  <EN>
+		<TEXT>Watch next one</TEXT>
+		<SIZE>2</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Посмотреть следующее</TEXT>
+		<SIZE>-2</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Regardez le prochain</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Schau dir den nächsten an</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="video_reward"  phrase_id="5">
+	  <EN>
+		<TEXT>You can watch ads again tomorrow</TEXT>
+		<SIZE>2</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Вы можете посмотреть рекламу завтра</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Vous pouvez revoir les annonces demain</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Sie können morgen wieder Anzeigen sehen</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="video_reward"  phrase_id="6">
+	  <EN>
+		<TEXT>You'll get coins for watching the video</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Вы получите монеты за просмотр видео</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+		  <FR>
+		<TEXT>Tu auras pièces de monnaie pour regarder une vidéo</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+		  <DE>
+		<TEXT>Du wirst kriegen Münzen zum Ansehen eines Videos</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="map_prize"  phrase_id="1">
+	  <EN>
+		<TEXT>Thanks</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Спасибо</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+          <FR>
+		<TEXT>Merci</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+          <ES>
+		<TEXT>Gracias</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+          <PT>
+		<TEXT>Obrigado</TEXT>
+		<SIZE>0</SIZE>		
+	  </PT>
+          <DE>
+		<TEXT>Danke</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+    </DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="event" item_id="prize_desc"  phrase_id="booster">
+		<EN>
+			<TEXT>Free boosters!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Бесплатные бустеры!</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Boosters gratuits!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Kostenlose Booster!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>  
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="event" item_id="prize_desc"  phrase_id="money">
+		<EN>
+			<TEXT>%val coins!</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>%val монет!</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>%val pièces de monnaie!</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>%val Münzen!</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>  
+	</DYNAMIC_PHRASE>
+	
+	<DYNAMIC_PHRASE scene_id="game_tip" item_id="tip"  phrase_id="star_chest">
+		<EN>
+			<TEXT>Collect stars to open the star chest</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Собирайте звезды, чтобы открыть звездный сундук</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Collectez des étoiles pour ouvrir le coffre à étoiles</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Sammle Sterne, um die Sternenkiste zu öffnen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>	
+	
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="star_chest_open"  phrase_id="1">
+		<EN>
+			<TEXT>Tap to choose your reward!</TEXT>
+			<SIZE>-4</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Нажмите, чтобы выбрать свою награду!</TEXT>
+			<SIZE>-10</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Appuyez pour choisir votre récompense!</TEXT>
+			<SIZE>-10</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Tippen Sie hier, um Ihre Belohnung auszuwählen!</TEXT>
+			<SIZE>-12</SIZE>		
+		</DE>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="privacy_policy"  phrase_id="1">
+		<EN>
+			<TEXT>Privacy Policy</TEXT>
+			<SIZE>-10</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Политика \nконфиденциальности</TEXT>
+			<SIZE>-12</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Politique de \nconfidentialité</TEXT>
+			<SIZE>-16</SIZE>		
+		</FR>
+		<ES>
+			<TEXT>Política de privacidad</TEXT>
+			<SIZE>-3</SIZE>		
+		</ES>
+		<PT>
+			<TEXT>Política de Privacidade</TEXT>
+			<SIZE>-3</SIZE>		
+		</PT>
+		<DE>
+			<TEXT>Datenschutz-\nBestimmungen</TEXT>
+			<SIZE>-12</SIZE>		
+		</DE>
+		<IT>
+			<TEXT>Politica sulla riservatezza</TEXT>
+			<SIZE>-5</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+</MAP>

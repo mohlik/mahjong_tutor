@@ -1,0 +1,27 @@
+
+.container {
+	position: relative;
+	width: 100%;			
+}
+	
+
+	
+.container .btn {
+	display: inline-block;
+	width: 301px;
+	height: 95px; 
+	background: url(./button_resume.png) no-repeat; 
+			
+	position: absolute;
+	top: 800px;
+	left: 400px;
+	align: center;
+		
+	z-index: 100;			
+	cursor: pointer;
+	border: none;	
+	outline: none;
+}
+	
+	
+			

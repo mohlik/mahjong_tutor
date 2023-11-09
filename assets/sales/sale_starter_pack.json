@@ -1,0 +1,51 @@
+﻿{"frames": {
+
+"icon":
+{
+	"frame": {"x":589,"y":670,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"panel":
+{
+	"frame": {"x":331,"y":606,"w":257,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":90},
+	"sourceSize": {"w":257,"h":90}
+},
+"percent":
+{
+	"frame": {"x":1,"y":606,"w":329,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":92},
+	"sourceSize": {"w":329,"h":92}
+},
+"timer":
+{
+	"frame": {"x":589,"y":606,"w":178,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":63},
+	"sourceSize": {"w":178,"h":63}
+},
+"window_back":
+{
+	"frame": {"x":1,"y":1,"w":685,"h":604},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":685,"h":604},
+	"sourceSize": {"w":685,"h":604}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "sale_starter_pack.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

@@ -1,0 +1,51 @@
+﻿{"frames": {
+
+"icon":
+{
+	"frame": {"x":527,"y":718,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"panel":
+{
+	"frame": {"x":269,"y":654,"w":257,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":90},
+	"sourceSize": {"w":257,"h":90}
+},
+"percent":
+{
+	"frame": {"x":1,"y":654,"w":267,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":267,"h":90},
+	"sourceSize": {"w":267,"h":90}
+},
+"timer":
+{
+	"frame": {"x":527,"y":654,"w":178,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":63},
+	"sourceSize": {"w":178,"h":63}
+},
+"window_back":
+{
+	"frame": {"x":1,"y":1,"w":693,"h":652},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":693,"h":652},
+	"sourceSize": {"w":693,"h":652}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "sale_looser_pack.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}
